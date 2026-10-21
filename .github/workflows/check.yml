@@ -1,0 +1,25 @@
+name: 연결 확인
+
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/check.yml", "scripts/check_accounts.py"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - working-directory: scripts
+        env:
+          IG_TOKEN_NEWS: ${{ secrets.IG_TOKEN_NEWS }}
+          IG_USER_ID_NEWS: ${{ secrets.IG_USER_ID_NEWS }}
+          IG_TOKEN_ZZAL: ${{ secrets.IG_TOKEN_ZZAL }}
+          IG_USER_ID_ZZAL: ${{ secrets.IG_USER_ID_ZZAL }}
+          IG_TOKEN_PICK: ${{ secrets.IG_TOKEN_PICK }}
+          IG_USER_ID_PICK: ${{ secrets.IG_USER_ID_PICK }}
+        run: python check_accounts.py
