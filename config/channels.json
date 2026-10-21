@@ -1,0 +1,33 @@
+{
+  "site_base": "https://OWNER.github.io/0315-media",
+  "disclosure": "[광고] 이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+  "channels": {
+    "A": {
+      "slug": "news",
+      "ig_username": "0315news",
+      "title": "오늘의 생활뉴스",
+      "sub_id": "ig0315news",
+      "token_secret": "IG_TOKEN_NEWS",
+      "user_id_secret": "IG_USER_ID_NEWS",
+      "default_time": "20:00"
+    },
+    "B": {
+      "slug": "zzal",
+      "ig_username": "0315_zzal",
+      "title": "0315 짤",
+      "sub_id": "ig0315zzal",
+      "token_secret": "IG_TOKEN_ZZAL",
+      "user_id_secret": "IG_USER_ID_ZZAL",
+      "default_time": "21:00"
+    },
+    "C": {
+      "slug": "pick",
+      "ig_username": "0315_pick",
+      "title": "0315 픽",
+      "sub_id": "ig0315pick",
+      "token_secret": "IG_TOKEN_PICK",
+      "user_id_secret": "IG_USER_ID_PICK",
+      "default_time": "21:30"
+    }
+  }
+}
