@@ -22,7 +22,7 @@ h1{{font-size:22px;margin:0 0 4px}} .handle{{color:var(--muted);margin:0 0 16px}
 h2{{font-size:14px;color:var(--muted);margin:24px 0 8px;font-weight:600}}
 a.item{{display:flex;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:8px;color:inherit;text-decoration:none}}
 .no{{flex:none;width:32px;height:32px;border-radius:8px;background:var(--accent);color:#fff;display:grid;place-items:center;font-weight:700}}
-.name{{font-weight:600}} .empty{{color:var(--muted)}}
+.name{{font-weight:600}} .name small{{color:var(--muted);font-weight:500;margin-left:6px}} .empty{{color:var(--muted)}}
 </style></head><body><main>
 <h1>{title}</h1><p class="handle">@{ig}</p>
 <div class="ad">{disclosure}</div>
@@ -43,7 +43,8 @@ def build() -> list[str]:
         for post in sorted(groups[key], key=lambda p: p["date"], reverse=True)[:30]:
             items = "".join(
                 f'<a class="item" href="{html.escape(p["affiliate_url"])}" rel="sponsored nofollow">'
-                f'<span class="no">{p["no"]}</span><span class="name">{html.escape(p["name"])}</span></a>'
+                f'<span class="no">{p["no"]}</span><span class="name">{html.escape(p["name"])}'
+                f'{(" <small>품번 " + html.escape(p["code"]) + "</small>") if p.get("code") else ""}</span></a>'
                 for p in post["products"] if p.get("affiliate_url"))
             title = html.escape(post.get("title", ""))
             sections.append(f"<h2>{post['date']} · {title}</h2>{items}")
