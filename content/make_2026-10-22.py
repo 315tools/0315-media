@@ -111,45 +111,43 @@ write("A", a_slides, {
     ],
 })
 
-# ───────────── B · 커뮤니티 글 형식 공감짤 ─────────────
-B_CSS = """body{background:#e9ebef;color:#16181c}.ad{background:#16181c;color:#fff}
-.card{position:absolute;left:48px;right:48px;top:96px;bottom:118px;background:#fff;border-radius:22px;padding:44px 48px;display:flex;flex-direction:column;gap:22px;box-shadow:0 2px 0 #d5d9e0}
-.board{font-size:28px;font-weight:700;color:#4b6bfb}
-.title{font-size:58px;font-weight:900;letter-spacing:-1.5px;line-height:1.25}
-.meta{font-size:26px;color:#8a919c;border-bottom:2px solid #eef0f3;padding-bottom:20px}
-.text{font-size:40px;line-height:1.55;font-weight:500}
-.cmts{display:flex;flex-direction:column;gap:16px;margin-top:6px}
-.c{background:#f5f6f8;border-radius:14px;padding:18px 22px;font-size:36px;line-height:1.4;font-weight:600}
-.c i{font-style:normal;display:block;font-size:24px;color:#8a919c;font-weight:700;margin-bottom:4px}
-.c.best{background:#fff6d6;border:3px solid #ffd43b}.c.best i{color:#b07d00}
-.foot{position:absolute;left:48px;right:48px;bottom:34px;display:flex;justify-content:space-between;align-items:center;font-size:30px;font-weight:800}
-.foot span:last-child{color:#5b6573;font-size:28px}"""
+# ───────────── B · 투표형 공감짤 ─────────────
+B_CSS = """body{background:#ffe14d;color:#16181c}.ad{background:#16181c;color:#fff}
+.q{position:absolute;left:64px;right:64px;top:120px}
+.q small{display:inline-block;background:#16181c;color:#ffe14d;font-size:32px;font-weight:900;padding:8px 20px;border-radius:8px;margin-bottom:22px}
+.q h1{font-size:86px;font-weight:900;letter-spacing:-3px;line-height:1.15}
+.q p{font-size:36px;font-weight:700;margin-top:16px;color:#3a3a2a}
+.opts{position:absolute;left:64px;right:64px;top:520px;display:flex;flex-direction:column;gap:22px}
+.o{background:#fff;border:5px solid #16181c;border-radius:22px;padding:26px 30px;display:flex;align-items:center;gap:26px;box-shadow:0 8px 0 #16181c}
+.o b{flex:none;width:78px;height:78px;border-radius:50%;background:#16181c;color:#ffe14d;font-size:44px;display:grid;place-items:center}
+.o span{font-size:46px;font-weight:900;letter-spacing:-1px;line-height:1.25}.o em{display:block;font-style:normal;font-size:30px;font-weight:700;color:#6b6b5a}
+.foot{position:absolute;left:64px;right:64px;bottom:44px;display:flex;justify-content:space-between;align-items:center;font-size:34px;font-weight:900}
+.foot span:last-child{font-size:30px;color:#3a3a2a}"""
 b_slide = page(B_CSS, f"""<div class="ad">{AD}</div>
-<div class="card">
- <div class="board">익명 게시판 · 생활</div>
- <div class="title">보일러 언제부터 트세요?? 🥶</div>
- <div class="meta">익명 · 오늘 07:12</div>
- <div class="text">오늘 아침 체감 1도래요<br>근데 아직 10월이라 켜면 지는 거 같음…</div>
- <div class="cmts">
-  <div class="c"><i>익명1</i>11월 15일까지 버티는 게 국룰 아님?</div>
-  <div class="c"><i>익명2</i>우리 집은 엄마가 "아직 안 추워" 하심. 엄마는 전기요 위에 계심</div>
-  <div class="c"><i>익명3</i>창문에 뽁뽁이 붙였더니 2도 올라감 ㄹㅇ</div>
-  <div class="c best"><i>BEST · 익명4</i>보일러 대신 전기요 + 뽁뽁이 = 가스비 방어 1티어</div>
- </div>
+<div class="q"><small>📊 오늘의 투표</small><h1>첫 한파주의보 뜬 날,<br>보일러 언제 켬? 🥶</h1><p>오늘 아침 서울 체감 1℃</p></div>
+<div class="opts">
+ <div class="o"><b>1</b><span>오늘 바로 켰다<em>추운데 참는 게 더 손해</em></span></div>
+ <div class="o"><b>2</b><span>11월까지 버틴다<em>10월에 켜면 지는 거</em></span></div>
+ <div class="o"><b>3</b><span>엄마가 켜줄 때까지<em>우리 집 보일러 결정권자 따로 있음</em></span></div>
+ <div class="o"><b>4</b><span>전기요 + 뽁뽁이로 버틴다<em>가스비 방어 끝판왕</em></span></div>
 </div>
-<div class="foot"><span>※ 공감되면 친구 태그</span><span>@0315_zzal</span></div>""")
+<div class="foot"><span>👇 댓글에 번호로 투표</span><span>@0315_zzal</span></div>""")
 b_caption = f"""{DISC}
 
-첫 한파주의보 뜬 날 아침 국룰 토론 🥶
-여러분은 보일러 언제 트세요?
-1️⃣ 벌써 켬  2️⃣ 11월까지 버팀  3️⃣ 전기요로 겨울 남
+📊 첫 한파주의보 뜬 날, 보일러 언제 켬? 🥶
+댓글에 번호로 투표해주세요!
 
-🔗 짤 속 전기요·뽁뽁이 링크는 프로필에
-👥 우리 집 보일러 담당 태그
+1️⃣ 오늘 바로 켰다
+2️⃣ 11월까지 버틴다
+3️⃣ 엄마가 켜줄 때까지
+4️⃣ 전기요 + 뽁뽁이로 버틴다
 
-#광고 #공감짤 #보일러 #한파주의보 #자취 #가스비"""
+🔗 4번 전기요·뽁뽁이 링크는 프로필에
+👥 우리 집 보일러 결정권자 태그
+
+#광고 #투표 #공감 #보일러 #한파주의보 #가스비 #자취"""
 write("B", [b_slide], {
-    "title": "보일러 언제부터 트세요",
+    "title": "보일러 언제 켬? 투표",
     "caption": b_caption,
     "products": [
         {"no": 1, "name": "한일 탄소열선 전기요 (싱글)", "coupang_url": "https://www.coupang.com/vp/products/9150828084", "affiliate_url": ""},
