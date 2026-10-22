@@ -7,7 +7,7 @@ from __future__ import annotations
 
 import html
 
-from common import DOCS, iter_posts, load_config
+from common import DOCS, iter_posts, load_config, publish_time
 
 PAGE = """<!doctype html><html lang="ko"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -40,14 +40,14 @@ def build() -> list[str]:
             groups[post["channel"]].append(post)
     for key, ch in cfg["channels"].items():
         sections = []
-        for post in sorted(groups[key], key=lambda p: p["date"], reverse=True)[:30]:
+        for post in sorted(groups[key], key=lambda p: publish_time(p, cfg), reverse=True)[:30]:
             items = "".join(
                 f'<a class="item" href="{html.escape(p["affiliate_url"])}" rel="sponsored nofollow">'
                 f'<span class="no">{p["no"]}</span><span class="name">{html.escape(p["name"])}'
                 f'{(" <small>품번 " + html.escape(p["code"]) + "</small>") if p.get("code") else ""}</span></a>'
                 for p in post["products"] if p.get("affiliate_url"))
             title = html.escape(post.get("title", ""))
-            sections.append(f"<h2>{post['date']} · {title}</h2>{items}")
+            sections.append(f"<h2>{post['date']} {publish_time(post, cfg).strftime('%H:%M')} · {title}</h2>{items}")
         body = "".join(sections) or '<p class="empty">아직 올라온 상품이 없어요.</p>'
         page = PAGE.format(title=html.escape(ch["title"]), ig=ch["ig_username"],
                            disclosure=html.escape(cfg["disclosure"].replace("[광고] ", "광고 · ")), body=body)

@@ -38,7 +38,10 @@ def save_post(path: Path, data: dict) -> None:
 def publish_time(post: dict, cfg: dict) -> datetime:
     if post.get("publish_at"):
         return datetime.fromisoformat(post["publish_at"])
-    hh, mm = cfg["channels"][post["channel"]]["default_time"].split(":")
+    ch = cfg["channels"][post["channel"]]
+    slot = post.get("slot")
+    hhmm = ch["times"][slot - 1] if slot and ch.get("times") else ch["default_time"]
+    hh, mm = hhmm.split(":")
     d = datetime.fromisoformat(post["date"])
     return d.replace(hour=int(hh), minute=int(mm), tzinfo=KST)
 

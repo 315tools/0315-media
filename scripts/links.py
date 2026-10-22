@@ -16,10 +16,10 @@ from __future__ import annotations
 import re
 import sys
 
-from common import ROOT, iter_posts, load_config, save_post
+from common import ROOT, iter_posts, load_config, save_post, publish_time
 
 LINKS = ROOT / "links"
-ITEM_RE = re.compile(r"^- ([ABC])(\d+)\s")
+ITEM_RE = re.compile(r"^- ([ABC]\d?)-?(\d+)\s")  # "A-1", "A2-1" (예전 "A1"도 읽음)
 PARTNER_RE = re.compile(r"^\s*파트너스:\s*(\S*)")
 AFFILIATE_OK = re.compile(r"^https://(link\.coupang\.com|coupa\.ng|naver\.me|brandconnect\.naver\.com)/")
 
@@ -29,13 +29,15 @@ def make(date: str) -> str:
     lines = [f"# {date} 링크 입력",
              "", "각 상품의 '파트너스:' 뒤에 쿠팡 파트너스에서 만든 링크를 붙여넣고 저장(Commit)하세요.",
              "링크가 다 채워진 게시물만 정해진 시간에 발행됩니다.", ""]
-    for _, post in iter_posts():
+    for path, post in iter_posts():
         if post["date"] != date:
             continue
         ch = cfg["channels"][post["channel"]]
-        lines.append(f"## {post['channel']} · {ch['ig_username']} · {post['date']}")
+        key = path.parent.name
+        when = publish_time(post, cfg).strftime("%H:%M")
+        lines.append(f"## {key} · {ch['ig_username']} · {post['date']} {when}")
         for prod in post.get("products", []):
-            lines.append(f"- {post['channel']}{prod['no']} {prod['name']}")
+            lines.append(f"- {key}-{prod['no']} {prod['name']}")
             lines.append(f"  쿠팡: {prod.get('coupang_url', '')}")
             lines.append(f"  파트너스: {prod.get('affiliate_url', '')}")
         lines.append("")
@@ -69,11 +71,12 @@ def sync() -> list[str]:
                 continue
             dirty = False
             for prod in post.get("products", []):
-                url = entries.get((post["channel"], prod["no"]), "")
+                key = path.parent.name
+                url = entries.get((key, prod["no"]), "")
                 if not url or url == prod.get("affiliate_url"):
                     continue
                 if not AFFILIATE_OK.match(url):
-                    warnings.append(f"{date} {post['channel']}{prod['no']}: 파트너스 링크 형식이 아님 → {url}")
+                    warnings.append(f"{date} {key}-{prod['no']}: 파트너스 링크 형식이 아님 → {url}")
                     continue
                 prod["affiliate_url"] = url
                 dirty = True

@@ -2,7 +2,13 @@
 
 0315 미디어 3채널(@0315news · @0315_zzal · @0315_pick)의 **오늘자** 게시물을 만든다.
 발행은 GitHub Actions(publish.yml, 30분마다)가 한다: 시간이 됐고 링크가 다 채워진 게시물만 올라간다.
-기본 발행 시각: A 20:00 · B 21:00 · C 21:30 (KST). 채널 설정·문체는 config/channels.json.
+**채널마다 하루 2개(총 6개)**. 발행 시각(KST, config/channels.json 의 times):
+| 채널 | 1회차(slot 1, 폴더 A·B·C) | 2회차(slot 2, 폴더 A2·B2·C2) |
+| A 뉴스 | 08:00 | 20:00 |
+| B 짤 | 12:30 | 21:00 |
+| C 픽 | 12:00 | 21:30 |
+post.json 에 "slot": 1 또는 2 를 넣는다. 1회차와 2회차는 주제·상품을 다르게(같은 날 분야는 같아도 됨).
+1회차 시각이 이미 지난 뒤에 만들면 그 게시물은 만들자마자 올라가므로, 아침 9시 전에 끝내는 것이 좋다.
 
 ## 1. 오늘 분야 정하기
 config/channels.json 의 weekly_plan 에서 오늘 요일 분야(생활용품/식품/소형가전/특이한 상품)를 고른다.
@@ -24,11 +30,11 @@ config/channels.json 의 weekly_plan 에서 오늘 요일 분야(생활용품/�
 - 크롬을 쓸 수 없으면: 상품 후보만 정하고 링크 칸을 비워 둔 채 진행, 마지막에 사용자에게 링크 입력 요청.
 
 ## 4. 만들기
-- content/make_2026-10-22.py 를 복사해 content/make_<날짜>.py 로 만들고 내용·상품·사진(img(상품번호))만 바꾼다.
+- content/make_2026-10-22.py 를 복사해 content/make_<날짜>.py 로 만들고(write() 의 폴더 이름을 A·A2 처럼, post 에 "slot" 추가) 내용·상품·사진(img(상품번호))만 바꾼다.
   디자인(CSS)·광고 표시(맨 위 광고 띠, 캡션 첫 줄 [광고] 문구, 첫 해시태그 #광고)는 그대로 유지.
 - 실행: python3 content/make_<날짜>.py
-- 렌더: python3 scripts/render.py docs/posts/<날짜>/A docs/posts/<날짜>/B docs/posts/<날짜>/C  (make 후 반드시 셋 다)
-- 링크 파일: python3 scripts/links.py make <날짜> → links/<날짜>.md 의 '파트너스:' 칸 채우기 → python3 scripts/links.py sync
+- 렌더: python3 scripts/render.py docs/posts/<날짜>/{A,B,C,A2,B2,C2}  (make 후 반드시 여섯 개 모두)
+- 링크 파일: python3 scripts/links.py make <날짜> → links/<날짜>.md 의 '파트너스:' 칸 채우기 (항목 이름은 A-1, A2-1 형식) → python3 scripts/links.py sync
 - 렌더된 jpg 몇 장을 직접 열어 겹침·잘림·오탈자 확인.
 
 ## 5. 올리기
