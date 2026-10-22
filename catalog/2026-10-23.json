@@ -1,0 +1,54 @@
+{
+  "searches": {
+    "제습제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6673431100,
+          "name": "물먹는뽀송 매일매일이 뽀송한 스탠드형 제습제 빅 본품, 250g, 50개",
+          "price": 67250,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6673431100.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6673431100",
+          "affiliate_url": "https://link.coupang.com/a/h3buBJA2FM"
+        },
+        {
+          "productId": 6386250671,
+          "name": "물먹는뽀송 옷걸이형 제습제 본품, 200g, 50개",
+          "price": 59500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/6386250671.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6386250671",
+          "affiliate_url": "https://link.coupang.com/a/h3buHVVUM8"
+        },
+        {
+          "productId": 8874782036,
+          "name": "가성비가브랜드다 습기타파 습기제거제 대용량 제습제",
+          "price": 16900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8874782036.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8874782036",
+          "affiliate_url": "https://link.coupang.com/a/h3buQoeR3c"
+        },
+        {
+          "productId": 230142363,
+          "name": "홈플래닛 습기제거제",
+          "price": 24990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/230142363.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/230142363",
+          "affiliate_url": "https://link.coupang.com/a/h3buWvKyXs"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
