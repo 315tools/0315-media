@@ -38,6 +38,11 @@
     "06.jpg",
     "07.jpg"
   ],
-  "result": {},
-  "publish_at": "2026-10-22T13:30:00+09:00"
+  "result": {
+    "error": "HTTP 400: Media ID is not available",
+    "at": "2026-10-22T13:36:25+09:00"
+  },
+  "publish_at": "2026-10-22T13:30:00+09:00",
+  "status": "failed",
+  "attempts": 1
 }
