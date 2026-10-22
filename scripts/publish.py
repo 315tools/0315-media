@@ -98,7 +98,14 @@ def publish(post: dict, folder_rel: str, cfg: dict) -> str:
         cid = _check(requests.post(f"{base}/media", data={
             "media_type": "CAROUSEL", "children": ",".join(children), "caption": caption, "access_token": token}, timeout=TIMEOUT))["id"]
     wait_container(cid, token)
-    return _check(requests.post(f"{base}/media_publish", data={"creation_id": cid, "access_token": token}, timeout=TIMEOUT))["id"]
+    # 처리 완료 직후에는 "Media ID is not available" 이 잠깐 나올 수 있어 몇 번 다시 시도한다
+    for attempt in range(5):
+        try:
+            return _check(requests.post(f"{base}/media_publish", data={"creation_id": cid, "access_token": token}, timeout=TIMEOUT))["id"]
+        except PublishError as e:
+            if "not available" not in str(e) or attempt == 4:
+                raise
+            time.sleep(15)
 
 
 def due_posts(cfg: dict):
