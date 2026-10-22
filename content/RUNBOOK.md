@@ -42,6 +42,10 @@ config/channels.json 의 weekly_plan 에서 오늘 요일 분야(생활용품/�
 - 링크 기록: python3 scripts/links.py make <날짜> (post.json 에 이미 들어간 링크가 그대로 적힘). 비어 있는 칸이 없어야 발행된다.
 - 렌더된 jpg 몇 장을 직접 열어 겹침·잘림·오탈자 확인.
 
+## 구매 안내 문구 (현재 방식)
+- **프로필 링크만 안내한다.** "댓글에 '링크' 남기면 DM" 문구는 쓰지 않는다(자동 DM 아직 없음). C 의 구매방법 장도 "프로필 링크 → 품번 검색" 1가지로.
+- 자동 DM 이 연결되면 이 항목을 바꾼다.
+
 ## 5. 올리기
 git add -A; git commit; git pull --rebase; git push. (커밋 메시지 끝 Co-Authored-By 줄 유지)
 미리보기: python3 scripts/preview.py <날짜> <출력.html> → Artifact 로 게시해 사용자에게 보여 준다.
