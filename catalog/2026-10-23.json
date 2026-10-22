@@ -48,6 +48,475 @@
           "affiliate_url": "https://link.coupang.com/a/h3buWvKyXs"
         }
       ]
+    },
+    "즉석밥": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9052582961,
+          "name": "오뚜기 흰밥",
+          "price": 10300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9052582961.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9052582961",
+          "affiliate_url": "https://link.coupang.com/a/h4jzFbOuei"
+        },
+        {
+          "productId": 8765835567,
+          "name": "동원 양반 100밥 130g 4종기획세트(찰진밥6+오미밥6+현미밥6+흑미밥6), 130g, 24개",
+          "price": 24980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8765835567.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8765835567",
+          "affiliate_url": "https://link.coupang.com/a/h4jzLHS23g"
+        },
+        {
+          "productId": 7351987688,
+          "name": "더미식 백미밥, 210g, 24개",
+          "price": 25980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7351987688.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7351987688",
+          "affiliate_url": "https://link.coupang.com/a/h4jzRwq8Gq"
+        },
+        {
+          "productId": 8693275579,
+          "name": "오뚜기 든든쌀밥",
+          "price": 31980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8693275579.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8693275579",
+          "affiliate_url": "https://link.coupang.com/a/h4jzXU3tme"
+        }
+      ]
+    },
+    "누룽지": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8574402406,
+          "name": "배대감 국산 100% 가마솥 누룽지, 2.5kg, 1개",
+          "price": 10990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8574402406.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8574402406",
+          "affiliate_url": "https://link.coupang.com/a/h4jAeZ0jGm"
+        },
+        {
+          "productId": 8834531808,
+          "name": "국산100% 직접 도정한 우리쌀로 만든 구수하게 끓여 먹는 형제곳간 속편한 누룽지, 3kg, 1개",
+          "price": 14520,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8834531808.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8834531808",
+          "affiliate_url": "https://link.coupang.com/a/h4jApwGFHg"
+        },
+        {
+          "productId": 8005974543,
+          "name": "박씨네누룽지 쌀 누룽지, 150g, 10개",
+          "price": 22900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8005974543.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8005974543",
+          "affiliate_url": "https://link.coupang.com/a/h4jAAavOIm"
+        },
+        {
+          "productId": 7773684748,
+          "name": "오뚜기옛날 구수한 끓여먹는 누룽지",
+          "price": 18000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7773684748.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7773684748",
+          "affiliate_url": "https://link.coupang.com/a/h4jAPpen2i"
+        },
+        {
+          "productId": 8290327106,
+          "name": "오뚜기옛날 실쏙 구수한 누룽지",
+          "price": 9920,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8290327106.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8290327106",
+          "affiliate_url": "https://link.coupang.com/a/h4jAVB6CoS"
+        }
+      ]
+    },
+    "혼합잡곡": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 1848953441,
+          "name": "대구농산 국산 혼합 17곡, 4kg, 1개",
+          "price": 18900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/1848953441.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1848953441",
+          "affiliate_url": "https://link.coupang.com/a/h4jBcPFYBw"
+        },
+        {
+          "productId": 9697517316,
+          "name": "대구농산 매일한끼 혼합 17곡, 5kg, 2개",
+          "price": 15900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9697517316.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9697517316",
+          "affiliate_url": "https://link.coupang.com/a/h4jBqHQ6HA"
+        },
+        {
+          "productId": 9291622924,
+          "name": "한끼농산 혼합잡곡 17곡 10kg (5kgx2봉)",
+          "price": 16900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9291622924.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9291622924",
+          "affiliate_url": "https://link.coupang.com/a/h4jBvmoVAi"
+        },
+        {
+          "productId": 9460141830,
+          "name": "현대농산 렌틸콩 귀리혼합 20곡 5kg",
+          "price": 16800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9460141830.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9460141830",
+          "affiliate_url": "https://link.coupang.com/a/h4jBCADeou"
+        },
+        {
+          "productId": 6495720864,
+          "name": "현대농산 균형 혼합 18곡 2kg",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/6495720864.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6495720864",
+          "affiliate_url": "https://link.coupang.com/a/h4jBMOrPqe"
+        }
+      ]
+    },
+    "햅쌀 10kg": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 9719241632,
+          "name": "[26년 햅쌀] 대왕님표 여주쌀 진상미 [백화점 납품용 프리미엄쌀], 10kg, 1개, 상등급",
+          "price": 62800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9719241632.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9719241632",
+          "affiliate_url": "https://link.coupang.com/a/h4jB2Z9rmm"
+        },
+        {
+          "productId": 8991289168,
+          "name": "26년햅쌀 골드퀸3호 수향미10kg 상등급, 상등급, 1개, 10kg",
+          "price": 41900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8991289168.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8991289168",
+          "affiliate_url": "https://link.coupang.com/a/h4jCeawB2W"
+        },
+        {
+          "productId": 6905458837,
+          "name": "강화군농협 강화섬쌀 2026년산 햅쌀 삼광미플러스 백미 특등급, 특등급, 10kg, 1개",
+          "price": 36900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/6905458837.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6905458837",
+          "affiliate_url": "https://link.coupang.com/a/h4jClW9o8i"
+        },
+        {
+          "productId": 166996432,
+          "name": "곰곰 2026년산 햅쌀 소중한 우리쌀 상등급",
+          "price": 34990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/166996432.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/166996432",
+          "affiliate_url": "https://link.coupang.com/a/h4jCqR9XyK"
+        },
+        {
+          "productId": 7646561681,
+          "name": "임금님표이천 GAP 인증 이천쌀 특등급",
+          "price": 46900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7646561681.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7646561681",
+          "affiliate_url": "https://link.coupang.com/a/h4jCv1NYrI"
+        },
+        {
+          "productId": 9744285085,
+          "name": "천수만 2026년산 햅쌀 간척지쌀 백미 상등급",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9744285085.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9744285085",
+          "affiliate_url": "https://link.coupang.com/a/h4jCA5QShE"
+        }
+      ]
+    },
+    "유자차": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 345075023,
+          "name": "(고흥식품) 화학 첨가물이 없는 100% 통 유자차, 2kg, 1개입, 1개",
+          "price": 20070,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/345075023.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/345075023",
+          "affiliate_url": "https://link.coupang.com/a/h4jCQ24WAu"
+        },
+        {
+          "productId": 96760,
+          "name": "담터 꿀유자차",
+          "price": 6540,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/96760.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/96760",
+          "affiliate_url": "https://link.coupang.com/a/h4jCVMM4fA"
+        },
+        {
+          "productId": 2528304,
+          "name": "꽃샘 꿀유자차 S",
+          "price": 9960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/2528304.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2528304",
+          "affiliate_url": "https://link.coupang.com/a/h4jC2QIBvV"
+        },
+        {
+          "productId": 9319259,
+          "name": "자연생각 유자차",
+          "price": 7270,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9319259.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9319259",
+          "affiliate_url": "https://link.coupang.com/a/h4jC8a9nlk"
+        }
+      ]
+    },
+    "생강차": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9392103490,
+          "name": "[물 한방울 섞지않은] 100% 국산 선비비책 진짜 생강청",
+          "price": 14500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9392103490.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9392103490",
+          "affiliate_url": "https://link.coupang.com/a/h4jDoQ202S"
+        },
+        {
+          "productId": 1662993335,
+          "name": "청농 생강원액, 600ml, 1개입, 1개",
+          "price": 22000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/1662993335.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1662993335",
+          "affiliate_url": "https://link.coupang.com/a/h4jDup8xfE"
+        },
+        {
+          "productId": 9766455509,
+          "name": "평생비책 천연벌꿀 조청 국산 생강청 원액 100% 무설탕 생강차",
+          "price": 24900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9766455509.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766455509",
+          "affiliate_url": "https://link.coupang.com/a/h4jDyY8BVY"
+        },
+        {
+          "productId": 9342535004,
+          "name": "레드진저 생강차 [공식판매처]",
+          "price": 20000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9342535004.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9342535004",
+          "affiliate_url": "https://link.coupang.com/a/h4jDEUn1Oe"
+        },
+        {
+          "productId": 9671972162,
+          "name": "[물 안섞어 진한]무설탕 당 0% 알룰로스 함유 제로 생강청 생강차",
+          "price": 13900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9671972162.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9671972162",
+          "affiliate_url": "https://link.coupang.com/a/h4jDKZX3fg"
+        },
+        {
+          "productId": 9718350579,
+          "name": "안동 수제 생강청 생강엑기스 생강원액",
+          "price": 13180,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9718350579.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9718350579",
+          "affiliate_url": "https://link.coupang.com/a/h4jDYu27Pw"
+        }
+      ]
+    },
+    "호떡믹스": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9169972940,
+          "name": "백설찹쌀호떡믹스400g+누르개, 1세트, 400g",
+          "price": 10000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9169972940.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9169972940",
+          "affiliate_url": "https://link.coupang.com/a/h4jEfx5ucS"
+        },
+        {
+          "productId": 9693838791,
+          "name": "호떡믹스 1kg 소분 캠핑 간식용, 2개, 1kg",
+          "price": 8900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9693838791.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9693838791",
+          "affiliate_url": "https://link.coupang.com/a/h4jEtC2y9Q"
+        },
+        {
+          "productId": 1369157,
+          "name": "백설 찹쌀 호떡믹스",
+          "price": 5600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/1369157.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1369157",
+          "affiliate_url": "https://link.coupang.com/a/h4jEFNXkKy"
+        }
+      ]
+    },
+    "라면 멀티팩": {
+      "key": "B",
+      "items": [
+        {
+          "productId": 8230344328,
+          "name": "봉지라면 세트 신라면4 안성탕면4 진라면매운맛4 너구리4 짜파게티4 라면스틱4, 1세트",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8230344328.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8230344328",
+          "affiliate_url": "https://link.coupang.com/a/h4jEVqumY0"
+        },
+        {
+          "productId": 9619257911,
+          "name": "봉지라면 세트 안성탕면2 팔도비빔면2 신라면툼바2 신라면2 얼큰너구리2 짜파게티2 오징어짬뽕2 사리곰탕면2 멸치칼국수2 무파마탕면2, 1박스",
+          "price": 25900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9619257911.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9619257911",
+          "affiliate_url": "https://link.coupang.com/a/h4jE7fWaFo"
+        },
+        {
+          "productId": 9683737834,
+          "name": "봉지라면 낱개 22종 세트(신라면+너구리+열라면+사리곰탕+맛있는라면+나가사끼+진라면+짜파게티+안성탕면+멸치칼국수+팔도비빔면+틈새라면+삼양라면+불닭볶음면+참깨라면+짜왕+진비빔면 외), 1세트",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9683737834.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9683737834",
+          "affiliate_url": "https://link.coupang.com/a/h4jFcHKvSu"
+        },
+        {
+          "productId": 6595181278,
+          "name": "올따옴멀티라면 진매5+열라면5+스낵5+오동통4+참깨4+김치4",
+          "price": 21500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/6595181278.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6595181278",
+          "affiliate_url": "https://link.coupang.com/a/h4jFpnLC32"
+        },
+        {
+          "productId": 9609785267,
+          "name": "신라면 5봉 + 안성탕면 5봉 + 너구리 5봉 + 짜파게티 5봉 + 진라면 5봉 + 삼양라면 5봉",
+          "price": 19740,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9609785267.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9609785267",
+          "affiliate_url": "https://link.coupang.com/a/h4jFvN0Qyy"
+        },
+        {
+          "productId": 7216841891,
+          "name": "오뚜기 진라면 매운맛 멀티팩 120g",
+          "price": 13070,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7216841891.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7216841891",
+          "affiliate_url": "https://link.coupang.com/a/h4jFH1AoHQ"
+        }
+      ]
     }
   },
   "urls": []
