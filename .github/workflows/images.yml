@@ -17,10 +17,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests
-      - run: python scripts/fetch_images.py
+      - run: python scripts/fetch_images.py > ../assets/products/_log.txt 2>&1 || true
         working-directory: scripts
       - run: |
           git config user.name "0315-media bot"
           git config user.email "actions@users.noreply.github.com"
-          git add assets/products
+          git add assets/products -f
           git diff --cached --quiet || { git commit -m "상품 이미지 받기"; git pull --rebase; git push; }
