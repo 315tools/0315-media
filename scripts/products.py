@@ -78,7 +78,7 @@ def run(date: str) -> None:
         out["searches"][kw] = {"key": key, "items": rows}
         time.sleep(2)
     for u in req.get("urls", []):
-        if any(x["url"] == u["url"] for x in out["urls"]):
+        if any(x["url"] == u["url"] and x["key"] == u.get("key", "C") for x in out["urls"]):
             continue
         sub = cfg["channels"][u.get("key", "C")]["sub_id"]
         out["urls"].append({"key": u.get("key", "C"), "url": u["url"], "affiliate_url": link(u["url"], sub)})
