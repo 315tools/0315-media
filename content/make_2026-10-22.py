@@ -1,4 +1,5 @@
 """2026-10-22(목, 생활용품의 날) 게시물 3개 생성 → docs/posts/2026-10-22/{A,B,C}"""
+import base64
 import json
 from pathlib import Path
 
@@ -10,6 +11,12 @@ FONT = "'Noto Sans CJK KR','Noto Color Emoji',sans-serif"
 BASE = f"""*{{box-sizing:border-box;margin:0;padding:0}}html,body{{width:1080px;height:1350px;overflow:hidden}}
 body{{font-family:{FONT};position:relative;-webkit-font-smoothing:antialiased}}
 .ad{{position:absolute;left:0;right:0;top:0;height:64px;display:flex;align-items:center;padding:0 56px;font-size:27px;font-weight:700;z-index:5}}"""
+
+
+def img(pid):
+    """쿠팡 상품 대표 이미지(assets/products/<상품번호>.jpg)를 data URI로"""
+    data = (ROOT / "assets" / "products" / f"{pid}.jpg").read_bytes()
+    return "data:image/jpeg;base64," + base64.b64encode(data).decode()
 
 
 def page(css, body):
@@ -47,6 +54,7 @@ ul.chk{{list-style:none;display:flex;flex-direction:column;gap:22px}}ul.chk li{{
 ul.chk li:before{{content:'✓';position:absolute;left:0;top:0;width:46px;height:46px;border-radius:8px;background:{NAVY};color:#fff;font-size:32px;display:grid;place-items:center}}
 ol.prod{{list-style:none;display:flex;flex-direction:column;gap:20px}}ol.prod li{{display:flex;gap:24px;align-items:center;font-size:44px;font-weight:700;background:#f2f5f9;border-radius:14px;padding:22px 26px}}
 ol.prod b{{flex:none;width:64px;height:64px;border-radius:12px;background:{RED};color:#fff;display:grid;place-items:center;font-size:36px}}ol.prod span{{font-size:30px;color:{MUTE};font-weight:600;display:block;margin-top:4px}}
+ol.prod img{{flex:none;width:112px;height:112px;object-fit:contain;background:#fff;border-radius:12px;border:2px solid #e3e8ef}}
 .src{{position:absolute;left:72px;right:72px;bottom:96px;font-size:24px;color:{MUTE};border-top:2px solid #e3e8ef;padding-top:16px}}
 .foot{{position:absolute;left:72px;right:72px;bottom:40px;display:flex;justify-content:space-between;font-size:28px;font-weight:700;color:{MUTE}}}"""
 
@@ -78,11 +86,11 @@ a_slides = [
 <div class="box">내일(23일) 서울 낮 최고 <b class="hl">19℃</b> 안팎 예상</div>"""),
     a_slide(6, n, """<h2>지금 해두면 좋은 것</h2>
 <ul class="chk"><li>창문·현관 틈 외풍 막기</li><li>실내 습도 50% 맞추기</li><li>잠자리 보온부터 챙기기</li><li>두꺼운 외투 대신 얇게 겹쳐 입기</li></ul>""", src=False),
-    a_slide(7, n, """<h2>오늘 정리한 <span class="hl">겨울 채비템</span></h2>
-<ol class="prod"><li><b>1</b><div>3중 단열 뽁뽁이<span>창문 외풍·결로 막기</span></div></li>
-<li><b>2</b><div>20m 대용량 신소재 문풍지<span>창문·문틈 바람 차단</span></div></li>
-<li><b>3</b><div>초음파 가습기 4L<span>건조한 실내 습도 관리</span></div></li>
-<li><b>4</b><div>탄소열선 전기요<span>보일러 켜기 전 잠자리 보온</span></div></li></ol>
+    a_slide(7, n, f"""<h2>오늘 정리한 <span class="hl">겨울 채비템</span></h2>
+<ol class="prod"><li><b>1</b><img src="{img('320451654')}"><div>3중 단열 뽁뽁이<span>창문 외풍·결로 막기</span></div></li>
+<li><b>2</b><img src="{img('9192743442')}"><div>20m 대용량 신소재 문풍지<span>창문·문틈 바람 차단</span></div></li>
+<li><b>3</b><img src="{img('324788226')}"><div>초음파 가습기 4L<span>건조한 실내 습도 관리</span></div></li>
+<li><b>4</b><img src="{img('9150828084')}"><div>탄소열선 전기요<span>보일러 켜기 전 잠자리 보온</span></div></li></ol>
 <p class="lead" style="font-size:36px">🔗 프로필 링크 → 10/22 ①~④</p>""", src=False),
 ]
 a_caption = f"""{DISC}
@@ -120,6 +128,7 @@ B_CSS = """body{background:#ffe14d;color:#16181c}.ad{background:#16181c;color:#f
 .opts{position:absolute;left:64px;right:64px;top:520px;display:flex;flex-direction:column;gap:22px}
 .o{background:#fff;border:5px solid #16181c;border-radius:22px;padding:26px 30px;display:flex;align-items:center;gap:26px;box-shadow:0 8px 0 #16181c}
 .o b{flex:none;width:78px;height:78px;border-radius:50%;background:#16181c;color:#ffe14d;font-size:44px;display:grid;place-items:center}
+.o .ph{margin-left:auto;display:flex;gap:10px;flex:none}.o .ph img{width:104px;height:104px;object-fit:contain;background:#fff;border:3px solid #16181c;border-radius:14px}
 .o span{font-size:46px;font-weight:900;letter-spacing:-1px;line-height:1.25}.o em{display:block;font-style:normal;font-size:30px;font-weight:700;color:#6b6b5a}
 .foot{position:absolute;left:64px;right:64px;bottom:44px;display:flex;justify-content:space-between;align-items:center;font-size:34px;font-weight:900}
 .foot span:last-child{font-size:30px;color:#3a3a2a}"""
@@ -129,7 +138,7 @@ b_slide = page(B_CSS, f"""<div class="ad">{AD}</div>
  <div class="o"><b>1</b><span>오늘 바로 켰다<em>추운데 참는 게 더 손해</em></span></div>
  <div class="o"><b>2</b><span>11월까지 버틴다<em>10월에 켜면 지는 거</em></span></div>
  <div class="o"><b>3</b><span>엄마가 켜줄 때까지<em>우리 집 보일러 결정권자 따로 있음</em></span></div>
- <div class="o"><b>4</b><span>전기요 + 뽁뽁이로 버틴다<em>가스비 방어 끝판왕</em></span></div>
+ <div class="o"><b>4</b><span>전기요 + 뽁뽁이로 버틴다<em>가스비 방어 끝판왕</em></span><div class="ph"><img src="{img('9150828084')}"><img src="{img('320451654')}"></div></div>
 </div>
 <div class="foot"><span>👇 댓글에 번호로 투표</span><span>@0315_zzal</span></div>""")
 b_caption = f"""{DISC}
@@ -158,14 +167,16 @@ write("B", [b_slide], {
 # ───────────── C · 상품소개 (상위 계정 스타일) ─────────────
 C_CSS = """body{background:#1b1d22;color:#fff}.ad{background:#fff;color:#111}
 .hook{position:absolute;left:0;right:0;top:250px;text-align:center}.hook span{background:#000;color:#fff;font-size:44px;font-weight:800;padding:10px 26px;border-radius:6px}
-.big{position:absolute;left:40px;right:40px;top:360px;text-align:center;font-weight:900;letter-spacing:-4px;line-height:1.12;text-shadow:0 6px 0 rgba(0,0,0,.35)}
-.big .y{color:#ffe14d}.emo{position:absolute;left:0;right:0;bottom:250px;text-align:center;font-size:150px;letter-spacing:20px}
+.big{position:absolute;left:40px;right:40px;top:330px;text-align:center;font-weight:900;letter-spacing:-4px;line-height:1.12;text-shadow:0 6px 0 rgba(0,0,0,.35)}
+.big .y{color:#ffe14d}.trio{position:absolute;left:64px;right:64px;bottom:160px;display:flex;gap:24px;justify-content:center}
+.trio img{width:260px;height:260px;object-fit:contain;background:#fff;border-radius:24px;padding:16px}
 .num{position:absolute;left:64px;top:110px;font-size:120px;font-weight:900;color:#ffe14d;letter-spacing:-4px}
 .code{position:absolute;right:64px;top:140px;background:#ffe14d;color:#111;font-size:36px;font-weight:900;padding:10px 22px;border-radius:10px}
-.pemo{position:absolute;left:0;right:0;top:250px;text-align:center;font-size:190px;line-height:1}
-.pname{position:absolute;left:64px;right:64px;top:500px;font-size:72px;font-weight:900;letter-spacing:-2px;line-height:1.2}
-.pts{position:absolute;left:64px;right:64px;top:770px;display:flex;flex-direction:column;gap:20px}
-.pts div{font-size:44px;font-weight:700;line-height:1.35;padding-left:56px;position:relative}.pts div:before{content:'✔';position:absolute;left:0;color:#ffe14d}
+.photo{position:absolute;left:50%;top:250px;width:470px;height:470px;margin-left:-235px;background:#fff;border-radius:28px;padding:24px;box-shadow:0 18px 40px rgba(0,0,0,.45)}
+.photo img{width:100%;height:100%;object-fit:contain;display:block}
+.pname{position:absolute;left:64px;right:64px;top:760px;font-size:62px;font-weight:900;letter-spacing:-2px;line-height:1.2}
+.pts{position:absolute;left:64px;right:64px;top:930px;display:flex;flex-direction:column;gap:12px}
+.pts div{font-size:40px;font-weight:700;line-height:1.35;padding-left:56px;position:relative}.pts div:before{content:'✔';position:absolute;left:0;color:#ffe14d}
 .meta{position:absolute;left:64px;right:64px;bottom:150px;display:flex;gap:16px;flex-wrap:wrap}
 .meta span{background:#2c3038;border-radius:999px;padding:12px 24px;font-size:32px;font-weight:700}
 .foot{position:absolute;left:64px;right:64px;bottom:56px;display:flex;justify-content:space-between;font-size:30px;font-weight:700;color:#b9bec8}
@@ -184,24 +195,24 @@ def c_foot(right="옆으로 →"):
 c_cover = page(C_CSS, f"""<div class="ad">{AD}</div>
 <div class="hook"><span>첫 한파주의보 떴다면</span></div>
 <div class="big"><div style="font-size:150px">만원 이하</div><div class="y" style="font-size:170px">외풍차단템</div><div style="font-size:190px">BEST3</div></div>
-<div class="emo">🪟🚪🧊</div>{c_foot()}""")
+<div class="trio"><img src="{img('320451654')}"><img src="{img('9192743442')}"><img src="{img('9287063502')}"></div>{c_foot()}""")
 
 
-def c_prod(no, code, emo, name, pts, meta):
+def c_prod(no, code, pid, name, pts, meta):
     return page(C_CSS, f"""<div class="ad">{AD}</div>
 <div class="num">{no:02d}</div><div class="code">품번 {code}</div>
-<div class="pemo">{emo}</div><div class="pname">{name}</div>
+<div class="photo"><img src="{img(pid)}"></div><div class="pname">{name}</div>
 <div class="pts">{''.join(f'<div>{p}</div>' for p in pts)}</div>
 <div class="meta">{''.join(f'<span>{m}</span>' for m in meta)}</div>{c_foot()}""")
 
 
 c_slides = [
     c_cover,
-    c_prod(1, "0001", "🪟", "3중 단열 뽁뽁이<br>(국내생산)", ["창문에 붙이기만 하면 끝", "공기층 3겹으로 외풍·결로 차단", "민무늬라 어느 창에 붙여도 무난"],
+    c_prod(1, "0001", "320451654", "3중 단열 뽁뽁이<br>(국내생산)", ["창문에 붙이기만 하면 끝", "공기층 3겹으로 외풍·결로 차단", "민무늬라 어느 창에 붙여도 무난"],
            ["⭐ 리뷰 2.4만+", "💰 9천원 안팎", "🚀 내일 도착"]),
-    c_prod(2, "0002", "🚪", "신소재 대용량 문풍지<br>(20m 1롤)", ["창문·문틈에 붙여 들어오는 바람 차단", "20m라 창문 여러 곳에 나눠 쓰기", "길이에 맞춰 잘라 붙이는 방식"],
+    c_prod(2, "0002", "9192743442", "신소재 대용량 문풍지<br>(20m 1롤)", ["창문·문틈에 붙여 들어오는 바람 차단", "20m라 창문 여러 곳에 나눠 쓰기", "길이에 맞춰 잘라 붙이는 방식"],
            ["💰 7천원대", "📏 20m 1롤", "✂️ 잘라 쓰기"]),
-    c_prod(3, "0003", "🧊", "실리콘 틈새막이 테이프<br>(45mm × 5m)", ["반투명이라 창틀에 티 안 남", "길게 잘라 쓰는 테이프형", "3천원대로 가장 부담 없음"],
+    c_prod(3, "0003", "9287063502", "실리콘 틈새막이 테이프<br>(45mm × 5m)", ["반투명이라 창틀에 티 안 남", "길게 잘라 쓰는 테이프형", "3천원대로 가장 부담 없음"],
            ["⭐ 리뷰 1,300+", "💰 3천원대", "🚀 내일 도착"]),
     page(C_CSS, f"""<div class="ad">{AD}</div>
 <div class="howto"><h2>구매 방법 <span class="y">2가지</span></h2>
