@@ -9,10 +9,10 @@
       "sub_id": "ig0315news",
       "token_secret": "IG_TOKEN_NEWS",
       "user_id_secret": "IG_USER_ID_NEWS",
-      "default_time": "20:00",
+      "default_time": "18:00",
       "times": [
-        "08:00",
-        "20:00"
+        "12:00",
+        "18:00"
       ]
     },
     "B": {
@@ -22,10 +22,10 @@
       "sub_id": "ig0315zzal",
       "token_secret": "IG_TOKEN_ZZAL",
       "user_id_secret": "IG_USER_ID_ZZAL",
-      "default_time": "21:00",
+      "default_time": "18:30",
       "times": [
-        "12:30",
-        "21:00"
+        "12:20",
+        "18:30"
       ]
     },
     "C": {
@@ -35,10 +35,10 @@
       "sub_id": "ig0315pick",
       "token_secret": "IG_TOKEN_PICK",
       "user_id_secret": "IG_USER_ID_PICK",
-      "default_time": "21:30",
+      "default_time": "19:00",
       "times": [
-        "12:00",
-        "21:30"
+        "12:40",
+        "19:00"
       ]
     }
   },
@@ -57,5 +57,5 @@
     "B": "투표형 공감짤. 상황 질문 + 보기 3~4개(마지막 보기에 상품 연결), 댓글로 번호 투표. 결과 수치는 지어내지 않음. 커뮤니티는 소재 찾기용으로만 보고 캡처하지 않음",
     "C": "상위 상품소개 계정 스타일: 위 작은 후킹 띠 + 큰 제목(키워드 노랑) + BEST N, 상품마다 1장, 품번으로 프로필 링크 검색"
   },
-  "_slots": "하루 2회: 채널별 times[0](낮) · times[1](저녁). 같은 날 두 번째 게시물 폴더는 A2·B2·C2, post.json 의 slot 은 1 또는 2. slot 이 없으면 default_time"
+  "_slots": "하루 2회: 채널별 times[0](점심) · times[1](퇴근길). 같은 날 두 번째 게시물 폴더는 A2·B2·C2, post.json 의 slot 은 1 또는 2. slot 이 없으면 default_time"
 }
