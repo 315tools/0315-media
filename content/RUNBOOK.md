@@ -35,7 +35,7 @@ config/channels.json 의 weekly_plan 에서 오늘 요일 분야(생활용품/�
 - post.json 의 products[].affiliate_url 에 catalog 링크를 바로 넣는다(links/<날짜>.md 는 기록용으로 links.py make 후 그대로 커밋).
 
 ## 4. 만들기
-- content/make_2026-10-22.py 를 복사해 content/make_<날짜>.py 로 만들고(write() 의 폴더 이름을 A·A2 처럼, post 에 "slot" 추가) 내용·상품·사진(img(상품번호))만 바꾼다. img() 는 assets/products/<번호>.jpg 를 읽음.
+- content/make_2026-10-23.py 를 본떠 content/make_<날짜>.py 를 만든다(디자인 틀은 content/templates.py 에서 import, write(날짜, 폴더, 슬라이드, post), 링크는 catalog 에서 link(pid, 채널)로) 내용·상품·사진(img(상품번호))만 바꾼다. img() 는 assets/products/<번호>.jpg 를 읽음.
   디자인(CSS)·광고 표시(맨 위 광고 띠, 캡션 첫 줄 [광고] 문구, 첫 해시태그 #광고)는 그대로 유지.
 - 실행: python3 content/make_<날짜>.py
 - 렌더: python3 scripts/render.py docs/posts/<날짜>/{A,B,C,A2,B2,C2}  (make 후 반드시 여섯 개 모두)

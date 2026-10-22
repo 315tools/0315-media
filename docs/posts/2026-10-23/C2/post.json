@@ -1,0 +1,38 @@
+{
+  "title": "집콕 따뜻템 BEST3",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n일교차 15도 🌙 쌀쌀한 저녁 집콕 따뜻템 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 담터 꿀유자차 💛 품번 0007\n뜨거운 물에 타기만 하면 끝. 새콤달콤 유자 향.\n\n2. 국산 생강청 💛 품번 0008\n따뜻한 물에 한 스푼. 우유·홍차에 넣어도 좋아요.\n\n3. 백설 찹쌀 호떡믹스 💛 품번 0009\n프라이팬 하나로 집에서 굽는 찹쌀호떡.\n\n※ 10/23 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n\n#광고 #쿠팡추천템 #유자차 #생강차 #호떡 #집콕 #겨울간식 #자취템",
+  "products": [
+    {
+      "no": 1,
+      "name": "담터 꿀유자차",
+      "coupang_url": "https://www.coupang.com/vp/products/96760",
+      "affiliate_url": "https://link.coupang.com/a/h4jCVMM4fA",
+      "code": "0007"
+    },
+    {
+      "no": 2,
+      "name": "선비비책 100% 국산 생강청",
+      "coupang_url": "https://www.coupang.com/vp/products/9392103490",
+      "affiliate_url": "https://link.coupang.com/a/h4jDoQ202S",
+      "code": "0008"
+    },
+    {
+      "no": 3,
+      "name": "백설 찹쌀 호떡믹스",
+      "coupang_url": "https://www.coupang.com/vp/products/1369157",
+      "affiliate_url": "https://link.coupang.com/a/h4jEFNXkKy",
+      "code": "0009"
+    }
+  ],
+  "channel": "C",
+  "slot": 2,
+  "date": "2026-10-23",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}

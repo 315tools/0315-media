@@ -1,0 +1,42 @@
+{
+  "title": "쌀값·밥상 물가",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n[생활뉴스] 쌀 20kg 6만2천원…밥상 물가 '들썩'\n\n· 쌀 20kg 소매가 62,903원, 평년보다 11.3%↑ (10/20 aT)\n· 서울 비빔밥 11,923원, 김밥 3,923원 (8월)\n· 즉석밥 평균 1,590원 → 1,642원 (+3.3%)\n· 1~8월 쌀 소매 판매량 24.7만t, 작년보다 7.1%↓\n\n🔗 밥상 아이템 ①~④는 프로필 링크에 있어요\n🛒 가성비 집밥템 비교는 @0315_pick\n\n출처: 파이낸셜뉴스 10/21·10/22 보도(aT·닐슨·농촌경제연구원 자료 인용)\n\n#광고 #생활뉴스 #쌀값 #밥상물가 #장바구니물가 #즉석밥 #집밥",
+  "products": [
+    {
+      "no": 1,
+      "name": "곰곰 2026년산 햅쌀 소중한 우리쌀 상등급",
+      "coupang_url": "https://www.coupang.com/vp/products/166996432",
+      "affiliate_url": "https://link.coupang.com/a/h4jCqR9XyK"
+    },
+    {
+      "no": 2,
+      "name": "오뚜기 흰밥",
+      "coupang_url": "https://www.coupang.com/vp/products/9052582961",
+      "affiliate_url": "https://link.coupang.com/a/h4jJbWXQlw"
+    },
+    {
+      "no": 3,
+      "name": "배대감 국산 100% 가마솥 누룽지 2.5kg",
+      "coupang_url": "https://www.coupang.com/vp/products/8574402406",
+      "affiliate_url": "https://link.coupang.com/a/h4jJdXPvy0"
+    },
+    {
+      "no": 4,
+      "name": "대구농산 국산 혼합 17곡 4kg",
+      "coupang_url": "https://www.coupang.com/vp/products/1848953441",
+      "affiliate_url": "https://link.coupang.com/a/h4jJfOBZ5E"
+    }
+  ],
+  "channel": "A",
+  "slot": 1,
+  "date": "2026-10-23",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
+  ],
+  "result": {}
+}

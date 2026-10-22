@@ -1,0 +1,38 @@
+{
+  "title": "가성비 집밥템 BEST3",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n쌀값 오를 때 🍚 밥값 아끼는 가성비 집밥템 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 오뚜기 흰밥(즉석밥) 💛 품번 0004\n데우면 바로 한 끼. 바쁜 아침·야식용으로 쟁여두기 좋아요.\n\n2. 국산 가마솥 누룽지 2.5kg 💛 품번 0005\n국산 쌀 100%. 물 붓고 끓이면 구수한 아침 완성.\n\n3. 국산 혼합 17곡 4kg 💛 품번 0006\n쌀에 섞어 밥 짓기만 하면 돼요.\n\n※ 10/23 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n\n#광고 #쿠팡추천템 #집밥 #즉석밥 #누룽지 #잡곡밥 #자취템 #살림템",
+  "products": [
+    {
+      "no": 1,
+      "name": "오뚜기 흰밥",
+      "coupang_url": "https://www.coupang.com/vp/products/9052582961",
+      "affiliate_url": "https://link.coupang.com/a/h4jzFbOuei",
+      "code": "0004"
+    },
+    {
+      "no": 2,
+      "name": "배대감 국산 100% 가마솥 누룽지 2.5kg",
+      "coupang_url": "https://www.coupang.com/vp/products/8574402406",
+      "affiliate_url": "https://link.coupang.com/a/h4jAeZ0jGm",
+      "code": "0005"
+    },
+    {
+      "no": 3,
+      "name": "대구농산 국산 혼합 17곡 4kg",
+      "coupang_url": "https://www.coupang.com/vp/products/1848953441",
+      "affiliate_url": "https://link.coupang.com/a/h4jBcPFYBw",
+      "code": "0006"
+    }
+  ],
+  "channel": "C",
+  "slot": 1,
+  "date": "2026-10-23",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
