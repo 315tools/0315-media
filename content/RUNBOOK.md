@@ -8,7 +8,7 @@
 | B 짤 | 12:20 | 18:30 |
 | C 픽 | 12:40 | 19:00 |
 post.json 에 "slot": 1 또는 2 를 넣는다. 1회차와 2회차는 주제·상품을 다르게(같은 날 분야는 같아도 됨).
-매일 오전 9시 사용자 출근 후 함께 작업(사용자 크롬으로 파트너스 링크 생성, 인증 요청 시 사용자에게 부탁). 점심 게시물(12:00) 전에 6개 모두 push 를 끝낸다.
+매일 오전 9시 예약 작업이 혼자 만든다(파트너스 API 사용, 사용자 컴퓨터 불필요). 점심 게시물(12:00) 전에 6개 모두 push 를 끝낸다.
 
 ## 1. 오늘 분야 정하기
 config/channels.json 의 weekly_plan 에서 오늘 요일 분야(생활용품/식품/소형가전/특이한 상품)를 고른다.
@@ -21,20 +21,24 @@ config/channels.json 의 weekly_plan 에서 오늘 요일 분야(생활용품/�
   커뮤니티 글은 소재 참고만, 캡처 금지.
 - C(픽): 같은 주제 상품 BEST3, 상품마다 1장 + 표지 + 구매방법 장. 품번은 지난 번호에 이어서 4자리.
 
-## 3. 상품 고르기 + 파트너스 링크 (사용자 크롬, Claude in Chrome)
-- 쿠팡 파트너스 상품 검색: https://partners.coupang.com/#affiliate/ws/link/0/<검색어>
-  판매량 많은 것 중 가격·후기 무난한 것. 상품 위에 마우스 → '링크 생성' → 단축 URL(link.coupang.com/a/...) 복사.
-- **링크 생성이 막힌 상품(판매자 제한)은 바로 다른 상품으로 교체.**
-- 상품 번호(coupang.com/vp/products/<번호>) 페이지의 og:image 주소를 config/product_images.json 에 추가
-  → push 하면 images.yml 이 assets/products/<번호>.jpg 로 받아 커밋 → git pull.
-- 크롬을 쓸 수 없으면: 상품 후보만 정하고 링크 칸을 비워 둔 채 진행, 마지막에 사용자에게 링크 입력 요청.
+## 3. 상품 고르기 + 파트너스 링크 (쿠팡 파트너스 API, 컴퓨터 필요 없음)
+- requests/<날짜>.json 에 검색어를 적어 push → products.yml(GitHub Actions)이 API로 검색·대표사진 저장·채널별 링크 생성
+  → catalog/<날짜>.json 커밋. 끝날 때까지 기다렸다가 git pull.
+  형식: {"searches":[{"key":"A","keyword":"가습기","limit":8}, ...]}  (key = 그 상품을 쓸 채널, 링크 subId 가 채널별로 붙음)
+  끝났는지 확인: gh api "repos/315tools/0315-media/actions/workflows/products.yml/runs?per_page=1" 의 status/conclusion.
+- **검색 API 는 시간당 약 10회 제한** → 하루 검색어 8개 이하. 같은 상품을 여러 채널에 쓰면 채널마다 key 를 달리해 따로 검색하지 말고,
+  필요하면 "urls":[{"key":"B","url":"https://www.coupang.com/vp/products/<번호>"}] 로 그 채널 링크만 추가 생성.
+- catalog 의 affiliate_url 이 null 인 상품 = 판매자 제한(링크 불가) → 쓰지 않는다.
+- 사진은 catalog 의 image(assets/products/<번호>.jpg, 쿠팡이 파트너스용으로 주는 대표 이미지)만 쓴다.
+- 후보 중 가격·로켓배송·상품명(과장 없는 것)을 보고 고른다. 상품명은 짧게 다듬되 사실과 다르게 바꾸지 않는다.
+- post.json 의 products[].affiliate_url 에 catalog 링크를 바로 넣는다(links/<날짜>.md 는 기록용으로 links.py make 후 그대로 커밋).
 
 ## 4. 만들기
-- content/make_2026-10-22.py 를 복사해 content/make_<날짜>.py 로 만들고(write() 의 폴더 이름을 A·A2 처럼, post 에 "slot" 추가) 내용·상품·사진(img(상품번호))만 바꾼다.
+- content/make_2026-10-22.py 를 복사해 content/make_<날짜>.py 로 만들고(write() 의 폴더 이름을 A·A2 처럼, post 에 "slot" 추가) 내용·상품·사진(img(상품번호))만 바꾼다. img() 는 assets/products/<번호>.jpg 를 읽음.
   디자인(CSS)·광고 표시(맨 위 광고 띠, 캡션 첫 줄 [광고] 문구, 첫 해시태그 #광고)는 그대로 유지.
 - 실행: python3 content/make_<날짜>.py
 - 렌더: python3 scripts/render.py docs/posts/<날짜>/{A,B,C,A2,B2,C2}  (make 후 반드시 여섯 개 모두)
-- 링크 파일: python3 scripts/links.py make <날짜> → links/<날짜>.md 의 '파트너스:' 칸 채우기 (항목 이름은 A-1, A2-1 형식) → python3 scripts/links.py sync
+- 링크 기록: python3 scripts/links.py make <날짜> (post.json 에 이미 들어간 링크가 그대로 적힘). 비어 있는 칸이 없어야 발행된다.
 - 렌더된 jpg 몇 장을 직접 열어 겹침·잘림·오탈자 확인.
 
 ## 5. 올리기
