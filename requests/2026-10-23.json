@@ -1,10 +1,74 @@
-{"searches": [
- {"key": "C", "keyword": "즉석밥", "limit": 6},
- {"key": "C", "keyword": "누룽지", "limit": 6},
- {"key": "C", "keyword": "혼합잡곡", "limit": 6},
- {"key": "A", "keyword": "햅쌀 10kg", "limit": 6},
- {"key": "C", "keyword": "유자차", "limit": 6},
- {"key": "C", "keyword": "생강차", "limit": 6},
- {"key": "C", "keyword": "호떡믹스", "limit": 6},
- {"key": "B", "keyword": "라면 멀티팩", "limit": 6}
-]}
+{
+ "searches": [
+  {
+   "key": "C",
+   "keyword": "즉석밥",
+   "limit": 6
+  },
+  {
+   "key": "C",
+   "keyword": "누룽지",
+   "limit": 6
+  },
+  {
+   "key": "C",
+   "keyword": "혼합잡곡",
+   "limit": 6
+  },
+  {
+   "key": "A",
+   "keyword": "햅쌀 10kg",
+   "limit": 6
+  },
+  {
+   "key": "C",
+   "keyword": "유자차",
+   "limit": 6
+  },
+  {
+   "key": "C",
+   "keyword": "생강차",
+   "limit": 6
+  },
+  {
+   "key": "C",
+   "keyword": "호떡믹스",
+   "limit": 6
+  },
+  {
+   "key": "B",
+   "keyword": "라면 멀티팩",
+   "limit": 6
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9052582961"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8574402406"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/1848953441"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/96760"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9392103490"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/1369157"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9052582961"
+  }
+ ]
+}
