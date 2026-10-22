@@ -519,5 +519,36 @@
       ]
     }
   },
-  "urls": []
+  "urls": [
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/9052582961",
+      "affiliate_url": "https://link.coupang.com/a/h4jJbWXQlw"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/8574402406",
+      "affiliate_url": "https://link.coupang.com/a/h4jJdXPvy0"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/1848953441",
+      "affiliate_url": "https://link.coupang.com/a/h4jJfOBZ5E"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/96760",
+      "affiliate_url": "https://link.coupang.com/a/h4jJhY49My"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/9392103490",
+      "affiliate_url": "https://link.coupang.com/a/h4jJkgFtfw"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/1369157",
+      "affiliate_url": "https://link.coupang.com/a/h4jJlLNAk0"
+    }
+  ]
 }
