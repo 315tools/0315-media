@@ -80,7 +80,7 @@ a_slides = [
 <ul class="chk"><li>창문·현관 틈 외풍 막기</li><li>실내 습도 50% 맞추기</li><li>잠자리 보온부터 챙기기</li><li>두꺼운 외투 대신 얇게 겹쳐 입기</li></ul>""", src=False),
     a_slide(7, n, """<h2>오늘 정리한 <span class="hl">겨울 채비템</span></h2>
 <ol class="prod"><li><b>1</b><div>3중 단열 뽁뽁이<span>창문 외풍·결로 막기</span></div></li>
-<li><b>2</b><div>국내생산 우레탄 문풍지<span>문틈 바람 차단</span></div></li>
+<li><b>2</b><div>20m 대용량 신소재 문풍지<span>창문·문틈 바람 차단</span></div></li>
 <li><b>3</b><div>초음파 가습기 4L<span>건조한 실내 습도 관리</span></div></li>
 <li><b>4</b><div>탄소열선 전기요<span>보일러 켜기 전 잠자리 보온</span></div></li></ol>
 <p class="lead" style="font-size:36px">🔗 프로필 링크 → 10/22 ①~④</p>""", src=False),
@@ -105,7 +105,7 @@ write("A", a_slides, {
     "caption": a_caption,
     "products": [
         {"no": 1, "name": "탐사 국내생산 3중 단열뽁뽁이 에어캡", "coupang_url": "https://www.coupang.com/vp/products/320451654", "affiliate_url": ""},
-        {"no": 2, "name": "코멧 국내생산 사계절 우레탄 문풍지 3m 5개", "coupang_url": "https://www.coupang.com/vp/products/8301704105", "affiliate_url": ""},
+        {"no": 2, "name": "끌리온 20m 신소재 대용량 문풍지", "coupang_url": "https://www.coupang.com/vp/products/9192743442", "affiliate_url": ""},
         {"no": 3, "name": "홈플래닛 초음파 가습기 4L", "coupang_url": "https://www.coupang.com/vp/products/324788226", "affiliate_url": ""},
         {"no": 4, "name": "한일 탄소열선 전기요 (싱글)", "coupang_url": "https://www.coupang.com/vp/products/9150828084", "affiliate_url": ""},
     ],
@@ -199,8 +199,8 @@ c_slides = [
     c_cover,
     c_prod(1, "0001", "🪟", "3중 단열 뽁뽁이<br>(국내생산)", ["창문에 붙이기만 하면 끝", "공기층 3겹으로 외풍·결로 차단", "민무늬라 어느 창에 붙여도 무난"],
            ["⭐ 리뷰 2.4만+", "💰 9천원 안팎", "🚀 내일 도착"]),
-    c_prod(2, "0002", "🚪", "국내생산 우레탄 문풍지<br>(3m × 5개입)", ["문틈에 붙여 들어오는 바람 차단", "5개입이라 방문·창문 여러 곳에", "사계절 쓰는 우레탄 소재"],
-           ["⭐ 리뷰 1,800+", "💰 6천원대", "🚀 내일 도착"]),
+    c_prod(2, "0002", "🚪", "신소재 대용량 문풍지<br>(20m 1롤)", ["창문·문틈에 붙여 들어오는 바람 차단", "20m라 창문 여러 곳에 나눠 쓰기", "길이에 맞춰 잘라 붙이는 방식"],
+           ["💰 7천원대", "📏 20m 1롤", "✂️ 잘라 쓰기"]),
     c_prod(3, "0003", "🧊", "실리콘 틈새막이 테이프<br>(45mm × 5m)", ["반투명이라 창틀에 티 안 남", "길게 잘라 쓰는 테이프형", "3천원대로 가장 부담 없음"],
            ["⭐ 리뷰 1,300+", "💰 3천원대", "🚀 내일 도착"]),
     page(C_CSS, f"""<div class="ad">{AD}</div>
@@ -220,8 +220,8 @@ c_caption = f"""{DISC}
 1. 3중 단열 뽁뽁이 💛 품번 0001
 창문에 붙이기만 하면 끝. 공기층 3겹이라 외풍·결로를 같이 막아줘요.
 
-2. 국내생산 우레탄 문풍지 💛 품번 0002
-5개입이라 방문·창문 여러 곳을 한 번에. 문틈으로 들어오는 바람을 막아줘요.
+2. 20m 대용량 신소재 문풍지 💛 품번 0002
+20m 1롤이라 창문·문틈 여러 곳에 잘라 붙여요. 들어오는 바람을 막아줘요.
 
 3. 실리콘 틈새막이 테이프 💛 품번 0003
 반투명이라 창틀에 티가 안 나요. 3천원대로 제일 부담 없는 선택.
@@ -234,7 +234,7 @@ write("C", c_slides, {
     "caption": c_caption,
     "products": [
         {"no": 1, "code": "0001", "name": "탐사 국내생산 3중 단열뽁뽁이 에어캡", "coupang_url": "https://www.coupang.com/vp/products/320451654", "affiliate_url": ""},
-        {"no": 2, "code": "0002", "name": "코멧 국내생산 사계절 우레탄 문풍지 3m 5개", "coupang_url": "https://www.coupang.com/vp/products/8301704105", "affiliate_url": ""},
+        {"no": 2, "code": "0002", "name": "끌리온 20m 신소재 대용량 문풍지", "coupang_url": "https://www.coupang.com/vp/products/9192743442", "affiliate_url": ""},
         {"no": 3, "code": "0003", "name": "아텍스 실리콘 틈새차단 문풍지 테이프 45mm×5m", "coupang_url": "https://www.coupang.com/vp/products/9287063502", "affiliate_url": ""},
     ],
 })
