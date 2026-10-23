@@ -34,5 +34,9 @@
     "04.jpg",
     "05.jpg"
   ],
-  "result": {}
+  "result": {
+    "media_id": "18097682216393479",
+    "published_at": "2026-10-23T13:31:18+09:00"
+  },
+  "status": "published"
 }
