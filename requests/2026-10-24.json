@@ -1,0 +1,11 @@
+{
+ "searches": [
+  {"key": "C", "keyword": "미니 온풍기", "limit": 8},
+  {"key": "C", "keyword": "온열 방석", "limit": 8},
+  {"key": "C", "keyword": "발난로", "limit": 8},
+  {"key": "C", "keyword": "써큘레이터", "limit": 8},
+  {"key": "C", "keyword": "미니 제습기", "limit": 8},
+  {"key": "C", "keyword": "전기 빨래건조대", "limit": 8}
+ ],
+ "urls": []
+}
