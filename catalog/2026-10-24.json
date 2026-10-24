@@ -1,0 +1,552 @@
+{
+  "searches": {
+    "미니 온풍기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8368549347,
+          "name": "공간을 따뜻하게 미니 온풍기 안전한 저소음 PTC 전기 히터, 우유니 화이트",
+          "price": 59000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8368549347.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8368549347",
+          "affiliate_url": "https://link.coupang.com/a/h55bJ4iejI"
+        },
+        {
+          "productId": 9136657663,
+          "name": "한일 미니온풍기 가정용 욕실 사무실 화장실 온풍기 캠핑용 터치 HEF-1000UE, 단품",
+          "price": 74800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9136657663.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9136657663",
+          "affiliate_url": "https://link.coupang.com/a/h55bQTgn8K"
+        },
+        {
+          "productId": 8465035955,
+          "name": "THEKU 겨울 3단계 온도 조절 가정용 캠핑용 간편한 탁상용 발난로 PTC 고성능 소형 난방 히터 전기 온풍기",
+          "price": 41900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8465035955.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8465035955",
+          "affiliate_url": "https://link.coupang.com/a/h55b7AJeDc"
+        },
+        {
+          "productId": 6398114847,
+          "name": "델루체 PTC 써큘레이터형 헤드 온풍기 팬히터, IN-H1000, 단일색상",
+          "price": 38900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/6398114847.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6398114847",
+          "affiliate_url": "https://link.coupang.com/a/h55cfghTtQ"
+        },
+        {
+          "productId": 6107820903,
+          "name": "시프이컴 PTC 미니 온풍기",
+          "price": 17900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6107820903.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6107820903",
+          "affiliate_url": "https://link.coupang.com/a/h55clSBDae"
+        },
+        {
+          "productId": 9004487196,
+          "name": "고스 2 in 1 미니온풍기 PTC온풍기, GH-07W",
+          "price": 18800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9004487196.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9004487196",
+          "affiliate_url": "https://link.coupang.com/a/h55cwv1uKq"
+        },
+        {
+          "productId": 8366829430,
+          "name": "한일전기 PTC 미니 온풍기",
+          "price": 54900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8366829430.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8366829430",
+          "affiliate_url": "https://link.coupang.com/a/h55cDe6MNM"
+        },
+        {
+          "productId": 9775691965,
+          "name": "씽크라이프 탁상용 절전형 미니 온풍기 가정용 캠핑 팬 히터",
+          "price": 7900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9775691965.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9775691965",
+          "affiliate_url": "https://link.coupang.com/a/h55cO0dJYW"
+        }
+      ]
+    },
+    "온열 방석": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9717922733,
+          "name": "[2026년 최신] 한일의료기 국산 탄소열선 고양이 강아지 전기방석 온열방석 (소) 고양이히터 히팅패드, 고양이방석 소, 그레이",
+          "price": 27900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9717922733.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9717922733",
+          "affiliate_url": "https://link.coupang.com/a/h55c7BkUjA"
+        },
+        {
+          "productId": 9021659427,
+          "name": "국산 전기방석 양면사용 사무실 의자 온열방석, ST그린, 95x50cm",
+          "price": 55900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9021659427.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9021659427",
+          "affiliate_url": "https://link.coupang.com/a/h55dlupEyq"
+        },
+        {
+          "productId": 7485208545,
+          "name": "BRUNO 극세사 온열방석 BHP-2213, GRAY, 45 x 45 cm",
+          "price": 26900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7485208545.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7485208545",
+          "affiliate_url": "https://link.coupang.com/a/h55dr6BHVY"
+        },
+        {
+          "productId": 7935085490,
+          "name": "HanilElectric 밤하늘고래 양면 전기방석 JH1018A, 네이비, 1인용(44 x 44 cm)",
+          "price": 19900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7935085490.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7935085490",
+          "affiliate_url": "https://link.coupang.com/a/h55dxyomIK"
+        },
+        {
+          "productId": 9114250491,
+          "name": "HanilMedical 카본 열선 탄소 전기 방석",
+          "price": 12900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9114250491.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9114250491",
+          "affiliate_url": "https://link.coupang.com/a/h55dJZT6f6"
+        },
+        {
+          "productId": 7415456989,
+          "name": "HanilMedical 탄소열선 전기매트 전기방석 황토",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7415456989.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7415456989",
+          "affiliate_url": "https://link.coupang.com/a/h55dP369Aa"
+        },
+        {
+          "productId": 7658093689,
+          "name": "디누스 탄소 1인용 전기방석 HE-HP01",
+          "price": 24810,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7658093689.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7658093689",
+          "affiliate_url": "https://link.coupang.com/a/h55dWemhOu"
+        }
+      ]
+    },
+    "발난로": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7721767475,
+          "name": "히팅패드 파티션 4면 (+무릎담요) 전기 히터 난로 사무실 발난로 온열기 LUNIS, 4면 발열 - 라이트 그레이, LS-HEATINGPAD7",
+          "price": 69900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7721767475.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7721767475",
+          "affiliate_url": "https://link.coupang.com/a/h55ed7UAQm"
+        },
+        {
+          "productId": 6774858421,
+          "name": "에어보나 판넬식 접이식 파티션 히터",
+          "price": 39800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6774858421.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6774858421",
+          "affiliate_url": "https://link.coupang.com/a/h55ejNseg8"
+        },
+        {
+          "productId": 8974619660,
+          "name": "러비쉬 BOOTS 온열 전기 풋워머, 라이트 베이지, SS02202(LFW-005)",
+          "price": 49310,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8974619660.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8974619660",
+          "affiliate_url": "https://link.coupang.com/a/h55ereVhOm"
+        },
+        {
+          "productId": 8436595901,
+          "name": "오아 포그니 발 온열 허리 무릎 전기 찜질기, OMTM-001DG, 다크그레이",
+          "price": 39800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8436595901.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8436595901",
+          "affiliate_url": "https://link.coupang.com/a/h55eBRo88O"
+        },
+        {
+          "productId": 8400875869,
+          "name": "레이나 발터치 히터 RH-1301 소형 사무실 개인난방 발난로 미니히터",
+          "price": 19900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8400875869.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8400875869",
+          "affiliate_url": "https://link.coupang.com/a/h55eOkkSku"
+        },
+        {
+          "productId": 6773488903,
+          "name": "포첸 2단 쿼츠 히터",
+          "price": 12900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6773488903.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6773488903",
+          "affiliate_url": "https://link.coupang.com/a/h55e1nrTrg"
+        },
+        {
+          "productId": 9274350368,
+          "name": "루니스 발난로 파티션 히터 (+무릎담요) 히팅패드 전기 난로 사무실 온열기",
+          "price": 37900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9274350368.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9274350368",
+          "affiliate_url": "https://link.coupang.com/a/h55ff7j1R6"
+        },
+        {
+          "productId": 9153512638,
+          "name": "Bornoon 발시림 해결 석영관 히터 2단 온도조절 발난로",
+          "price": 22070,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9153512638.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9153512638",
+          "affiliate_url": "https://link.coupang.com/a/h55fm4CWQ0"
+        }
+      ]
+    },
+    "써큘레이터": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 19238965,
+          "name": "레이나 공기순환 3D 리모컨 서큘레이터, RF-R0911",
+          "price": 44900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/19238965.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/19238965",
+          "affiliate_url": "https://link.coupang.com/a/h55fHcUeWa"
+        },
+        {
+          "productId": 151389394,
+          "name": "아이리스 수퍼 서큘레이터 PCF-HM23, PCF-HM23(화이트)",
+          "price": 64900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/151389394.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/151389394",
+          "affiliate_url": "https://link.coupang.com/a/h55fOQC4Bw"
+        },
+        {
+          "productId": 9526786445,
+          "name": "NineSpeed 날개없는 BLDC 모터 24단 저소음 타워형 가정용 선풍기, 화이트",
+          "price": 99000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9526786445.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9526786445",
+          "affiliate_url": "https://link.coupang.com/a/h55fWhsg68"
+        },
+        {
+          "productId": 5346040112,
+          "name": "듀플렉스 에어 서큘레이터, DP-24BF",
+          "price": 19900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/5346040112.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5346040112",
+          "affiliate_url": "https://link.coupang.com/a/h55f2DCyOa"
+        },
+        {
+          "productId": 7338679083,
+          "name": "써큘레이터 21엽 무소음 리모콘 가정용 3D 저소음 선풍기 에어 서큘레이터 BLDC모터",
+          "price": 69000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7338679083.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7338679083",
+          "affiliate_url": "https://link.coupang.com/a/h55f9mHQRw"
+        },
+        {
+          "productId": 1519617460,
+          "name": "듀플렉스 스탠드형 서큘레이터",
+          "price": 39800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/1519617460.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1519617460",
+          "affiliate_url": "https://link.coupang.com/a/h55gffBLJA"
+        },
+        {
+          "productId": 7925499052,
+          "name": "홈플래닛 리모컨 회전형 서큘레이터",
+          "price": 29990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7925499052.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7925499052",
+          "affiliate_url": "https://link.coupang.com/a/h55gk16804"
+        },
+        {
+          "productId": 9496057529,
+          "name": "[26년최신형]이즈하임 대형 터보팬 공업용 업소용 써큘레이터 EHF-380TF",
+          "price": 54900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9496057529.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9496057529",
+          "affiliate_url": "https://link.coupang.com/a/h55gxTsnoi"
+        }
+      ]
+    },
+    "미니 제습기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9652948497,
+          "name": "[2026년 신상] RichMagic 미니 제습기 1.5L 가정용 초절전 무음 제습기 습기제거 곰팡이제거 결로방지, 화이트White",
+          "price": 89850,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9652948497.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9652948497",
+          "affiliate_url": "https://link.coupang.com/a/h55gPwZsPI"
+        },
+        {
+          "productId": 8796985748,
+          "name": "LANGDOO 미니 제습기 소형 가정용 대용량 강력제습 30dB 저소음 만수 자동정지 수면모드 옷장 욕실 드레스룸용, DH06",
+          "price": 107810,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8796985748.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8796985748",
+          "affiliate_url": "https://link.coupang.com/a/h55g11lbFI"
+        },
+        {
+          "productId": 8797000669,
+          "name": "LANGDOO 제습기 2.5L 듀얼코어 강력제습 가정용 제습기 원룸/침실/웃장/화장실/욕실 실내건조 저소음 절전 미니 제습기, D2",
+          "price": 278800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8797000669.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8797000669",
+          "affiliate_url": "https://link.coupang.com/a/h55g7axGBo"
+        },
+        {
+          "productId": 8322873484,
+          "name": "FANOBO제습기 저소음 제습기 미니제습기 4계절겸용, 화이트",
+          "price": 79900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8322873484.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8322873484",
+          "affiliate_url": "https://link.coupang.com/a/h55hhnOLNk"
+        },
+        {
+          "productId": 8709628803,
+          "name": "최신펠티어방식 넉넉한 1.8L용량 미니 제습기 DB-DH7",
+          "price": 43900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8709628803.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8709628803",
+          "affiliate_url": "https://link.coupang.com/a/h55hnq4tKC"
+        },
+        {
+          "productId": 9710373044,
+          "name": "[리퍼 B급] [데비하우스] 최신 펠티어방식 넉넉한 1.8L용량 미니 제습기 DB-DH7",
+          "price": 24900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9710373044.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9710373044",
+          "affiliate_url": "https://link.coupang.com/a/h55hszGD5U"
+        },
+        {
+          "productId": 8837222058,
+          "name": "미니제습기 원룸 소형 화장실 욕실 옷장 드레스룸 습기제거",
+          "price": 49900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8837222058.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8837222058",
+          "affiliate_url": "https://link.coupang.com/a/h55hzkwlGe"
+        },
+        {
+          "productId": 8834434591,
+          "name": "MOOS 미니 제습기 0.3L",
+          "price": 34060,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8834434591.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8834434591",
+          "affiliate_url": "https://link.coupang.com/a/h55hJs1L6i"
+        }
+      ]
+    },
+    "전기 빨래건조대": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9310480468,
+          "name": "리프룸 안전한 온열 빨래건조대 전기 열선 전열건조기 히팅 스텐, 실버",
+          "price": 88000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9310480468.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9310480468",
+          "affiliate_url": "https://link.coupang.com/a/h55h2Yc8ce"
+        },
+        {
+          "productId": 9138115432,
+          "name": "AKRUA 온열빨래건조대 빨레온열건조대 열선빨래건조대 열선건조대 전열건조기 접이식 건조대 레버 가정용 건조대, 은색",
+          "price": 91000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9138115432.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9138115432",
+          "affiliate_url": "https://link.coupang.com/a/h55iaM8yk0"
+        },
+        {
+          "productId": 9555571350,
+          "name": "New World 다기능 빨래건조대 스틸 3단 접이식 튼튼한 빨래건조대 대형 신발걸이 + 방풍바180CM Y418Q, 건메탈 그레이",
+          "price": 60000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9555571350.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9555571350",
+          "affiliate_url": "https://link.coupang.com/a/h55ipF9nm8"
+        },
+        {
+          "productId": 8837179780,
+          "name": "라나테크 이불건조대 전동빨래건조대 천정형 천장형 리모컨 튼튼한 천장 전동 전기 자동 스텐 건조대 무선 리모컨 접이식 수건 이불건조 베란다 발코니, 화이트",
+          "price": 234000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8837179780.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8837179780",
+          "affiliate_url": "https://link.coupang.com/a/h55iwl5eYS"
+        },
+        {
+          "productId": 9241548534,
+          "name": "홈드라이 온열 빨래건조대 열선 접이식 전기 건조 운동화 전열 히팅 행거",
+          "price": 117000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9241548534.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9241548534",
+          "affiliate_url": "https://link.coupang.com/a/h55iCk4XZc"
+        },
+        {
+          "productId": 9101547148,
+          "name": "터보업 고출력 전동 빨래건조대 베란다 천장 건조대 자동 천정형 행거 LED 조명 빨래걸이",
+          "price": 126900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9101547148.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9101547148",
+          "affiliate_url": "https://link.coupang.com/a/h55iIpomu4"
+        },
+        {
+          "productId": 8633929065,
+          "name": "전기 빨래건조대 가열 옷걸이 빨리 마르는 열선 장마철",
+          "price": 77000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/8633929065.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8633929065",
+          "affiliate_url": "https://link.coupang.com/a/h55iPbMh8C"
+        },
+        {
+          "productId": 9510187304,
+          "name": "하츠 전동 빨래건조대 CD-D950DU 방문설치",
+          "price": 280000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9510187304.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9510187304",
+          "affiliate_url": "https://link.coupang.com/a/h55i2yloOW"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
