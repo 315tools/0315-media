@@ -1,0 +1,38 @@
+{
+  "title": "실내건조템 BEST3",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n비 오는 주말 🧺 빨래 빨리 말리는 실내건조템 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 듀플렉스 에어 서큘레이터 💛 품번 0013\n빨래 쪽으로 바람을 보내 순환. 평소엔 공기 순환용.\n\n2. 펠티어 방식 미니 제습기 1.8L 💛 품번 0014\n원룸·드레스룸에서 빨래 습기 잡기.\n\n3. 리프룸 온열 빨래건조대 💛 품번 0015\n전기 열선으로 데워 수건·양말을 빨리 말려요.\n\n※ 10/24 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n\n#광고 #쿠팡추천템 #실내건조 #빨래 #서큘레이터 #제습기 #빨래건조대 #자취템",
+  "products": [
+    {
+      "no": 1,
+      "name": "듀플렉스 에어 서큘레이터 DP-24BF",
+      "coupang_url": "https://www.coupang.com/vp/products/5346040112",
+      "affiliate_url": "https://link.coupang.com/a/h55f2DCyOa",
+      "code": "0013"
+    },
+    {
+      "no": 2,
+      "name": "펠티어방식 1.8L 미니 제습기 DB-DH7",
+      "coupang_url": "https://www.coupang.com/vp/products/8709628803",
+      "affiliate_url": "https://link.coupang.com/a/h55hnq4tKC",
+      "code": "0014"
+    },
+    {
+      "no": 3,
+      "name": "리프룸 온열 빨래건조대 스텐",
+      "coupang_url": "https://www.coupang.com/vp/products/9310480468",
+      "affiliate_url": "https://link.coupang.com/a/h55h2Yc8ce",
+      "code": "0015"
+    }
+  ],
+  "channel": "C",
+  "slot": 2,
+  "date": "2026-10-24",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}

@@ -1,0 +1,35 @@
+{
+  "title": "주말 남부 비·실내 빨래",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n[생활뉴스] 주말 남부·제주 비 소식…중부는 구름\n\n· 서울 아침 13℃ → 낮 21℃, 전국 낮 16~21도 안팎\n· 25일까지 부산·울산·경남 30~80mm, 광주·전남 20~60mm\n· 미세먼지 전국 '좋음~보통'\n\n🔗 빨래 실내건조템 ①~③은 프로필 링크에 있어요\n\n출처: 기상청 예보 인용 보도(데일리안 10/23, 세계일보 10/23)\n\n#광고 #생활뉴스 #주말날씨 #실내건조 #빨래 #서큘레이터 #제습기",
+  "products": [
+    {
+      "no": 1,
+      "name": "듀플렉스 에어 서큘레이터 DP-24BF",
+      "coupang_url": "https://www.coupang.com/vp/products/5346040112",
+      "affiliate_url": "https://link.coupang.com/a/h55m6xF1ZA"
+    },
+    {
+      "no": 2,
+      "name": "펠티어방식 1.8L 미니 제습기 DB-DH7",
+      "coupang_url": "https://www.coupang.com/vp/products/8709628803",
+      "affiliate_url": "https://link.coupang.com/a/h55m7Zykfs"
+    },
+    {
+      "no": 3,
+      "name": "리프룸 온열 빨래건조대 스텐",
+      "coupang_url": "https://www.coupang.com/vp/products/9310480468",
+      "affiliate_url": "https://link.coupang.com/a/h55m9z4YoK"
+    }
+  ],
+  "channel": "A",
+  "slot": 2,
+  "date": "2026-10-24",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}

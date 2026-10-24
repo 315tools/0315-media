@@ -1,0 +1,38 @@
+{
+  "title": "1인 난방가전 BEST3",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n다음 주 아침 2도 🥶 보일러 켜기 전 1인 난방가전 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 한일 PTC 미니 온풍기 💛 품번 0010\n책상 위·발밑에 두고 필요한 자리만 따뜻하게.\n\n2. 브루노 극세사 온열방석 💛 품번 0011\n의자·소파에 깔기 좋은 45×45cm 온열방석.\n\n3. 러비쉬 전기 풋워머 💛 품번 0012\n부츠처럼 발을 쏙. 사무실 책상 밑에 두기 좋아요.\n\n※ 10/24 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n※ 전열기는 멀티탭 말고 벽 콘센트에, 외출 땐 전원 끄기\n\n#광고 #쿠팡추천템 #난방템 #미니온풍기 #온열방석 #발난로 #자취템 #사무실템",
+  "products": [
+    {
+      "no": 1,
+      "name": "한일전기 PTC 미니 온풍기",
+      "coupang_url": "https://www.coupang.com/vp/products/8366829430",
+      "affiliate_url": "https://link.coupang.com/a/h55cDe6MNM",
+      "code": "0010"
+    },
+    {
+      "no": 2,
+      "name": "BRUNO 극세사 온열방석 BHP-2213",
+      "coupang_url": "https://www.coupang.com/vp/products/7485208545",
+      "affiliate_url": "https://link.coupang.com/a/h55dr6BHVY",
+      "code": "0011"
+    },
+    {
+      "no": 3,
+      "name": "러비쉬 BOOTS 온열 전기 풋워머",
+      "coupang_url": "https://www.coupang.com/vp/products/8974619660",
+      "affiliate_url": "https://link.coupang.com/a/h55ereVhOm",
+      "code": "0012"
+    }
+  ],
+  "channel": "C",
+  "slot": 1,
+  "date": "2026-10-24",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
