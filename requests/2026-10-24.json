@@ -1,11 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "미니 온풍기", "limit": 8},
-  {"key": "C", "keyword": "온열 방석", "limit": 8},
-  {"key": "C", "keyword": "발난로", "limit": 8},
-  {"key": "C", "keyword": "써큘레이터", "limit": 8},
-  {"key": "C", "keyword": "미니 제습기", "limit": 8},
-  {"key": "C", "keyword": "전기 빨래건조대", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "미니 온풍기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "온열 방석",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "발난로",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "써큘레이터",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "미니 제습기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "전기 빨래건조대",
+   "limit": 8
+  }
  ],
- "urls": []
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8366829430"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7485208545"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8974619660"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/5346040112"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8709628803"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9310480468"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/7485208545"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/5346040112"
+  }
+ ]
 }
