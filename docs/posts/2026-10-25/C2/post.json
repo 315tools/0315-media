@@ -1,0 +1,38 @@
+{
+  "title": "충전식 방한템 BEST3",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n수요일 아침 2도 🥶 출근길 덜 춥게! 충전식 방한템 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 알로코리아 펭귄 손난로 💛 품번 0019\n펭귄 모양 충전식 손난로, 보조배터리 겸용 5000mAh.\n\n2. 에쉬울프 USB 발열조끼 💛 품번 0020\nUSB로 데우는 온열 조끼. 겉옷 안에 입기 좋아요.\n\n3. 투데이리빙 USB 발열 목도리 💛 품번 0021\n열선 패딩 목도리, 3단 온도 조절.\n\n※ 10/25 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n※ 발열 제품은 맨살에 오래 대지 마세요(저온화상 주의)\n\n#광고 #쿠팡추천템 #특이템 #첫추위 #손난로 #발열조끼 #발열목도리 #출근길",
+  "products": [
+    {
+      "no": 1,
+      "name": "알로코리아 펭귄 충전식 손난로 보조배터리 5000mAh",
+      "coupang_url": "https://www.coupang.com/vp/products/9189208667",
+      "affiliate_url": "https://link.coupang.com/a/h7J1aLAODA",
+      "code": "0019"
+    },
+    {
+      "no": 2,
+      "name": "에쉬울프 USB 발열조끼 DR013",
+      "coupang_url": "https://www.coupang.com/vp/products/6362095588",
+      "affiliate_url": "https://link.coupang.com/a/h7J2XiEnZc",
+      "code": "0020"
+    },
+    {
+      "no": 3,
+      "name": "투데이리빙 USB 발열 패딩 목도리",
+      "coupang_url": "https://www.coupang.com/vp/products/8485153887",
+      "affiliate_url": "https://link.coupang.com/a/h7J35O3TbM",
+      "code": "0021"
+    }
+  ],
+  "channel": "C",
+  "slot": 2,
+  "date": "2026-10-25",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}

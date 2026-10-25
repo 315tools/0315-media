@@ -1,0 +1,35 @@
+{
+  "title": "일교차 15도→수요일 2도",
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n[생활뉴스] 오늘은 낮 24도, 수요일 아침은 서울 2도\n\n· 25일 서울 아침 12℃ / 낮 24℃, 수도권 일교차 15도 안팎\n· 28일(수) 서울 2~13℃, 대전 1~13℃, 대구 1~14℃, 춘천 -1~14℃\n· 평년보다 3도가량 낮을 전망\n\n🔗 출근길 충전식 방한템 ①~③은 프로필 링크에 있어요\n🛒 더 많은 특이템은 @0315_pick\n\n출처: 기상청 예보 인용 보도(더페어 10/25, 더리포트 10/24)\n\n#광고 #생활뉴스 #날씨 #일교차 #첫추위 #출근길 #손난로 #발열조끼",
+  "products": [
+    {
+      "no": 1,
+      "name": "알로코리아 펭귄 충전식 손난로 보조배터리 5000mAh",
+      "coupang_url": "https://www.coupang.com/vp/products/9189208667",
+      "affiliate_url": "https://link.coupang.com/a/h7J93ghhhQ"
+    },
+    {
+      "no": 2,
+      "name": "에쉬울프 USB 발열조끼 DR013",
+      "coupang_url": "https://www.coupang.com/vp/products/6362095588",
+      "affiliate_url": "https://link.coupang.com/a/h7J95n0P36"
+    },
+    {
+      "no": 3,
+      "name": "투데이리빙 USB 발열 패딩 목도리",
+      "coupang_url": "https://www.coupang.com/vp/products/8485153887",
+      "affiliate_url": "https://link.coupang.com/a/h7KaacacCq"
+    }
+  ],
+  "channel": "A",
+  "slot": 2,
+  "date": "2026-10-25",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
