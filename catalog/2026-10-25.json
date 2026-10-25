@@ -1,0 +1,519 @@
+{
+  "searches": {
+    "자동 센서 손소독기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 111167474,
+          "name": "유로 자동 손소독기, 유로 자동 손소독기",
+          "price": 77000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/111167474.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/111167474",
+          "affiliate_url": "https://link.coupang.com/a/h7JYpte0XI"
+        },
+        {
+          "productId": 1223668449,
+          "name": "자바 전자감지식 세균 바이러스 방지 자동 손소독기 G-THS2500T, 단품",
+          "price": 125000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/1223668449.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1223668449",
+          "affiliate_url": "https://link.coupang.com/a/h7JYvoL1X2"
+        },
+        {
+          "productId": 6673786978,
+          "name": "르메이어 비접촉 핸드워시 자동 센서 디스펜서 거품 주방 세제 욕실 손세정기, 화이트, 1개",
+          "price": 22590,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/6673786978.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6673786978",
+          "affiliate_url": "https://link.coupang.com/a/h7JYDV0yPc"
+        },
+        {
+          "productId": 1358170196,
+          "name": "자동 센서 디스펜서 손소독기 TH-903",
+          "price": 56000.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/1358170196.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1358170196",
+          "affiliate_url": "https://link.coupang.com/a/h7JYMc45AW"
+        },
+        {
+          "productId": 9790642430,
+          "name": "마블네 자동손소독기 센서 자동분사 손소독제디스펜서 센서디스펜서 손소독디스펜서",
+          "price": 239420.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9790642430.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9790642430",
+          "affiliate_url": "https://link.coupang.com/a/h7JYRV1UAu"
+        },
+        {
+          "productId": 8549736246,
+          "name": "손소독제 자동분사기 겔타입 스프레이타입 비접촉 손소독기 대용량 1300ml",
+          "price": 55000.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8549736246.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8549736246",
+          "affiliate_url": "https://link.coupang.com/a/h7JYX4Bh3k"
+        },
+        {
+          "productId": 9499493905,
+          "name": "자동손소독기 살균기 젤 센서 손소독제 분무기",
+          "price": 43400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9499493905.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9499493905",
+          "affiliate_url": "https://link.coupang.com/a/h7JY36q0mi"
+        }
+      ]
+    },
+    "무선 미니 가습기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9192441559,
+          "name": "PERFFIER 미니 무선 가습기 1500ml 사무실 탁상용 초음파 휴대용 저소음 수면 무드등 겸용",
+          "price": 15900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9192441559.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9192441559",
+          "affiliate_url": "https://link.coupang.com/a/h7JZlbqSdM"
+        },
+        {
+          "productId": 9156272560,
+          "name": "[백화점 입점] 풀라스 UV 살균 대용량 무선 미니 가습기 1위 무소음 책상 사무실 탁상용 휴대용 여행용 차량용 가정용 원룸 소형 무드등 통세척 초음파 room humidifier, 화이트, FL-HF1000",
+          "price": 45990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9156272560.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9156272560",
+          "affiliate_url": "https://link.coupang.com/a/h7JZp2Bhee"
+        },
+        {
+          "productId": 9754779968,
+          "name": "포른 UV 살균 올스텐 듀얼 미니 가습기 초음파 무선 사무실 탁상용 700ml, 크림화이트, SURH001",
+          "price": 47800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9754779968.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9754779968",
+          "affiliate_url": "https://link.coupang.com/a/h7JZvgOIc8"
+        },
+        {
+          "productId": 9749506906,
+          "name": "Luxeed 듀얼분사 무선 가습기 무드등 각도조절 대용량 휴대용 사무실 탁상용 차량용 C타입 충전식 LED 디스플레이, 베이지, H21L",
+          "price": 39800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9749506906.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9749506906",
+          "affiliate_url": "https://link.coupang.com/a/h7JZAFZsn6"
+        },
+        {
+          "productId": 7043862966,
+          "name": "밀레마 듀얼각도 조절 무드등 미니 무선 가습기, M-04003W, 화이트",
+          "price": 21800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7043862966.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7043862966",
+          "affiliate_url": "https://link.coupang.com/a/h7JZF2vX6y"
+        },
+        {
+          "productId": 9701082549,
+          "name": "Mankiw 미니 가습기 듀얼미스트 500ml 무선 저소음 차량용 사무실 탁상용 무드등 수면등 겸용",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9701082549.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9701082549",
+          "affiliate_url": "https://link.coupang.com/a/h7JZLHfCTI"
+        },
+        {
+          "productId": 8994002212,
+          "name": "SUNGOD 미니 가습기 듀얼미스트 500ml 무소음 무선 무드등 가정용 차량용 사무실 탁상용",
+          "price": 18800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8994002212.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8994002212",
+          "affiliate_url": "https://link.coupang.com/a/h7JZVRWDuK"
+        },
+        {
+          "productId": 8399098479,
+          "name": "오아 듀얼미스트 미니 휴대용 초음파 탁상용 무선가습기",
+          "price": 24900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8399098479.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8399098479",
+          "affiliate_url": "https://link.coupang.com/a/h7JZ1cUU9Y"
+        }
+      ]
+    },
+    "칫솔 살균기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9453351462,
+          "name": "구강건강연구소 가정용 휴대용 UVC-LED 칫솔살균기, 화이트, STB-705",
+          "price": 150000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9453351462.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9453351462",
+          "affiliate_url": "https://link.coupang.com/a/h7J0hE6W4a"
+        },
+        {
+          "productId": 9186628823,
+          "name": "브러쉬업 케어즈 미세플라스틱 제로 칫솔살균기, 2인용 퓨어 화이트, 단일상품",
+          "price": 79900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9186628823.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9186628823",
+          "affiliate_url": "https://link.coupang.com/a/h7J0nd1p7s"
+        },
+        {
+          "productId": 1524052,
+          "name": "오투케어 거치용 칫솔 건조기, BS-7000S, 민트",
+          "price": 35050,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/1524052.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1524052",
+          "affiliate_url": "https://link.coupang.com/a/h7J0sXWzds"
+        },
+        {
+          "productId": 6746959907,
+          "name": "크리썸 AI 스마트 케어 칫솔 살균기",
+          "price": 29500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6746959907.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6746959907",
+          "affiliate_url": "https://link.coupang.com/a/h7J0yoYYAC"
+        },
+        {
+          "productId": 9724692652,
+          "name": "MIGA 1인용 무선 휴대용 UV-C LED 히팅 칫솔 살균기 무타공 미니 건조기 소독기",
+          "price": 16900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9724692652.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9724692652",
+          "affiliate_url": "https://link.coupang.com/a/h7J0DALx7c"
+        },
+        {
+          "productId": 7456527390,
+          "name": "유토렉스 칫솔 살균기 건조기 가정용 양문형 스탠드 면도기 거치",
+          "price": 32500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7456527390.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7456527390",
+          "affiliate_url": "https://link.coupang.com/a/h7J0JWMCFE"
+        },
+        {
+          "productId": 6183820163,
+          "name": "프리쉐 UV LED 휴대용 칫솔살균기",
+          "price": 13800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/6183820163.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6183820163",
+          "affiliate_url": "https://link.coupang.com/a/h7J0UMUUFw"
+        }
+      ]
+    },
+    "충전식 손난로": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9189208667,
+          "name": "알로코리아 충전식 휴대용 펭귄 전기 전자 핫팩 손난로 보조배터리 5000mAh, WM504, 블랙",
+          "price": 25400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9189208667.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9189208667",
+          "affiliate_url": "https://link.coupang.com/a/h7J1aLAODA"
+        },
+        {
+          "productId": 8369854157,
+          "name": "알로코리아 휴대용 충전식 손난로 보조배터리 알밤 + C타입 충전 케이블 세트, WM503, 베이지",
+          "price": 20900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8369854157.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8369854157",
+          "affiliate_url": "https://link.coupang.com/a/h7J1gj90w0"
+        },
+        {
+          "productId": 9207288847,
+          "name": "모란카노 마그네틱 듀얼 손난로 6000mAh, 혼합색상, MHW-3000",
+          "price": 14500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9207288847.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9207288847",
+          "affiliate_url": "https://link.coupang.com/a/h7J1qgYmbc"
+        },
+        {
+          "productId": 1895060632,
+          "name": "애니클리어 미니 조약돌 손난로 보조배터리 5000mAh + 전용파우치, iGPB-HOT3, 코발트블루",
+          "price": 13320,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/1895060632.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1895060632",
+          "affiliate_url": "https://link.coupang.com/a/h7J1vEKWIK"
+        },
+        {
+          "productId": 9096338284,
+          "name": "루아덴 미니 휴대용 usb 충전식 손난로",
+          "price": 20900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9096338284.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9096338284",
+          "affiliate_url": "https://link.coupang.com/a/h7J1GGyC4a"
+        },
+        {
+          "productId": 9021428040,
+          "name": "TRYSEEK 충전식 미니 손난로 보조배터리 C타입 5000mAh 휴대용 파워뱅크 겨울 캠핑 여행용",
+          "price": 13900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9021428040.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9021428040",
+          "affiliate_url": "https://link.coupang.com/a/h7J1MdNbLo"
+        },
+        {
+          "productId": 9184068664,
+          "name": "누아트 충전식 양면발열 휴대용 커플 캠핑 듀얼 마그네틱 C타입 양손 손난로 6000mAh",
+          "price": 18780,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9184068664.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9184068664",
+          "affiliate_url": "https://link.coupang.com/a/h7J1R72rwi"
+        },
+        {
+          "productId": 9775335533,
+          "name": "루아덴 휴대용 충전식 손난로 미니 전자 핫팩",
+          "price": 23800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9775335533.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9775335533",
+          "affiliate_url": "https://link.coupang.com/a/h7J113Aafk"
+        }
+      ]
+    },
+    "USB 발열 조끼": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9165692466,
+          "name": "[20000mAh/25구역/세탁가능] 6단 USB 발열조끼 초경량 방한보온 남녀공용 골프 등산 아웃도어 작업복",
+          "price": 49900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9165692466.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9165692466",
+          "affiliate_url": "https://link.coupang.com/a/h7J2iGhlXU"
+        },
+        {
+          "productId": 9099761427,
+          "name": "[23구 발열] 초경량 발열 조끼 - 스키 캠핑 등산 일상용 겨울 방한 의류",
+          "price": 34900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9099761427.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9099761427",
+          "affiliate_url": "https://link.coupang.com/a/h7J2n54OQe"
+        },
+        {
+          "productId": 9774889932,
+          "name": "[RHV-07]로시오 히트코어 듀얼 발열조끼 USB 온열 열선 3단 온도조절 겨울 방한조끼 남녀공용",
+          "price": 49900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9774889932.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9774889932",
+          "affiliate_url": "https://link.coupang.com/a/h7J2A1oq2m"
+        },
+        {
+          "productId": 9690968402,
+          "name": "스위스밀리터리 열선조끼 발열 패딩 열 조끼 HIVE-630",
+          "price": 124000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9690968402.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9690968402",
+          "affiliate_url": "https://link.coupang.com/a/h7J2Gju2YC"
+        },
+        {
+          "productId": 9771170435,
+          "name": "발열조끼 빅사이즈 큰사이즈 USB 후드 패딩 보온 온열 조끼 겨울 등산 낚시 패딩 골프 캠핑용품 방한 작업복 플래티넘 몰 라이프기어 강력열선조끼 USB 튼튼한 내구성 핫팩 열선",
+          "price": 45370,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9771170435.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9771170435",
+          "affiliate_url": "https://link.coupang.com/a/h7J2MfqHZs"
+        },
+        {
+          "productId": 6362095588,
+          "name": "에쉬울프 USB 발열조끼 스마트 온열조끼/ DR013",
+          "price": 27700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6362095588.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6362095588",
+          "affiliate_url": "https://link.coupang.com/a/h7J2XiEnZc"
+        },
+        {
+          "productId": 9091406339,
+          "name": "마이제이컴퍼니 프리미엄 발열조끼 USB 21구역 열선 보조배터리 포함",
+          "price": 53900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9091406339.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9091406339",
+          "affiliate_url": "https://link.coupang.com/a/h7J27BXKSa"
+        }
+      ]
+    },
+    "온열 넥워머": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8413085956,
+          "name": "[1+1] 에어메쉬로 숨쉬기 편한 우디우디 프리미엄 기모 방한 넥워머",
+          "price": 19000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8413085956.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8413085956",
+          "affiliate_url": "https://link.coupang.com/a/h7J3oBwdI4"
+        },
+        {
+          "productId": 9732700710,
+          "name": "남녀공용 다용도 넥워머 스카프 목도리 목토시 넥토시 비니 머플러 세트 방한 마스크",
+          "price": 13800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9732700710.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9732700710",
+          "affiliate_url": "https://link.coupang.com/a/h7J3ucn2FU"
+        },
+        {
+          "productId": 7774288860,
+          "name": "UBAcc 터치 방한 스포츠 장갑 특가판매",
+          "price": 19800,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7774288860.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7774288860",
+          "affiliate_url": "https://link.coupang.com/a/h7J3zDUWlw"
+        },
+        {
+          "productId": 9772141287,
+          "name": "[프리미엄]USB 발열 목도리 넥워머 열선 온열 목도리 머플러 온도조절",
+          "price": 13970.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9772141287.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9772141287",
+          "affiliate_url": "https://link.coupang.com/a/h7J3Fd0FRQ"
+        },
+        {
+          "productId": 9219252164,
+          "name": "감성리빙 2way 목 핫팩 목도리 온열 찜질팩 스카프 발열 패치",
+          "price": 12800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9219252164.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9219252164",
+          "affiliate_url": "https://link.coupang.com/a/h7J3NrrWnY"
+        },
+        {
+          "productId": 8423200492,
+          "name": "남여공용 온열 USB 발열 목도리+40분작동 미니1800배터리포함",
+          "price": 20000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/8423200492.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8423200492",
+          "affiliate_url": "https://link.coupang.com/a/h7J3W5dkiW"
+        },
+        {
+          "productId": 8485153887,
+          "name": "투데이리빙 USB 전기 발열 와이드 패딩 목도리 머플러 겨울 야외 활동 방한 보온 온열 넥워머 3단 온도 조절 버튼 열선 히팅 워머 낚시 골프 등산",
+          "price": 11800.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8485153887.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8485153887",
+          "affiliate_url": "https://link.coupang.com/a/h7J35O3TbM"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
