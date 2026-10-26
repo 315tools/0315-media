@@ -1,0 +1,36 @@
+{
+  "title": "보일러 켜기 전 점검",
+  "slot": 1,
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n[생활뉴스] 보일러 켜기 전 이것부터 확인하세요\n\n· 전원·오류 표시, 배관 누수·부식, 배기통 이탈·막힘 확인 후 시험 가동\n· 가스 냄새나 배기통 이상이 있으면 사용 중단 → 전문업체 점검\n· 서울시 권장 실내 온도 18~20℃, 습도 40~60%\n· 보일러 주변 물건·불붙기 쉬운 물건 치우기, 결로 줄이려면 5~10분 환기\n· 밤엔 커튼 닫고, 문틈은 문풍지로, 내복·양말 활용\n\n🔗 난방 시작 생활템 ①~③은 프로필 링크에 있어요\n🛒 더 많은 생활템은 @0315_pick\n\n출처: 서울시 환경 누리집(10/23), 비건뉴스(10/24)\n\n#광고 #생활뉴스 #보일러 #난방 #난방비절약 #겨울준비 #온습도계 #생활꿀팁",
+  "products": [
+    {
+      "no": 1,
+      "name": "아이리버 디지털 미니 온습도계 ITH-100",
+      "coupang_url": "https://www.coupang.com/vp/products/9642046260",
+      "affiliate_url": "https://link.coupang.com/a/h9pkOuYHx6"
+    },
+    {
+      "no": 2,
+      "name": "코멧 홈 단열 아일렛 암막 커튼 2개입",
+      "coupang_url": "https://www.coupang.com/vp/products/6711426204",
+      "affiliate_url": "https://link.coupang.com/a/h9pkPGMpmS"
+    },
+    {
+      "no": 3,
+      "name": "이지하임 무압박 수면양말 4켤레",
+      "coupang_url": "https://www.coupang.com/vp/products/9081602559",
+      "affiliate_url": "https://link.coupang.com/a/h9pkRxhiLs"
+    }
+  ],
+  "channel": "A",
+  "date": "2026-10-26",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg"
+  ],
+  "result": {}
+}
