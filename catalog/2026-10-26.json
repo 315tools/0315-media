@@ -1,0 +1,552 @@
+{
+  "searches": {
+    "디지털 온습도계": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9642046260,
+          "name": "아이리버 디지털 미니 온습도계 ITH-100, 1개, ITH-100, 화이트",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9642046260.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9642046260",
+          "affiliate_url": "https://link.coupang.com/a/h9o9MKof8u"
+        },
+        {
+          "productId": 72986941,
+          "name": "카스 디지털 온습도계 T023",
+          "price": 9890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/72986941.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/72986941",
+          "affiliate_url": "https://link.coupang.com/a/h9o9UsJSKq"
+        },
+        {
+          "productId": 8986922080,
+          "name": "카스 체감 온도계 측정기 온습도계 습도계 T701, 화이트, 1개",
+          "price": 35000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8986922080.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8986922080",
+          "affiliate_url": "https://link.coupang.com/a/h9o94Q5j0S"
+        },
+        {
+          "productId": 9636830504,
+          "name": "소소잇템 미니 디지털 습도계 온도계 실내 가정용 온습도계, 2개, 심플화이트",
+          "price": 10900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9636830504.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9636830504",
+          "affiliate_url": "https://link.coupang.com/a/h9paeeY0E8"
+        },
+        {
+          "productId": 7863265788,
+          "name": "카스 백라이트 초정밀 디지털 온습도계 T035",
+          "price": 22000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/7863265788.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7863265788",
+          "affiliate_url": "https://link.coupang.com/a/h9pakVE7Gu"
+        },
+        {
+          "productId": 177857493,
+          "name": "카스 디지털 온습도계 T025 + 배터리 CR2032",
+          "price": 11860,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/177857493.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/177857493",
+          "affiliate_url": "https://link.coupang.com/a/h9pauWyo8a"
+        },
+        {
+          "productId": 6458121960,
+          "name": "랩앤툴스 디지털 온습도계 탁상형 HTC-1",
+          "price": 7400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6458121960.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6458121960",
+          "affiliate_url": "https://link.coupang.com/a/h9paBnmOSO"
+        }
+      ]
+    },
+    "단열 암막커튼": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8729454920,
+          "name": "1+1 HOMEY NEST 완벽 빛차단 3중직 단열 방풍 암막커튼 거실 커텐 아일렛형",
+          "price": 39900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8729454920.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8729454920",
+          "affiliate_url": "https://link.coupang.com/a/h9pa5nTb6O"
+        },
+        {
+          "productId": 6711426204,
+          "name": "코멧 홈 단열 아일렛 암막 커튼 2개입",
+          "price": 14990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6711426204.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6711426204",
+          "affiliate_url": "https://link.coupang.com/a/h9pbb6DRuK"
+        },
+        {
+          "productId": 180352941,
+          "name": "코멧 홈 단열 아일렛 암막 커튼",
+          "price": 9990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/180352941.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/180352941",
+          "affiliate_url": "https://link.coupang.com/a/h9pbjqsV2G"
+        },
+        {
+          "productId": 8454884661,
+          "name": "4중방한 방풍 누빔 바람막이 커튼 창문형 햇빛차단 방음 커튼1장",
+          "price": 39900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8454884661.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8454884661",
+          "affiliate_url": "https://link.coupang.com/a/h9pbpWFJgy"
+        },
+        {
+          "productId": 9782878985,
+          "name": "무감 1+1 붙이는 암막커튼 창문 무타공",
+          "price": 6900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9782878985.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9782878985",
+          "affiliate_url": "https://link.coupang.com/a/h9pbxF6dXw"
+        },
+        {
+          "productId": 8279037137,
+          "name": "3M정품 떨어지지 않고 쉽게 붙이는 단열 3중 암막커튼+끈 커튼봉 호환가능",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8279037137.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8279037137",
+          "affiliate_url": "https://link.coupang.com/a/h9pbDh9XRQ"
+        },
+        {
+          "productId": 8565605861,
+          "name": "코멧 홈 프리미엄 단열 아일렛 암막 커튼 2개입",
+          "price": 14990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8565605861.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8565605861",
+          "affiliate_url": "https://link.coupang.com/a/h9pbJEng6e"
+        },
+        {
+          "productId": 9702460668,
+          "name": "FASEN 암막커튼 단열 빛차단 커텐 3중직 호텔식 쉬폰커튼 사계절 아일렛형 먼지없는 침실 거실 커텐",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9702460668.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9702460668",
+          "affiliate_url": "https://link.coupang.com/a/h9pbTiRVG8"
+        }
+      ]
+    },
+    "수면양말": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9081602559,
+          "name": "이지하임 4켤레 털빠짐없는 편안한 무압박 남녀공용 수면양말 세트",
+          "price": 8900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9081602559.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9081602559",
+          "affiliate_url": "https://link.coupang.com/a/h9pcav28M8"
+        },
+        {
+          "productId": 6141078946,
+          "name": "100% 국산 수면양말 4족세트 무압박 남여공용 편안한 임산부 보온양말",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/6141078946.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6141078946",
+          "affiliate_url": "https://link.coupang.com/a/h9pcg8wWTk"
+        },
+        {
+          "productId": 9768037662,
+          "name": "라미 털빠짐 없는 무압박 산모 수면양말 4P",
+          "price": 3900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9768037662.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9768037662",
+          "affiliate_url": "https://link.coupang.com/a/h9pcnhqNq0"
+        },
+        {
+          "productId": 9153866754,
+          "name": "베이직라이프 데일리 수면양말 5p",
+          "price": 7980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9153866754.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9153866754",
+          "affiliate_url": "https://link.coupang.com/a/h9pcwiATfM"
+        },
+        {
+          "productId": 6726788381,
+          "name": "루나인 남성용 발볼넉넉 큰발 줄무늬 수면양말 대형 5종 세트",
+          "price": 12900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6726788381.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6726788381",
+          "affiliate_url": "https://link.coupang.com/a/h9pcBS1Klo"
+        },
+        {
+          "productId": 9773279597,
+          "name": "아르모노 털빠짐없는 무압박 남녀공용 수면양말 6켤레 세트",
+          "price": 6900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9773279597.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9773279597",
+          "affiliate_url": "https://link.coupang.com/a/h9pcIF8eYe"
+        },
+        {
+          "productId": 9763741061,
+          "name": "1+1 여성 강아지 캐릭터 롱 수면양말 겨울 뽀글이 보온양말 홈웨어 방안덧신",
+          "price": 7800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9763741061.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9763741061",
+          "affiliate_url": "https://link.coupang.com/a/h9pcTs1pO8"
+        },
+        {
+          "productId": 9707058746,
+          "name": "하옴 남자 무압박 미끄럼방지 수면양말 3p",
+          "price": 6900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9707058746.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9707058746",
+          "affiliate_url": "https://link.coupang.com/a/h9pc5zOqRP"
+        }
+      ]
+    },
+    "극세사 차렵이불": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6718528503,
+          "name": "코멧 홈 양면 극세사 솔리드 차렵이불",
+          "price": 19990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6718528503.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6718528503",
+          "affiliate_url": "https://link.coupang.com/a/h9pdnthSlo"
+        },
+        {
+          "productId": 8437044765,
+          "name": "쁘리엘르 유어메이트 극세사 워싱 차렵이불",
+          "price": 26910,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8437044765.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8437044765",
+          "affiliate_url": "https://link.coupang.com/a/h9pdtsA2uG"
+        },
+        {
+          "productId": 7614352984,
+          "name": "아망떼 소울메이트 장모 극세사 차렵이불",
+          "price": 33320,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7614352984.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7614352984",
+          "affiliate_url": "https://link.coupang.com/a/h9pdBPgS6e"
+        },
+        {
+          "productId": 9147842380,
+          "name": "양면이 똑같은 블라썸 5MM 착번아웃 극세사 차렵이불 퀸(Q) 싱글(SS)",
+          "price": 62900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9147842380.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9147842380",
+          "affiliate_url": "https://link.coupang.com/a/h9pdHGOkLc"
+        },
+        {
+          "productId": 9739396867,
+          "name": "COVERONE 찬기운 막아주는 코듀로이 양면 극세사 겨울 차렵이불",
+          "price": 29800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9739396867.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9739396867",
+          "affiliate_url": "https://link.coupang.com/a/h9pdNQSpP2"
+        },
+        {
+          "productId": 9770619687,
+          "name": "극세사 차렵이불 먼지 없는 부드러운 온감이불",
+          "price": 26200.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9770619687.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9770619687",
+          "affiliate_url": "https://link.coupang.com/a/h9pdXG9ZuK"
+        },
+        {
+          "productId": 9065672753,
+          "name": "더루비샵 양털 캐시미어 겨울 극세사 차렵이불",
+          "price": 42000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9065672753.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9065672753",
+          "affiliate_url": "https://link.coupang.com/a/h9pd3zA6uG"
+        },
+        {
+          "productId": 7662322241,
+          "name": "플로라침구 몬스테라 밍크터치 극세사 차렵이불",
+          "price": 44110,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7662322241.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7662322241",
+          "affiliate_url": "https://link.coupang.com/a/h9pd89iQuW"
+        }
+      ]
+    },
+    "이불 압축팩": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6732115151,
+          "name": "코멧 이불 압축팩",
+          "price": 7990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6732115151.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6732115151",
+          "affiliate_url": "https://link.coupang.com/a/h9pep5iK3U"
+        },
+        {
+          "productId": 9598131696,
+          "name": "[업그레이드 초두꺼운] 3D 진공 압축팩 옷 압축팩 이불 압축팩 입체 압축백 옷정리 압축 파우치 진공청소기 필요 없음 항균 방습 장마철 수납정리",
+          "price": 17800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9598131696.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9598131696",
+          "affiliate_url": "https://link.coupang.com/a/h9pezVTLRA"
+        },
+        {
+          "productId": 9621219475,
+          "name": "Savelio 3D 진공 압축팩 옷 압축팩 대용량 이불 옷 수납 진공팩",
+          "price": 11840,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9621219475.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9621219475",
+          "affiliate_url": "https://link.coupang.com/a/h9peHAKQsC"
+        },
+        {
+          "productId": 9516417290,
+          "name": "베리지 초대용량 고밀도 3D 진공 압축팩 패딩 겨울 옷 코트 이불 의류 수납 진공팩",
+          "price": 23330,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9516417290.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9516417290",
+          "affiliate_url": "https://link.coupang.com/a/h9peNQ2pYy"
+        },
+        {
+          "productId": 9709095530,
+          "name": "디모리안 펌프 필요없는 초강력 3D 진공 압축팩 중 대형 의류 이불 보관함 수납백 파우치",
+          "price": 29500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9709095530.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9709095530",
+          "affiliate_url": "https://link.coupang.com/a/h9peTF9HRQ"
+        },
+        {
+          "productId": 9687357522,
+          "name": "타리홈스 이불 압축팩 특대형 3d 진공 펌프 필요없는",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9687357522.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9687357522",
+          "affiliate_url": "https://link.coupang.com/a/h9pe4YZj08"
+        },
+        {
+          "productId": 8451050587,
+          "name": "조은리빙 이불 압축팩",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8451050587.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8451050587",
+          "affiliate_url": "https://link.coupang.com/a/h9pfbosr48"
+        },
+        {
+          "productId": 9666371361,
+          "name": "Zeviro 대용량 3D 진공 옷 이불 압축팩 무펌프 간편 압축 보관백",
+          "price": 12900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9666371361.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9666371361",
+          "affiliate_url": "https://link.coupang.com/a/h9pfhHOAuq"
+        }
+      ]
+    },
+    "극세사 무릎담요": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6856161460,
+          "name": "더자리 마이블랭킷 극세사 담요",
+          "price": 5200,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6856161460.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6856161460",
+          "affiliate_url": "https://link.coupang.com/a/h9pfznuezs"
+        },
+        {
+          "productId": 8327441340,
+          "name": "오리고 플리스 블랭킷 담요",
+          "price": 21600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8327441340.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8327441340",
+          "affiliate_url": "https://link.coupang.com/a/h9pfF99Lk4"
+        },
+        {
+          "productId": 9717775448,
+          "name": "로즈 꽃다발 담요 블랭킷 담요 완제품 무름담요 68송이",
+          "price": 32800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9717775448.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9717775448",
+          "affiliate_url": "https://link.coupang.com/a/h9pfRcwDWC"
+        },
+        {
+          "productId": 4368997131,
+          "name": "라이프란스 포근양 극세사 담요",
+          "price": 13900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/4368997131.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4368997131",
+          "affiliate_url": "https://link.coupang.com/a/h9pfYm2tDE"
+        },
+        {
+          "productId": 9728689302,
+          "name": "세루비 사무실 똑딱이 어깨담요 극세사 망토 무릎담요 3WAY",
+          "price": 16900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9728689302.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9728689302",
+          "affiliate_url": "https://link.coupang.com/a/h9pf6r7cbc"
+        },
+        {
+          "productId": 9748731700,
+          "name": "NS 극세사 블랭킷 무릎 담요",
+          "price": 11170,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9748731700.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9748731700",
+          "affiliate_url": "https://link.coupang.com/a/h9pgfGD7xk"
+        },
+        {
+          "productId": 7606752566,
+          "name": "1+1 따뜻한 극세사 무릎 담요 사계절 미니 학생 차량용 휴대용 고밀도 덮개 답례품",
+          "price": 13900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/7606752566.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7606752566",
+          "affiliate_url": "https://link.coupang.com/a/h9pgleFXbw"
+        },
+        {
+          "productId": 8528523115,
+          "name": "극세사 똑딱이 체크 망토 담요",
+          "price": 6950,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8528523115.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8528523115",
+          "affiliate_url": "https://link.coupang.com/a/h9pgskNzwG"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
