@@ -15,5 +15,9 @@
   "slides": [
     "01.jpg"
   ],
-  "result": {}
+  "result": {
+    "media_id": "17953448940299632",
+    "published_at": "2026-10-26T12:33:37+09:00"
+  },
+  "status": "published"
 }
