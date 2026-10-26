@@ -30,5 +30,39 @@
    "keyword": "극세사 무릎담요",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9642046260"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6711426204"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9081602559"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6718528503"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8451050587"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/4368997131"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9642046260"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/6718528503"
+  }
  ]
 }
