@@ -1,0 +1,38 @@
+{
+  "title": "감귤템 BEST3",
+  "slot": 2,
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n올해 귤 당도 8.5브릭스 🍊 귤 철 왔다! 감귤템 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 귤탐 당도선별 11Brix 감귤 2kg 💛 품번 0031\n당도선별 로열과, 로켓프레시 배송.\n\n2. 트레이더스 100% 착즙 제주감귤 주스 💛 품번 0032\n180ml 24개, 한 병씩 들고 다니기 좋아요.\n\n3. 미엘미 제주햇살품은 감귤칩 💛 품번 0033\n껍질 안 까도 되는 말린 감귤 간식.\n\n※ 10/27 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n\n#광고 #쿠팡추천템 #식품 #감귤 #제주감귤 #착즙주스 #감귤칩 #겨울간식",
+  "products": [
+    {
+      "no": 1,
+      "name": "귤탐 당도선별 11Brix 감귤 2kg",
+      "coupang_url": "https://www.coupang.com/vp/products/9225706227",
+      "affiliate_url": "https://link.coupang.com/a/ia3WscQCJg",
+      "code": "0031"
+    },
+    {
+      "no": 2,
+      "name": "트레이더스 100% 착즙 제주감귤 주스 180ml×24",
+      "coupang_url": "https://www.coupang.com/vp/products/9780048111",
+      "affiliate_url": "https://link.coupang.com/a/ia3XnKSrKe",
+      "code": "0032"
+    },
+    {
+      "no": 3,
+      "name": "미엘미 제주햇살품은 감귤칩",
+      "coupang_url": "https://www.coupang.com/vp/products/8735012408",
+      "affiliate_url": "https://link.coupang.com/a/ia3Y1LgGuP",
+      "code": "0033"
+    }
+  ],
+  "channel": "C",
+  "date": "2026-10-27",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
