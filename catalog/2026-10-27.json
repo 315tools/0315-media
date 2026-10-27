@@ -1,0 +1,497 @@
+{
+  "searches": {
+    "국산 새우젓 추젓": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9276578715,
+          "name": "100% 국산 광천 오복토굴 김장용 새우젓 추젓, 1개, 3kg",
+          "price": 45000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9276578715.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9276578715",
+          "affiliate_url": "https://link.coupang.com/a/ia3R8lwa60"
+        },
+        {
+          "productId": 8416417558,
+          "name": "일월식품 강화도 참새우젓 추젓2kg, 1개, 2kg",
+          "price": 28900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8416417558.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8416417558",
+          "affiliate_url": "https://link.coupang.com/a/ia3SkOYk0q"
+        },
+        {
+          "productId": 9412884918,
+          "name": "광천토굴새우젓 <김장새우젓> 딸부자집, 4kg, 1개",
+          "price": 54500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9412884918.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9412884918",
+          "affiliate_url": "https://link.coupang.com/a/ia3SsQZ7SK"
+        },
+        {
+          "productId": 9781849448,
+          "name": "[작년판매1위] MSG무첨가 추젓 국산 신안새우젓",
+          "price": 19600,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9781849448.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9781849448",
+          "affiliate_url": "https://link.coupang.com/a/ia3SAbdQrc"
+        },
+        {
+          "productId": 9782827661,
+          "name": "[100%국산]MSG무첨가 추젓 신안새우젓",
+          "price": 19800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9782827661.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9782827661",
+          "affiliate_url": "https://link.coupang.com/a/ia3ST4vqai"
+        },
+        {
+          "productId": 9786473240,
+          "name": "100%국산 추젓 신안새우젓 구매1위 김장젓갈",
+          "price": 25100.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9786473240.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9786473240",
+          "affiliate_url": "https://link.coupang.com/a/ia3S9bvixg"
+        },
+        {
+          "productId": 9789080412,
+          "name": "[30년 전통] 국산 새우젓 구매1위 추젓",
+          "price": 13800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9789080412.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9789080412",
+          "affiliate_url": "https://link.coupang.com/a/ia3TfC08WW"
+        }
+      ]
+    },
+    "국산 고춧가루 김장용": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9652760622,
+          "name": "든든한 농부 국산고춧가루 김치용 다용도입자, 5개, 1kg",
+          "price": 105000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9652760622.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9652760622",
+          "affiliate_url": "https://link.coupang.com/a/ia3TzOOazs"
+        },
+        {
+          "productId": 8919104081,
+          "name": "26년 국산 햇 고춧가루 김장용 보통매운맛 HACCP, 1개, 10kg",
+          "price": 249900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8919104081.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8919104081",
+          "affiliate_url": "https://link.coupang.com/a/ia3TTn2v3A"
+        },
+        {
+          "productId": 9698234770,
+          "name": "26년 햇 고춧가루 국산 김치용, 5kg, 1개",
+          "price": 128500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9698234770.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9698234770",
+          "affiliate_url": "https://link.coupang.com/a/ia3TZ29tue"
+        },
+        {
+          "productId": 8393181113,
+          "name": "26년 고춧가루 햇 청송 국내산 김장용, 1개, 10kg",
+          "price": 246000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8393181113.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8393181113",
+          "affiliate_url": "https://link.coupang.com/a/ia3T9jFAKO"
+        },
+        {
+          "productId": 8339425718,
+          "name": "26년산 국산 최상급 일편단심 해풍에 말린 태양초 고춧가루 일반 보통맛 / 최근제조 / 김치양념용",
+          "price": 28900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8339425718.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8339425718",
+          "affiliate_url": "https://link.coupang.com/a/ia3Ufd7JF6"
+        },
+        {
+          "productId": 7614295799,
+          "name": "청정식품 HACCP 국산 햇 고춧가루 굵은가루 1kg",
+          "price": 22500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/7614295799.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7614295799",
+          "affiliate_url": "https://link.coupang.com/a/ia3UlwtHX2"
+        },
+        {
+          "productId": 8072535485,
+          "name": "26년 국산 청송 햇 고춧가루 1kg 김장용",
+          "price": 24140,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8072535485.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8072535485",
+          "affiliate_url": "https://link.coupang.com/a/ia3UClZR4S"
+        }
+      ]
+    },
+    "포기김치 5kg": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9432971346,
+          "name": "[로켓프레시] 청원김치 포기김치 골드, 5kg, 1개",
+          "price": 26510,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9432971346.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9432971346",
+          "affiliate_url": "https://link.coupang.com/a/ia3UUbbEbc"
+        },
+        {
+          "productId": 8171274536,
+          "name": "이씨네 100% 국산 포기김치 배추김치 가정용, 1개, 5kg",
+          "price": 35910,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8171274536.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8171274536",
+          "affiliate_url": "https://link.coupang.com/a/ia3U07VmTY"
+        },
+        {
+          "productId": 6801669606,
+          "name": "깐깐 송도순 포기김치 5kg, 5kg, 1개",
+          "price": 25430,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/6801669606.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6801669606",
+          "affiliate_url": "https://link.coupang.com/a/ia3VdWDu8W"
+        },
+        {
+          "productId": 9689518521,
+          "name": "[당일발송] 시원김치 대용량 배추 포기김치, 10kg, 1박스",
+          "price": 17500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9689518521.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9689518521",
+          "affiliate_url": "https://link.coupang.com/a/ia3VktcBsy"
+        },
+        {
+          "productId": 9734735459,
+          "name": "[역대급할인] 100% 국산 전라도 포기배추김치",
+          "price": 21900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9734735459.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9734735459",
+          "affiliate_url": "https://link.coupang.com/a/ia3VrfAw56"
+        },
+        {
+          "productId": 9673213017,
+          "name": "[장관상수상] 국내산100% 포기김치 HACCP인증 당일제조",
+          "price": 28100,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9673213017.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9673213017",
+          "affiliate_url": "https://link.coupang.com/a/ia3VB9jdoO"
+        },
+        {
+          "productId": 7524090570,
+          "name": "종가 행복이온 포기김치 5kg",
+          "price": 32500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/7524090570.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7524090570",
+          "affiliate_url": "https://link.coupang.com/a/ia3VJXsh76"
+        }
+      ]
+    },
+    "제주 노지감귤": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 153770361,
+          "name": "귤담원 제주 제철 감귤, 07.감귤 5kg 로얄과(S/M), 1박스",
+          "price": 21900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/153770361.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/153770361",
+          "affiliate_url": "https://link.coupang.com/a/ia3V2iOcMe"
+        },
+        {
+          "productId": 9775851044,
+          "name": "(품질보장) 산지직송 초고당도 노지 감귤, 1개, 로얄과 10kg",
+          "price": 50000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9775851044.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9775851044",
+          "affiliate_url": "https://link.coupang.com/a/ia3WfK53Ce"
+        },
+        {
+          "productId": 7840242793,
+          "name": "제주 고당도 햇 노지감귤 하우스감귤, 10kg 로얄과, 1박스",
+          "price": 29900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/7840242793.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7840242793",
+          "affiliate_url": "https://link.coupang.com/a/ia3Wlz63vU"
+        },
+        {
+          "productId": 9225706227,
+          "name": "[로켓프레시] 귤탐 당도선별 11Brix 감귤, 2kg(로열과), 1개",
+          "price": 20990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9225706227.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9225706227",
+          "affiliate_url": "https://link.coupang.com/a/ia3WscQCJg"
+        },
+        {
+          "productId": 9777422262,
+          "name": "[제주농장] 제주 새콤달콤 노지감귤 귤농사50년 산지직송 밀감 랜덤과",
+          "price": 13700.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9777422262.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9777422262",
+          "affiliate_url": "https://link.coupang.com/a/ia3Wy6tTlA"
+        },
+        {
+          "productId": 9776675958,
+          "name": "제주 햇 노지감귤 고당도 산지직송 로얄과 중과 중대과",
+          "price": 18300.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9776675958.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9776675958",
+          "affiliate_url": "https://link.coupang.com/a/ia3WE9vwB2"
+        },
+        {
+          "productId": 9785922275,
+          "name": "[단독초특가] 제주 고당도 최대 15brix 노지 감귤 산지직송",
+          "price": 10740,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9785922275.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785922275",
+          "affiliate_url": "https://link.coupang.com/a/ia3WL7fpsa"
+        },
+        {
+          "productId": 9748496135,
+          "name": "[자연달다] 제주도 감귤 노지 햇귤",
+          "price": 10500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9748496135.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9748496135",
+          "affiliate_url": "https://link.coupang.com/a/ia3WS6phWC"
+        }
+      ]
+    },
+    "제주 감귤 착즙주스": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9773000259,
+          "name": "제주감귤 착즙 주스",
+          "price": 24410.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9773000259.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9773000259",
+          "affiliate_url": "https://link.coupang.com/a/ia3XccqTro"
+        },
+        {
+          "productId": 9780048111,
+          "name": "트레이더스 100% 착즙 제주감귤 주스 (4.32L) 180ml 24개",
+          "price": 28800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9780048111.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9780048111",
+          "affiliate_url": "https://link.coupang.com/a/ia3XnKSrKe"
+        },
+        {
+          "productId": 2081953034,
+          "name": "(100% 감귤) JUICE PRESSED 제주감귤 착즙주스 무첨가 생과일 건강주스",
+          "price": 33800.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/2081953034.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2081953034",
+          "affiliate_url": "https://link.coupang.com/a/ia3XuJkTzE"
+        },
+        {
+          "productId": 8610515911,
+          "name": "물타지않은 한라봉,감귤 착즙주스 인생주스 한라봉 8개",
+          "price": 20900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8610515911.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8610515911",
+          "affiliate_url": "https://link.coupang.com/a/ia3XBbCPpQ"
+        },
+        {
+          "productId": 9616088863,
+          "name": "[아름다운가게] 제주감귤주스 선물세트 100% 천연 착즙주스 과일주스",
+          "price": 19900.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9616088863.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9616088863",
+          "affiliate_url": "https://link.coupang.com/a/ia3XHPCgFw"
+        },
+        {
+          "productId": 9632471313,
+          "name": "귤품은해녀  착즙주스  한라봉 제주감귤  100%착즙 제주기념품 선물 20병",
+          "price": 45000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9632471313.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9632471313",
+          "affiliate_url": "https://link.coupang.com/a/ia3XWclwPY"
+        },
+        {
+          "productId": 7568346585,
+          "name": "물타지않은 레드향,감귤 착즙주스",
+          "price": 20900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/7568346585.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7568346585",
+          "affiliate_url": "https://link.coupang.com/a/ia3X793nIy"
+        }
+      ]
+    },
+    "감귤칩": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9704741326,
+          "name": "제주 감귤 다크 감귤칩 드라이칩 제주도기념품, 2개, 100g",
+          "price": 16000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9704741326.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9704741326",
+          "affiliate_url": "https://link.coupang.com/a/ia3YveFHhI"
+        },
+        {
+          "productId": 8795494371,
+          "name": "위드쿡 제주 요구르트 감귤칩, 1개, 220g",
+          "price": 29800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8795494371.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8795494371",
+          "affiliate_url": "https://link.coupang.com/a/ia3YB0Eyg8"
+        },
+        {
+          "productId": 9704747185,
+          "name": "제주 감귤 화이트 감귤칩 드라이칩 제주도기념품, 100g, 2개",
+          "price": 15000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9704747185.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9704747185",
+          "affiliate_url": "https://link.coupang.com/a/ia3YO2kOQK"
+        },
+        {
+          "productId": 8695346412,
+          "name": "쌍치로스터 유기농 건조감귤칩 감귤 제주도산, 1개, 40g",
+          "price": 9300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8695346412.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8695346412",
+          "affiliate_url": "https://link.coupang.com/a/ia3YVlVMPI"
+        },
+        {
+          "productId": 8735012408,
+          "name": "미엘미 제주햇살품은 감귤칩",
+          "price": 17640.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8735012408.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8735012408",
+          "affiliate_url": "https://link.coupang.com/a/ia3Y1LgGuP"
+        },
+        {
+          "productId": 7875016802,
+          "name": "딜라이트 프로젝트 상큼한 제주감귤칩",
+          "price": 25790.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/7875016802.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7875016802",
+          "affiliate_url": "https://link.coupang.com/a/ia3Y7NQA1c"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
