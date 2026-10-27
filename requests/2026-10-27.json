@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "국산 새우젓 추젓", "limit": 8},
-  {"key": "C", "keyword": "국산 고춧가루 김장용", "limit": 8},
-  {"key": "C", "keyword": "포기김치 5kg", "limit": 8},
-  {"key": "C", "keyword": "제주 노지감귤", "limit": 8},
-  {"key": "C", "keyword": "제주 감귤 착즙주스", "limit": 8},
-  {"key": "C", "keyword": "감귤칩", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "국산 새우젓 추젓",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "국산 고춧가루 김장용",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "포기김치 5kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "제주 노지감귤",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "제주 감귤 착즙주스",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "감귤칩",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8416417558"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8072535485"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9432971346"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9225706227"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9780048111"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8735012408"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9432971346"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9225706227"
+  }
  ]
 }
