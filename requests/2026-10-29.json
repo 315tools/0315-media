@@ -1,11 +1,73 @@
 {
  "searches": [
-  {"key": "C", "keyword": "자동 3단 우산", "limit": 8},
-  {"key": "C", "keyword": "신발 제습제", "limit": 8},
-  {"key": "C", "keyword": "현관 우산꽂이", "limit": 8},
-  {"key": "C", "keyword": "보풀제거기", "limit": 8},
-  {"key": "C", "keyword": "논슬립 옷걸이", "limit": 8},
-  {"key": "C", "keyword": "롤 클리너 테이프", "limit": 8},
-  {"key": "C", "keyword": "패딩 세탁 세제", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "자동 3단 우산",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "신발 제습제",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "현관 우산꽂이",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "보풀제거기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "논슬립 옷걸이",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "롤 클리너 테이프",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "패딩 세탁 세제",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9474468616"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9626026172"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/216551398"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/4947594003"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6643638905"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/2322706995"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9474468616"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/4947594003"
+  }
  ]
 }
