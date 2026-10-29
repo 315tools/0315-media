@@ -15,11 +15,17 @@ from common import DOCS, load_config
 def build(date: str, out: str) -> None:
     cfg = load_config()
     secs = []
-    for key, ch in cfg["channels"].items():
-        d = DOCS / "posts" / date / key
-        if not (d / "post.json").exists():
-            continue
-        p = json.loads((d / "post.json").read_text(encoding="utf-8"))
+    items = []
+    for ckey, ch in cfg["channels"].items():
+        times = ch.get("times") or [ch["default_time"]]
+        for slot, folder in ((1, ckey), (2, ckey + "2")):
+            d = DOCS / "posts" / date / folder
+            if not (d / "post.json").exists():
+                continue
+            p = json.loads((d / "post.json").read_text(encoding="utf-8"))
+            t = p.get("time") or times[min(p.get("slot", slot), len(times)) - 1]
+            items.append((t, folder, ch, d, p))
+    for t, key, ch, d, p in sorted(items, key=lambda x: x[0]):
         imgs = []
         for s in p["slides"]:
             im = Image.open(d / s).convert("RGB").resize((720, 900))
@@ -33,7 +39,7 @@ def build(date: str, out: str) -> None:
             for x in p["products"])
         status = {"published": "발행됨", "failed": "실패"}.get(p.get("status"), "예정")
         secs.append(f'''<article class="post">
-<header class="ph"><div class="av">{key}</div><div><b>@{ch["ig_username"]}</b><small>{html.escape(ch["title"])}</small></div><span class="time">{status} {p.get("time", ch["default_time"])}</span></header>
+<header class="ph"><div class="av">{key}</div><div><b>@{ch["ig_username"]}</b><small>{html.escape(ch["title"])}</small></div><span class="time">{status} {t}</span></header>
 <div class="car" tabindex="0" aria-label="슬라이드 {len(imgs)}장, 옆으로 넘겨 보기">{slides}</div>
 <p class="cnt">{len(imgs)}장 · 옆으로 넘겨 보세요</p>
 <pre class="cap">{html.escape(p["caption"])}</pre>
@@ -68,7 +74,7 @@ h3{{font-size:12px;letter-spacing:.06em;color:var(--muted);margin:16px 14px 6px}
 .n{{flex:none;width:22px;height:22px;border-radius:6px;background:var(--chip);color:var(--accent);font-weight:700;font-size:12px;display:grid;place-items:center}}
 .pn{{flex:1;min-width:0}} .pl a{{color:var(--accent);font-size:13px;flex:none}}
 </style>
-<main><div><h1>{m}월 {dd}일 발행 게시물</h1><p class="lead">세 채널에 올라갈 실제 이미지와 캡션입니다. 이미지는 옆으로 넘겨 보세요.</p></div>
+<main><div><h1>{m}월 {dd}일 발행 게시물</h1><p class="lead">세 채널(점심·퇴근길)에 올라갈 실제 이미지와 캡션입니다. 이미지는 옆으로 넘겨 보세요.</p></div>
 {"".join(secs)}</main>'''
     with open(out, "w", encoding="utf-8") as f:
         f.write(page)
