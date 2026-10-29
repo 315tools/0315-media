@@ -1,0 +1,579 @@
+{
+  "searches": {
+    "자동 3단 우산": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9669283571,
+          "name": "솔라보 접이식 초대형 암막 자동 3단 우산 양우산",
+          "price": 19900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9669283571.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9669283571",
+          "affiliate_url": "https://link.coupang.com/a/ienJsqy7ye"
+        },
+        {
+          "productId": 8779365499,
+          "name": "그로스앤썸머 튼튼한 UV 자외선 완벽 차단 3단 접이식 원터치 경량 자동 우산 겸용 양산",
+          "price": 25900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8779365499.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8779365499",
+          "affiliate_url": "https://link.coupang.com/a/ienJzxFLGu"
+        },
+        {
+          "productId": 9474468616,
+          "name": "솔리앤 초경량 UV차단 3단자동우산",
+          "price": 6500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9474468616.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9474468616",
+          "affiliate_url": "https://link.coupang.com/a/ienJKjDrbw"
+        },
+        {
+          "productId": 9748484289,
+          "name": "UV 차단 3단 자동우산 1개",
+          "price": 8400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9748484289.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9748484289",
+          "affiliate_url": "https://link.coupang.com/a/ienJQ2smPs"
+        },
+        {
+          "productId": 9686311745,
+          "name": "[메종드레인] 1+1 UV자외선차단 양우산 겸용 3단 자동우산 암막 우양산 원터치 3단 자동 우산 양산",
+          "price": 12900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9686311745.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9686311745",
+          "affiliate_url": "https://link.coupang.com/a/ienJZl2c2e"
+        },
+        {
+          "productId": 9494425221,
+          "name": "귀여운고양이 반투명 우산 캐릭터 예쁜우산 학생우산 3단우산 자동/수동 우산(카툰 고양이 디자인, 학생 선물로 적합)",
+          "price": 15500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9494425221.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9494425221",
+          "affiliate_url": "https://link.coupang.com/a/ienKbd7BKK"
+        }
+      ]
+    },
+    "신발 제습제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9626026172,
+          "name": "서프라이즈 신발용 진짜 좋은 제습제 8p, 640g, 1개",
+          "price": 10100,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9626026172.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9626026172",
+          "affiliate_url": "https://link.coupang.com/a/ienKt4AlPw"
+        },
+        {
+          "productId": 8384706099,
+          "name": "냄새털이범 초강력 신발 탈취 운동화 구두 군인 군화 냄새 제거, 3세트, 40g",
+          "price": 33110,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8384706099.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8384706099",
+          "affiliate_url": "https://link.coupang.com/a/ienKE91J8e"
+        },
+        {
+          "productId": 9614475515,
+          "name": "Sprize 진짜 좋은 제습제 일반형 30p, 900g, 1개",
+          "price": 17700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9614475515.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9614475515",
+          "affiliate_url": "https://link.coupang.com/a/ienKKPD2ku"
+        },
+        {
+          "productId": 9712062099,
+          "name": "서프라이즈 발냄새 신발냄새 제거 신발관리 신발장 탈취제 10팩 세트, 80g, 20개",
+          "price": 27900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9712062099.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9712062099",
+          "affiliate_url": "https://link.coupang.com/a/ienKShKZ5w"
+        },
+        {
+          "productId": 4882418922,
+          "name": "홈플래닛 실리카겔 제습제",
+          "price": 8540,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/4882418922.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4882418922",
+          "affiliate_url": "https://link.coupang.com/a/ienKYFN8vc"
+        },
+        {
+          "productId": 9569451430,
+          "name": "헤오드 스멜제로 신발 탈취제 초강력 발냄새 제거 제습 항균 3in1 런닝화 구두 군화 작업화 부츠",
+          "price": 11620,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9569451430.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9569451430",
+          "affiliate_url": "https://link.coupang.com/a/ienK5gqhpc"
+        },
+        {
+          "productId": 8314586681,
+          "name": "크로반 제습제 실리카겔 습기제거제 신발 의류 방습제 서랍용 서랍장 신발장",
+          "price": 8590,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8314586681.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8314586681",
+          "affiliate_url": "https://link.coupang.com/a/ienLb6ywaO"
+        }
+      ]
+    },
+    "현관 우산꽂이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9636740048,
+          "name": "마녀픽 모던 철제 우산꽂이 물받이 분리형 현관 우산 거치대 스탠드, 블랙, 1개",
+          "price": 45300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9636740048.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9636740048",
+          "affiliate_url": "https://link.coupang.com/a/ienLulqqnQ"
+        },
+        {
+          "productId": 8707374134,
+          "name": "누바르 완전딱붙 자석 우산꽂이 초강력 마그네틱, 퓨어화이트(WH), 1개",
+          "price": 18000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8707374134.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8707374134",
+          "affiliate_url": "https://link.coupang.com/a/ienLA8j1Qj"
+        },
+        {
+          "productId": 9584800069,
+          "name": "레디박스 튼튼한 철제 사각 스탠드 대형 우산꽂이, 골드, 1개",
+          "price": 20420,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9584800069.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9584800069",
+          "affiliate_url": "https://link.coupang.com/a/ienLJxbXwG"
+        },
+        {
+          "productId": 9521449492,
+          "name": "홈비 현관 물받침 인테리어 스탠드 우산꽂이, 화이트, 1개",
+          "price": 32900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9521449492.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9521449492",
+          "affiliate_url": "https://link.coupang.com/a/ienLUEn1lk"
+        },
+        {
+          "productId": 216551398,
+          "name": "리템 우산꽂이 자석형",
+          "price": 5970,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/216551398.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/216551398",
+          "affiliate_url": "https://link.coupang.com/a/ienL0RlB92"
+        },
+        {
+          "productId": 7597404333,
+          "name": "코멧 홈 철제 메쉬 우산꽂이",
+          "price": 7820,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7597404333.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7597404333",
+          "affiliate_url": "https://link.coupang.com/a/ienL8etAg8"
+        },
+        {
+          "productId": 9173998182,
+          "name": "리템 우산꽂이 자석형 5구",
+          "price": 6930,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9173998182.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9173998182",
+          "affiliate_url": "https://link.coupang.com/a/ienMeHNjsO"
+        },
+        {
+          "productId": 9647818784,
+          "name": "앙플러스 사각 철제 대용량 우산꽂이",
+          "price": 12000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9647818784.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9647818784",
+          "affiliate_url": "https://link.coupang.com/a/ienMk0H2jc"
+        }
+      ]
+    },
+    "보풀제거기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6961969830,
+          "name": "메이드조이 세탁소용 보풀제거기, MX-200, 화이트 + 로즈골드",
+          "price": 35800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6961969830.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6961969830",
+          "affiliate_url": "https://link.coupang.com/a/ienMCCvAyX"
+        },
+        {
+          "productId": 9717654561,
+          "name": "Ylians 강력한 보풀제거기 세탁소용 충전식 6중날 휴대용 프리미엄 대용량 LED 5단조절, 화이트, YM15",
+          "price": 28900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9717654561.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9717654561",
+          "affiliate_url": "https://link.coupang.com/a/ienMIFOOXs"
+        },
+        {
+          "productId": 9221377171,
+          "name": "8세대 8중날 프리미엄 LED 보풀제거기 휴대용 충전식 보풀 제거기, 퓨어 화이트 PREMIUM, KRLR-5329",
+          "price": 36900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9221377171.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9221377171",
+          "affiliate_url": "https://link.coupang.com/a/ienMQwHAZM"
+        },
+        {
+          "productId": 9208554018,
+          "name": "파나소닉 최신상 무선 보풀제거기 NI-LR002 고성능 8500rpm 6중날 전문가용 캐시미어 세탁소 니트 코트 보풀제거, 바이올렛, 색상",
+          "price": 29800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9208554018.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9208554018",
+          "affiliate_url": "https://link.coupang.com/a/ienMWWOz5o"
+        },
+        {
+          "productId": 4947594003,
+          "name": "필립스 보풀제거기",
+          "price": 12900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/4947594003.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4947594003",
+          "affiliate_url": "https://link.coupang.com/a/ienM3Fpq2u"
+        },
+        {
+          "productId": 9053329272,
+          "name": "LKOUY 보풀제거기 휴대용 충전식 6중날 대용량 세탁소용",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9053329272.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9053329272",
+          "affiliate_url": "https://link.coupang.com/a/ienM9qjvxc"
+        },
+        {
+          "productId": 9767931796,
+          "name": "[신일] 옷감 손상없는 6중날 프리미엄 보풀제거기 무선 세탁소용",
+          "price": 27900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9767931796.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9767931796",
+          "affiliate_url": "https://link.coupang.com/a/ienNfYVkcu"
+        },
+        {
+          "productId": 9710456479,
+          "name": "[2026신제품/ 8만대 돌파] 커버원 프리미엄 보풀제거기 세탁소용 6중날 충전식 대용량 LED",
+          "price": 16800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9710456479.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9710456479",
+          "affiliate_url": "https://link.coupang.com/a/ienNlwOVrM"
+        }
+      ]
+    },
+    "논슬립 옷걸이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8301596161,
+          "name": "한평한뼘 어깨뿔방지 논슬립 옷걸이 고급형, 30개, 논슬립그레이",
+          "price": 37900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8301596161.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8301596161",
+          "affiliate_url": "https://link.coupang.com/a/ienNCYck1Y"
+        },
+        {
+          "productId": 7910710510,
+          "name": "진심감성 어깨뿔 방지 논슬립 옷걸이, 베이지, 180개",
+          "price": 106020,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7910710510.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7910710510",
+          "affiliate_url": "https://link.coupang.com/a/ienNJj3MSi"
+        },
+        {
+          "productId": 8645325149,
+          "name": "아크배라 회전형 논슬립 옷걸이 어깨뿔방지, 80개, 그레이색",
+          "price": 37000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8645325149.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8645325149",
+          "affiliate_url": "https://link.coupang.com/a/ienNQo1qFg"
+        },
+        {
+          "productId": 256738242,
+          "name": "코멧 코팅 논슬립 옷걸이",
+          "price": 9790,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/256738242.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/256738242",
+          "affiliate_url": "https://link.coupang.com/a/ienNVRLaPQ"
+        },
+        {
+          "productId": 6643638905,
+          "name": "코멧 홈 어깨 뿔 방지 논슬립 옷걸이",
+          "price": 16550,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/6643638905.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6643638905",
+          "affiliate_url": "https://link.coupang.com/a/ienN2WA1VA"
+        }
+      ]
+    },
+    "롤 클리너 테이프": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8358479889,
+          "name": "리모롤 돌돌이 테이프클리너 리필 핸들 세트, 1세트",
+          "price": 24600,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/8358479889.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8358479889",
+          "affiliate_url": "https://link.coupang.com/a/ienOlIXBue"
+        },
+        {
+          "productId": 9597816538,
+          "name": "meijoy 사선컷팅 테이프 클리너 리필 540장 6.3인치 대형 점착 롤러, 27개",
+          "price": 20310,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9597816538.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9597816538",
+          "affiliate_url": "https://link.coupang.com/a/ienOzQxPLE"
+        },
+        {
+          "productId": 9726139023,
+          "name": "meijoy 테이프 클리너 리필 12롤 사선절단 60매 총720매, 12개",
+          "price": 20710,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9726139023.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9726139023",
+          "affiliate_url": "https://link.coupang.com/a/ienOFV4kLs"
+        },
+        {
+          "productId": 7440496890,
+          "name": "리모롤 국산 돌돌이 테이프클리너 160mm리필 대용량, 10개",
+          "price": 24500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7440496890.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7440496890",
+          "affiliate_url": "https://link.coupang.com/a/ienOTkCDme"
+        },
+        {
+          "productId": 8837754547,
+          "name": "초강력 사선 컷팅 테이프 클리너 리필 16cm 90회분",
+          "price": 6660,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8837754547.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8837754547",
+          "affiliate_url": "https://link.coupang.com/a/ienO0Gi67o"
+        },
+        {
+          "productId": 7335777355,
+          "name": "진캐어 초강력 사선컷팅 돌돌이 리필 16cm, 18개",
+          "price": 18700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7335777355.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7335777355",
+          "affiliate_url": "https://link.coupang.com/a/ienPcVkuVU"
+        },
+        {
+          "productId": 9049839425,
+          "name": "아뜰라임화이트 초강력 사선 컷팅 테이프 클리너 스틸핸들 16cm 본품 + 리필 세트",
+          "price": 15980.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9049839425.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9049839425",
+          "affiliate_url": "https://link.coupang.com/a/ienPrgO4Au"
+        },
+        {
+          "productId": 9778499183,
+          "name": "필굿리빙 V컷팅 돌돌이 테이프 클리너 리필",
+          "price": 18900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9778499183.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9778499183",
+          "affiliate_url": "https://link.coupang.com/a/ienPyrkUhw"
+        }
+      ]
+    },
+    "패딩 세탁 세제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8428251673,
+          "name": "다운와셔 오리털 구스다운 거위털 패딩세제 이불 침낭 침구 전용 세탁 세제, 15개, 30ml",
+          "price": 17370,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8428251673.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8428251673",
+          "affiliate_url": "https://link.coupang.com/a/ienPWr1cOG"
+        },
+        {
+          "productId": 2322706995,
+          "name": "쉬슬러 구스다운워시 전용 액상세제 본품, 650ml, 1개",
+          "price": 14840,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/2322706995.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2322706995",
+          "affiliate_url": "https://link.coupang.com/a/ienP8pzfgq"
+        },
+        {
+          "productId": 8399406761,
+          "name": "닉왁스 다운워시 구스다운워시 울샴푸, 1개, 1L",
+          "price": 24700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8399406761.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8399406761",
+          "affiliate_url": "https://link.coupang.com/a/ienQeRsYNM"
+        },
+        {
+          "productId": 8687771994,
+          "name": "허글리 8IN1 딥 클린 초고농축 캡슐 세탁세제 코튼캔디 향, 1개, 100개입",
+          "price": 16300,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8687771994.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8687771994",
+          "affiliate_url": "https://link.coupang.com/a/ienQk8ykay"
+        },
+        {
+          "productId": 9777088810,
+          "name": "[옷 손상 없이~!] 패딩 전용 세탁세제 홈 드라이크리닝 세제 패딩 얼룩제거제 구스 다운 세제 패딩 볼륨제 중성 세제 가정용 손빨래 LUPEIYA 포장증정",
+          "price": 11600,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9777088810.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9777088810",
+          "affiliate_url": "https://link.coupang.com/a/ienQsgDyoe"
+        },
+        {
+          "productId": 9780871934,
+          "name": "1+1/2+2 패딩 얼룩제거제 패딩 전용 세탁세제 패딩 세제 크리너 패딩 화장품 얼룩제거제 옷 찌든때 전용세제 YONICE",
+          "price": 10800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9780871934.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9780871934",
+          "affiliate_url": "https://link.coupang.com/a/ienQzUkZKm"
+        },
+        {
+          "productId": 1292114,
+          "name": "울샴푸 다운워시 본품",
+          "price": 9070,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/1292114.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1292114",
+          "affiliate_url": "https://link.coupang.com/a/ienQF6A9T2"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
