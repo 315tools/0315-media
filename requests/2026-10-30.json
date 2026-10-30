@@ -1,0 +1,10 @@
+{
+ "searches": [
+  {"key": "C", "keyword": "호빵", "limit": 8},
+  {"key": "C", "keyword": "냉동 군고구마", "limit": 8},
+  {"key": "C", "keyword": "어묵탕 세트", "limit": 8},
+  {"key": "C", "keyword": "매일우유 멸균 200ml", "limit": 8},
+  {"key": "C", "keyword": "매일 드링킹 요거트", "limit": 8},
+  {"key": "C", "keyword": "그래놀라", "limit": 8}
+ ]
+}
