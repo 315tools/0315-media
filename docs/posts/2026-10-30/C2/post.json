@@ -1,0 +1,38 @@
+{
+  "title": "아침 한 끼 BEST3",
+  "slot": 2,
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n11월부터 우유·요거트 일부 인상 🥛 가격 유지 품목으로 아침 한 끼 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 매일우유 멸균 오리지널 💛 품번 0049\n가격 동결된 흰 우유, 200ml 멸균팩.\n\n2. 매일바이오 드링킹 플레인 💛 품번 0050\n가격 유지되는 드링크 요거트.\n\n3. 포스트 크랜베리 아몬드 그래놀라 💛 품번 0051\n우유·요거트에 곁들이는 그래놀라.\n\n※ 가격 인상·동결: 매일유업 발표(뉴스핌·천지일보 10/27 보도)\n※ 10/30 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n\n#광고 #쿠팡추천템 #아침식사 #우유 #요거트 #그래놀라 #장보기 #물가",
+  "products": [
+    {
+      "no": 1,
+      "name": "매일우유 멸균 오리지널",
+      "coupang_url": "https://www.coupang.com/vp/products/9736556263",
+      "affiliate_url": "https://link.coupang.com/a/if2HO35Jcr",
+      "code": "0049"
+    },
+    {
+      "no": 2,
+      "name": "매일바이오 드링킹 플레인",
+      "coupang_url": "https://www.coupang.com/vp/products/7183750807",
+      "affiliate_url": "https://link.coupang.com/a/if2I0LMrNQ",
+      "code": "0050"
+    },
+    {
+      "no": 3,
+      "name": "포스트 크랜베리 아몬드 그래놀라",
+      "coupang_url": "https://www.coupang.com/vp/products/257055522",
+      "affiliate_url": "https://link.coupang.com/a/if2JVefJRs",
+      "code": "0051"
+    }
+  ],
+  "channel": "C",
+  "date": "2026-10-30",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
