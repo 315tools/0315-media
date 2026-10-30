@@ -1,0 +1,475 @@
+{
+  "searches": {
+    "호빵": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9770796601,
+          "name": "삼립호빵 2026 단팥 고구마 야채 피자 4종 세트",
+          "price": 18960,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9770796601.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9770796601",
+          "affiliate_url": "https://link.coupang.com/a/if2DnSPU2D"
+        },
+        {
+          "productId": 6842081997,
+          "name": "[로켓프레시] 삼립 호빵 발효미종 단팥 6p + 달콤 꿀 고구마 6p 세트",
+          "price": 12280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6842081997.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6842081997",
+          "affiliate_url": "https://link.coupang.com/a/if2DASDASy"
+        },
+        {
+          "productId": 9141856844,
+          "name": "삼립 삼립호빵 정통단팥1봉+야채1봉+피자1봉",
+          "price": 15210,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9141856844.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9141856844",
+          "affiliate_url": "https://link.coupang.com/a/if2DJe5mNg"
+        },
+        {
+          "productId": 7165408021,
+          "name": "삼립 단팥호빵 10봉",
+          "price": 12300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7165408021.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7165408021",
+          "affiliate_url": "https://link.coupang.com/a/if2DP0Cu2C"
+        },
+        {
+          "productId": 2346811126,
+          "name": "삼립 호빵 발효미종 단팥 + 피자",
+          "price": 12280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/2346811126.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2346811126",
+          "affiliate_url": "https://link.coupang.com/a/if2D4Q4VUa"
+        },
+        {
+          "productId": 328726537,
+          "name": "삼립 호빵 발효미종 단팥 + 야채",
+          "price": 12280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/328726537.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/328726537",
+          "affiliate_url": "https://link.coupang.com/a/if2EaZNJim"
+        },
+        {
+          "productId": 9244853248,
+          "name": "[보아스몰] 삼립 야채호빵 1봉 + 피자호빵 1봉",
+          "price": 11790,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9244853248.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9244853248",
+          "affiliate_url": "https://link.coupang.com/a/if2ElTN0I8"
+        },
+        {
+          "productId": 9766429683,
+          "name": "삼립 미니 호빵 3봉(단팥1봉, 야채1봉, 피자1봉)혼합 꼬마 찐빵 겨울간식",
+          "price": 13840,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9766429683.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766429683",
+          "affiliate_url": "https://link.coupang.com/a/if2Et6bAGG"
+        }
+      ]
+    },
+    "냉동 군고구마": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7308154285,
+          "name": "[로켓프레시] 가든클래식스 고구마공장 아이스 군고구마 (냉동), 1kg, 1개",
+          "price": 13600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7308154285.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7308154285",
+          "affiliate_url": "https://link.coupang.com/a/if2ESANyzQ"
+        },
+        {
+          "productId": 5938785691,
+          "name": "불로구마 직화 아이스 군고구마 개별포장 꿀고구마 (냉동), 130g, 10개",
+          "price": 25800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/5938785691.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5938785691",
+          "affiliate_url": "https://link.coupang.com/a/if2E2Gf6wS"
+        },
+        {
+          "productId": 5380033580,
+          "name": "해남 다모 꿀고구마, 5kg (특상), 1개",
+          "price": 15900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/5380033580.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5380033580",
+          "affiliate_url": "https://link.coupang.com/a/if2FbKztcG"
+        },
+        {
+          "productId": 8605157759,
+          "name": "간편조리 아이스 군고구마",
+          "price": 13500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8605157759.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8605157759",
+          "affiliate_url": "https://link.coupang.com/a/if2FmA1clw"
+        }
+      ]
+    },
+    "어묵탕 세트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9658332782,
+          "name": "대풍관 30년전통 부산 물떡 떡말이 어묵탕 오뎅탕2~3인분, 650g, 1개",
+          "price": 17400,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9658332782.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9658332782",
+          "affiliate_url": "https://link.coupang.com/a/if2FFeSOR2"
+        },
+        {
+          "productId": 8312925287,
+          "name": "[로켓프레시] 복선당 이자카야 모듬 가마보꼬 전골 밀키트 (냉동), 600g, 1개",
+          "price": 13000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8312925287.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8312925287",
+          "affiliate_url": "https://link.coupang.com/a/if2FTVco0W"
+        },
+        {
+          "productId": 8243695997,
+          "name": "환공어묵 일품꼬치어묵(소스포함) 350g 5봉 총 50개입, 1세트, 1.75kg",
+          "price": 18700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8243695997.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8243695997",
+          "affiliate_url": "https://link.coupang.com/a/if2F0kAO7h"
+        },
+        {
+          "productId": 7663436365,
+          "name": "깡통시장 수제 유부어묵전골 즉석 밀키트 일반(2-3인분), 650g, 1개",
+          "price": 18900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7663436365.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7663436365",
+          "affiliate_url": "https://link.coupang.com/a/if2F6OOqqG"
+        },
+        {
+          "productId": 7324843040,
+          "name": "삼진어묵 오동통 모듬어묵 + 스프",
+          "price": 9110,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7324843040.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7324843040",
+          "affiliate_url": "https://link.coupang.com/a/if2GkEjBvM"
+        },
+        {
+          "productId": 9771065657,
+          "name": "[오늘담음]국내산 골뱅이 어묵탕 밀키트",
+          "price": 15900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9771065657.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9771065657",
+          "affiliate_url": "https://link.coupang.com/a/if2GrfVM4G"
+        },
+        {
+          "productId": 111308324,
+          "name": "삼호 오색어묵탕",
+          "price": 5770.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/111308324.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/111308324",
+          "affiliate_url": "https://link.coupang.com/a/if2GyYdTfo"
+        },
+        {
+          "productId": 9770957727,
+          "name": "[윤슬한상]국내산 골벵이 어묵탕 프리미엄 부산어묵 밀키트",
+          "price": 15900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9770957727.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9770957727",
+          "affiliate_url": "https://link.coupang.com/a/if2GMEnjUa"
+        }
+      ]
+    },
+    "매일우유 멸균 200ml": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9748931999,
+          "name": "파이토메이드 아이러브밀크 3.5% 멸균우유, 1박스, 12L",
+          "price": 21000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9748931999.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9748931999",
+          "affiliate_url": "https://link.coupang.com/a/if2G4Gj1ZA"
+        },
+        {
+          "productId": 9536213705,
+          "name": "믈레코비타 3.5% 멸균우유, 1L, 2개",
+          "price": 6700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9536213705.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9536213705",
+          "affiliate_url": "https://link.coupang.com/a/if2Himj5Vc"
+        },
+        {
+          "productId": 8157289814,
+          "name": "건국유업 착한목장 무항생제 멸균우유, 190ml, 24개",
+          "price": 21900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8157289814.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8157289814",
+          "affiliate_url": "https://link.coupang.com/a/if2Hpc7neS"
+        },
+        {
+          "productId": 9561907456,
+          "name": "어드밴스 A2우유 갓밀크 3.8% 멸균우유, 4개, 1L",
+          "price": 8800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9561907456.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9561907456",
+          "affiliate_url": "https://link.coupang.com/a/if2Hv42VCm"
+        },
+        {
+          "productId": 5619407625,
+          "name": "매일우유 멸균우유 200mlx24팩 딸기우유,초코우유,커피우유 혼합가능",
+          "price": 16130,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/5619407625.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5619407625",
+          "affiliate_url": "https://link.coupang.com/a/if2HCB0NoW"
+        },
+        {
+          "productId": 9736556263,
+          "name": "매일우유 멸균 오리지널",
+          "price": 34500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9736556263.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9736556263",
+          "affiliate_url": "https://link.coupang.com/a/if2HO35Jcr"
+        },
+        {
+          "productId": 9439754864,
+          "name": "매일우유 멸균200ml 24팩(무지방0%12+커피맛12)무배",
+          "price": 20240,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9439754864.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9439754864",
+          "affiliate_url": "https://link.coupang.com/a/if2H0sprEq"
+        },
+        {
+          "productId": 8288887153,
+          "name": "매일우유 멸균200ml 24팩(무지방0%12+딸기12)무배",
+          "price": 20240,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8288887153.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8288887153",
+          "affiliate_url": "https://link.coupang.com/a/if2H6iAAKW"
+        }
+      ]
+    },
+    "매일 드링킹 요거트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9595817009,
+          "name": "요거몰 밝은 하루엔 수제 블루베리 요거트, 1개, 1000L",
+          "price": 14800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9595817009.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9595817009",
+          "affiliate_url": "https://link.coupang.com/a/if2IubJvtA"
+        },
+        {
+          "productId": 9326146775,
+          "name": "[로켓프레시] 그릭데이 짜먹는 요거트 플레인, 3개, 1개, 100ml",
+          "price": 6300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9326146775.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9326146775",
+          "affiliate_url": "https://link.coupang.com/a/if2Iz5xKa4"
+        },
+        {
+          "productId": 9302800498,
+          "name": "[로켓프레시] 그릭데이 저당 요거트 블루베리, 900g, 1개, 1개입",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9302800498.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9302800498",
+          "affiliate_url": "https://link.coupang.com/a/if2IGLX55g"
+        },
+        {
+          "productId": 6927392829,
+          "name": "강훈목장 수제요거트 블루베리 1000ml, 1L, 4개",
+          "price": 31540,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/6927392829.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6927392829",
+          "affiliate_url": "https://link.coupang.com/a/if2IOXRbKm"
+        },
+        {
+          "productId": 7183750807,
+          "name": "[로켓프레시] 매일바이오 드링킹 플레인",
+          "price": 5150,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7183750807.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7183750807",
+          "affiliate_url": "https://link.coupang.com/a/if2I0LMrNQ"
+        },
+        {
+          "productId": 7186163701,
+          "name": "[로켓프레시] 매일바이오 드링킹 블루베리",
+          "price": 7110.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7186163701.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7186163701",
+          "affiliate_url": "https://link.coupang.com/a/if2I6Lb0k8"
+        }
+      ]
+    },
+    "그래놀라": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7012375223,
+          "name": "켈로그 리얼 그래놀라 오리지널 시리얼, 400g, 3개",
+          "price": 21050,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7012375223.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7012375223",
+          "affiliate_url": "https://link.coupang.com/a/if2JowKwbQ"
+        },
+        {
+          "productId": 7385420674,
+          "name": "켈로그 100% 벨기에산 그래놀라 시리얼, 900g, 2개",
+          "price": 20900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7385420674.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7385420674",
+          "affiliate_url": "https://link.coupang.com/a/if2JvkP2BM"
+        },
+        {
+          "productId": 5890638597,
+          "name": "켈로그 고소한 현미 그래놀라 시리얼, 500g, 3개",
+          "price": 16200,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/5890638597.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5890638597",
+          "affiliate_url": "https://link.coupang.com/a/if2JA70kYS"
+        },
+        {
+          "productId": 1909946,
+          "name": "동서 그래놀라 시리얼",
+          "price": 8960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/1909946.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1909946",
+          "affiliate_url": "https://link.coupang.com/a/if2JHDMhNY"
+        },
+        {
+          "productId": 6927954995,
+          "name": "그래놀라하우스 오리지널",
+          "price": 11650,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6927954995.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6927954995",
+          "affiliate_url": "https://link.coupang.com/a/if2JOkU5e0"
+        },
+        {
+          "productId": 257055522,
+          "name": "포스트 크랜베리 아몬드 그래놀라",
+          "price": 9960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/257055522.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/257055522",
+          "affiliate_url": "https://link.coupang.com/a/if2JVefJRs"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
