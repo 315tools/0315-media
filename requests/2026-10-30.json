@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "호빵", "limit": 8},
-  {"key": "C", "keyword": "냉동 군고구마", "limit": 8},
-  {"key": "C", "keyword": "어묵탕 세트", "limit": 8},
-  {"key": "C", "keyword": "매일우유 멸균 200ml", "limit": 8},
-  {"key": "C", "keyword": "매일 드링킹 요거트", "limit": 8},
-  {"key": "C", "keyword": "그래놀라", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "호빵",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "냉동 군고구마",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "어묵탕 세트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "매일우유 멸균 200ml",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "매일 드링킹 요거트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "그래놀라",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6842081997"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7308154285"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7324843040"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9736556263"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7183750807"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/257055522"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/6842081997"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/7183750807"
+  }
  ]
 }
