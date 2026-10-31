@@ -33,8 +33,8 @@
   ],
   "result": {
     "error": "HTTP 403: Application request limit reached",
-    "at": "2026-10-31T13:41:29+09:00"
+    "at": "2026-10-31T14:38:32+09:00"
   },
   "status": "failed",
-  "attempts": 2
+  "attempts": 3
 }
