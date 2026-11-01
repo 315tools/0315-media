@@ -30,5 +30,39 @@
    "keyword": "입는 담요 망토",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9452930886"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7707999407"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9558071037"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9786132902"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9221650737"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9209366324"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9452930886"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9209366324"
+  }
  ]
 }
