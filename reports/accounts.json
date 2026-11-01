@@ -1,23 +1,23 @@
 {
-  "checked_at": "2026-10-26T08:10:22.492772+09:00",
+  "checked_at": "2026-11-02T08:21:46.245551+09:00",
   "accounts": {
     "A": {
       "username": "0315news",
       "followers": 0,
-      "posts": 7,
-      "quota_used": 2
+      "posts": 33,
+      "quota_used": 0
     },
     "B": {
       "username": "0315_zzal",
       "followers": 0,
-      "posts": 7,
+      "posts": 21,
       "quota_used": 2
     },
     "C": {
       "username": "0315_pick",
       "followers": 0,
-      "posts": 7,
-      "quota_used": 2
+      "posts": 31,
+      "quota_used": 0
     }
   }
 }
