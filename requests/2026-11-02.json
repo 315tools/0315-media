@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "문풍지 외풍차단", "limit": 8},
-  {"key": "C", "keyword": "창문 단열 뽁뽁이 에어캡", "limit": 8},
-  {"key": "C", "keyword": "문틈 바람막이", "limit": 8},
-  {"key": "C", "keyword": "난방텐트", "limit": 8},
-  {"key": "C", "keyword": "겨울 털 실내화", "limit": 8},
-  {"key": "C", "keyword": "무전원 자연가습기", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "문풍지 외풍차단",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "창문 단열 뽁뽁이 에어캡",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "문틈 바람막이",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "난방텐트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "겨울 털 실내화",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "무전원 자연가습기",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9287063502"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/34357682"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9243340974"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/2229091647"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9775575350"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/198159585"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/34357682"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/2229091647"
+  }
  ]
 }
