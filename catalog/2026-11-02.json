@@ -1,0 +1,508 @@
+{
+  "searches": {
+    "문풍지 외풍차단": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9767873727,
+          "name": "밀스턴 올인원 우풍차단 오도씨테이프 문풍지",
+          "price": 18900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9767873727.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9767873727",
+          "affiliate_url": "https://link.coupang.com/a/ik1rtvuUUu"
+        },
+        {
+          "productId": 9087027516,
+          "name": "라워스 강력자석 외풍차단 창문 방풍비닐",
+          "price": 16000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9087027516.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9087027516",
+          "affiliate_url": "https://link.coupang.com/a/ik1rB95V1h"
+        },
+        {
+          "productId": 8416474413,
+          "name": "에코와이드 끼우는 문풍지 창문 틈새막이 외풍 창틀 바람막이 M",
+          "price": 14600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8416474413.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8416474413",
+          "affiliate_url": "https://link.coupang.com/a/ik1rOwFk4G"
+        },
+        {
+          "productId": 3666590,
+          "name": "생활더하기 5중날 투명문풍지 1+1 세트",
+          "price": 4850.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/3666590.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/3666590",
+          "affiliate_url": "https://link.coupang.com/a/ik1r3sqpvU"
+        },
+        {
+          "productId": 6990413392,
+          "name": "문풍지 외풍차단 문틈 샤시 창문 틈새 바람막이 8mm x 1M 끼워넣는 원형문풍지 가래떡스펀지",
+          "price": 3240.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/6990413392.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6990413392",
+          "affiliate_url": "https://link.coupang.com/a/ik1sedtLbw"
+        },
+        {
+          "productId": 7764795902,
+          "name": "실리콘 문풍지 창문바람막이 45mm x 5m",
+          "price": 17120,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7764795902.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7764795902",
+          "affiliate_url": "https://link.coupang.com/a/ik1slCCve0"
+        },
+        {
+          "productId": 9287063502,
+          "name": "주식회사아텍스 틈새 외풍차단 실리콘 문풍지 테이프 반투명 45mm x 5m",
+          "price": 5800.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9287063502.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9287063502",
+          "affiliate_url": "https://link.coupang.com/a/ik1sqoar5o"
+        }
+      ]
+    },
+    "창문 단열 뽁뽁이 에어캡": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 34357682,
+          "name": "뽁순이 3중 뽁뽁이 단열에어캡, 1개",
+          "price": 9980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/34357682.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/34357682",
+          "affiliate_url": "https://link.coupang.com/a/ik1sKGhmw0"
+        },
+        {
+          "productId": 8528634399,
+          "name": "뽁순이 물없이 붙이는 더블 단열뽁뽁이 민무늬, 1개",
+          "price": 29680,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8528634399.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8528634399",
+          "affiliate_url": "https://link.coupang.com/a/ik1sRtoWhU"
+        },
+        {
+          "productId": 9730023608,
+          "name": "국산 단열 창문 뽁뽁이 에어캡 방한 외풍차단, 1개",
+          "price": 54110,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9730023608.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9730023608",
+          "affiliate_url": "https://link.coupang.com/a/ik1sYNBzIi"
+        },
+        {
+          "productId": 7685329558,
+          "name": "스코홈 북유럽 감성 뽁뽁이 단열에어캡",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7685329558.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7685329558",
+          "affiliate_url": "https://link.coupang.com/a/ik1tbfGvvM"
+        },
+        {
+          "productId": 7744202519,
+          "name": "국산 사계절 단열 뽁뽁이 창문 방한 에어캡 반투명 3중 1m x 20m",
+          "price": 21600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7744202519.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7744202519",
+          "affiliate_url": "https://link.coupang.com/a/ik1tlgPx4C"
+        },
+        {
+          "productId": 9788928954,
+          "name": "코어템코리아 창문 단열 뽁뽁이 에어캡 물 없이 붙이는 두 겹 7중 해피트리",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9788928954.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788928954",
+          "affiliate_url": "https://link.coupang.com/a/ik1tz26HWS"
+        },
+        {
+          "productId": 9800278429,
+          "name": "에어캡 창문 문단열 시트 유리창 창문 뽁뽁이 단열 보온재 겨울",
+          "price": 41110.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9800278429.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9800278429",
+          "affiliate_url": "https://link.coupang.com/a/ik1tHuV4zQ"
+        }
+      ]
+    },
+    "문틈 바람막이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7764795902,
+          "name": "실리콘 문풍지 창문바람막이 45mm x 5m, 5개",
+          "price": 18120,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7764795902.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7764795902",
+          "affiliate_url": "https://link.coupang.com/a/ik1tYje8cK"
+        },
+        {
+          "productId": 24234528,
+          "name": "바로문풍지 사계절 우레탄 국내 생산 문풍지 9mm x 18mm x 3m, 10개",
+          "price": 12990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/24234528.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/24234528",
+          "affiliate_url": "https://link.coupang.com/a/ik1ubyDyFM"
+        },
+        {
+          "productId": 9243340974,
+          "name": "마지온 틈새차단 현관문 창문 고무 패킹, 블랙 6M, 1개",
+          "price": 10000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9243340974.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9243340974",
+          "affiliate_url": "https://link.coupang.com/a/ik1unIvIPY"
+        },
+        {
+          "productId": 9287063502,
+          "name": "주식회사아텍스 실리콘 외풍차단 틈새차단 문풍지 테이프 반투명 45mm x 5m",
+          "price": 3150,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9287063502.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9287063502",
+          "affiliate_url": "https://link.coupang.com/a/ik1usgDUZ2"
+        },
+        {
+          "productId": 9192743442,
+          "name": "끌리온 20m 신소재 프리미엄 대용량 문풍지 창문 틈새 바람막이",
+          "price": 8500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9192743442.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9192743442",
+          "affiliate_url": "https://link.coupang.com/a/ik1uwrxaKW"
+        },
+        {
+          "productId": 3666590,
+          "name": "생활더하기 5중날 투명문풍지 1+1 세트",
+          "price": 4850,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/3666590.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/3666590",
+          "affiliate_url": "https://link.coupang.com/a/ik1uAkM8bI"
+        }
+      ]
+    },
+    "난방텐트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7719434524,
+          "name": "핫방 프리미엄 원터치 모던 난방텐트 2인용 + 보관가방",
+          "price": 21310,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7719434524.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7719434524",
+          "affiliate_url": "https://link.coupang.com/a/ik1uVkg2HA"
+        },
+        {
+          "productId": 6925051119,
+          "name": "로티캠프 프리미엄 사각 침대 방한 난방텐트",
+          "price": 53910,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6925051119.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6925051119",
+          "affiliate_url": "https://link.coupang.com/a/ik1u66BRfw"
+        },
+        {
+          "productId": 307227821,
+          "name": "빈슨메시프 포그닝 원터치 난방텐트",
+          "price": 20330,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/307227821.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/307227821",
+          "affiliate_url": "https://link.coupang.com/a/ik1vdQdj1E"
+        },
+        {
+          "productId": 9081660948,
+          "name": "리보아 원터치 실내 보온 난방텐트 외풍차단",
+          "price": 33600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9081660948.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9081660948",
+          "affiliate_url": "https://link.coupang.com/a/ik1vkTSlhY"
+        },
+        {
+          "productId": 9705623247,
+          "name": "개웃기냥 사계절 난방텐트 침대 모기장 방풍 약한 보온 프라이버시 보호 수면 텐트 3면 바람막이 및 햇빛 차단 난방텐트",
+          "price": 59900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9705623247.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9705623247",
+          "affiliate_url": "https://link.coupang.com/a/ik1vrZxUDQ"
+        },
+        {
+          "productId": 2229091647,
+          "name": "코멧 원터치 난방텐트 + 보관가방",
+          "price": 29990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/2229091647.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2229091647",
+          "affiliate_url": "https://link.coupang.com/a/ik1vzbxgqq"
+        },
+        {
+          "productId": 142674818,
+          "name": "알뜨리 트리플 원터치 난방텐트",
+          "price": 24130,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/142674818.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/142674818",
+          "affiliate_url": "https://link.coupang.com/a/ik1vGpoLe0"
+        },
+        {
+          "productId": 9027063483,
+          "name": "따수미 패브릭 난방텐트 2인용",
+          "price": 64900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9027063483.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9027063483",
+          "affiliate_url": "https://link.coupang.com/a/ik1vOqtUrc"
+        }
+      ]
+    },
+    "겨울 털 실내화": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9706027875,
+          "name": "곰돌이샵 뽀글뽀글 귀여운 곰돌이 부클 방한 슬리퍼 양털 실내화 커플 겨울 털 슬리퍼",
+          "price": 7890,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9706027875.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9706027875",
+          "affiliate_url": "https://link.coupang.com/a/ik1wbc9Ym4"
+        },
+        {
+          "productId": 134225454,
+          "name": "더자카 남녀공용 그라데이션 퍼 보온 실내화",
+          "price": 6240,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/134225454.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/134225454",
+          "affiliate_url": "https://link.coupang.com/a/ik1wmWYy0y"
+        },
+        {
+          "productId": 7613482484,
+          "name": "IAWI 스마일 슬리퍼, 옐로우, 1개",
+          "price": 14950,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7613482484.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7613482484",
+          "affiliate_url": "https://link.coupang.com/a/ik1wCBvx2i"
+        },
+        {
+          "productId": 9788907550,
+          "name": "마이슈 벌편한 겨울 여성 방한 퍼 털슬리퍼 실내화 방한 사무실 초경량 실외털신",
+          "price": 15900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9788907550.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788907550",
+          "affiliate_url": "https://link.coupang.com/a/ik1wKxZAIe"
+        },
+        {
+          "productId": 9775575350,
+          "name": "리빙도감 남녀공용 방한 겨울 털 슬리퍼 실내화 남자 여성 털신발",
+          "price": 7800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9775575350.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9775575350",
+          "affiliate_url": "https://link.coupang.com/a/ik1wZZWggK"
+        },
+        {
+          "productId": 9772343514,
+          "name": "2500배송 보온 EVA 털슬리퍼 퍼 안감 오픈형 털신 털실내화 겨울슬리퍼",
+          "price": 7270,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9772343514.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9772343514",
+          "affiliate_url": "https://link.coupang.com/a/ik1w72FtN6"
+        },
+        {
+          "productId": 9718050326,
+          "name": "귀여운 체크 도트 겨울 두꺼운 밑창 털슬리퍼 여성용 외출가능 방수 털신발",
+          "price": 15900,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9718050326.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9718050326",
+          "affiliate_url": "https://link.coupang.com/a/ik1xf5oHls"
+        }
+      ]
+    },
+    "무전원 자연가습기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6173561940,
+          "name": "공기청정기 미니 가습기 천연가스화식가습기 초음파가습기 휴대용가습기 무선가습기 기화식가습기  책상용가습기",
+          "price": 16900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/6173561940.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6173561940",
+          "affiliate_url": "https://link.coupang.com/a/ik1xDKVWW4"
+        },
+        {
+          "productId": 198159585,
+          "name": "대중산업 방방가습기 600 국내생산 자연증발식 무전원 전기없는 가습기, 4세트",
+          "price": 37610,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/198159585.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/198159585",
+          "affiliate_url": "https://link.coupang.com/a/ik1xLigQj6"
+        },
+        {
+          "productId": 9784341465,
+          "name": "마블네 만들기대장 가습기만들기키트 야자수 펠트지공예 무전원가습기 자연가습기만들기 종이가습기",
+          "price": 5260.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9784341465.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9784341465",
+          "affiliate_url": "https://link.coupang.com/a/ik1xU9B6xo"
+        },
+        {
+          "productId": 6505092778,
+          "name": "RUI HANG 가습기 무드등미니가습기 USB 충전하다",
+          "price": 24800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/6505092778.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6505092778",
+          "affiliate_url": "https://link.coupang.com/a/ik1x2ITKvI"
+        },
+        {
+          "productId": 9198727697,
+          "name": "자연증발 황토 방방가습기 600 미니가습기 필터형 가습기 무소음 무전원 실내가습기 간편세척",
+          "price": 42500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9198727697.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9198727697",
+          "affiliate_url": "https://link.coupang.com/a/ik1yazHOAm"
+        },
+        {
+          "productId": 9309413414,
+          "name": "자연증발 황토 방방가습기 600 미니가습기 필터형 가습기 무소음 무전원 실내가습기 간편세척",
+          "price": 39900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9309413414.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9309413414",
+          "affiliate_url": "https://link.coupang.com/a/ik1ykvfxjo"
+        },
+        {
+          "productId": 7523183689,
+          "name": "필터형 자연증발 가습기 600 1세트 미니가습기 방방가습기 무소음 무전원 실내가습기 간편세척",
+          "price": 14800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/7523183689.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7523183689",
+          "affiliate_url": "https://link.coupang.com/a/ik1yw9AJ8S"
+        },
+        {
+          "productId": 9167043171,
+          "name": "자연증발 황토 방방가습기 600 미니가습기 필터형 가습기 무소음 무전원 실내가습기 간편세척",
+          "price": 24900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9167043171.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9167043171",
+          "affiliate_url": "https://link.coupang.com/a/ik1yE88QOi"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
