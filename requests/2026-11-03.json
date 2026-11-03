@@ -30,5 +30,39 @@
    "keyword": "대추차",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9683692850"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9429896552"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9786650353"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/2528304"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9392103490"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/5191057386"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9429896552"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/2528304"
+  }
  ]
 }
