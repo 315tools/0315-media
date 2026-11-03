@@ -1,0 +1,409 @@
+{
+  "searches": {
+    "제주 흙당근": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7777006649,
+          "name": "농부곳간 수분 가득한 제주 구좌 햇 흙당근, 1개, 당근 5kg 상",
+          "price": 23990,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7777006649.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7777006649",
+          "affiliate_url": "https://link.coupang.com/a/imF8LsBEfQ"
+        },
+        {
+          "productId": 7431537358,
+          "name": "국내산 햇당근 흙당근, 당근 중 10kg, 1박스",
+          "price": 28700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/7431537358.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7431537358",
+          "affiliate_url": "https://link.coupang.com/a/imF8RWvc72"
+        },
+        {
+          "productId": 9683692850,
+          "name": "[사계농산] 국내산 고당도 제주 구좌 경남 강원 흙당근, 1박스, 햇당근 상 5kg",
+          "price": 16590,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9683692850.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9683692850",
+          "affiliate_url": "https://link.coupang.com/a/imF82fuIeq"
+        },
+        {
+          "productId": 9738039617,
+          "name": "[재구매1위] 제주 구좌 햇당근 흙당근 국내산 아삭하고 달콤한 산지직송 (특상품), 1세트, 2kg",
+          "price": 22000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9738039617.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9738039617",
+          "affiliate_url": "https://link.coupang.com/a/imF9hm1lym"
+        }
+      ]
+    },
+    "국산 양배추": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9332144321,
+          "name": "국내산 양배추 산지직송 신선양배추 당일경매 3개입 8kg내외 1망, 1세트, 8kg",
+          "price": 14500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9332144321.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9332144321",
+          "affiliate_url": "https://link.coupang.com/a/imF9zKGONo"
+        },
+        {
+          "productId": 9429896552,
+          "name": "국내산 신선 아삭한 양배추 특품, 2kg, 3개",
+          "price": 17500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9429896552.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9429896552",
+          "affiliate_url": "https://link.coupang.com/a/imF9FVD8zA"
+        },
+        {
+          "productId": 9470932543,
+          "name": "싱싱한 양배추 1망 8~10kg 내외 업소용 국내산 달달한, 1개, 8kg",
+          "price": 16500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9470932543.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9470932543",
+          "affiliate_url": "https://link.coupang.com/a/imF9RGRDJk"
+        },
+        {
+          "productId": 8658035381,
+          "name": "클릭마켓 국내산 양배추, 1박스, 9kg",
+          "price": 13810,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8658035381.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8658035381",
+          "affiliate_url": "https://link.coupang.com/a/imF92S6XrU"
+        },
+        {
+          "productId": 8795096974,
+          "name": "울팜 아삭 달달 국내산 친환경 양배추 제주 무안 밀양",
+          "price": 8010,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8795096974.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8795096974",
+          "affiliate_url": "https://link.coupang.com/a/imGaezU6Vw"
+        },
+        {
+          "productId": 8628864611,
+          "name": "국내산 양배추 (대)",
+          "price": 24830,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8628864611.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8628864611",
+          "affiliate_url": "https://link.coupang.com/a/imGamAnxqm"
+        }
+      ]
+    },
+    "가을무 국내산": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9786650353,
+          "name": "국내산 햇 다발무 김장무 동치미무 가을무 무청포함, 1박스, 5kg내외(무청있음)",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9786650353.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9786650353",
+          "affiliate_url": "https://link.coupang.com/a/imGaGjmQvs"
+        },
+        {
+          "productId": 9776124783,
+          "name": "국내산 무 흙무 제철 햇무 무우, 1박스, 10kg",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9776124783.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9776124783",
+          "affiliate_url": "https://link.coupang.com/a/imGaRbEoPA"
+        },
+        {
+          "productId": 8365133344,
+          "name": "깍두기용 햇무 제주무 무우 가을무 깍둑무 치킨무 kg [원산지:국산 등], 1박스, 3kg",
+          "price": 12000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8365133344.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8365133344",
+          "affiliate_url": "https://link.coupang.com/a/imGa0pdnwG"
+        },
+        {
+          "productId": 4880088222,
+          "name": "[우리농 산지선별] 국내산 유기농 무말랭이, 1개, 150g",
+          "price": 7900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/4880088222.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4880088222",
+          "affiliate_url": "https://link.coupang.com/a/imGa77CCYe"
+        },
+        {
+          "productId": 9778636279,
+          "name": "국내산 흙무 가을 햇무 제철 무우",
+          "price": 10990.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9778636279.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9778636279",
+          "affiliate_url": "https://link.coupang.com/a/imGblabz88"
+        },
+        {
+          "productId": 9795127648,
+          "name": "[선착순 초특가] 국내산 햇무 아삭달큰 가을무 김장무 산지직송",
+          "price": 6900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9795127648.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795127648",
+          "affiliate_url": "https://link.coupang.com/a/imGbylHpS0"
+        }
+      ]
+    },
+    "유자차": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 96760,
+          "name": "담터 꿀유자차",
+          "price": 6540,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/96760.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/96760",
+          "affiliate_url": "https://link.coupang.com/a/imGbNESXIG"
+        },
+        {
+          "productId": 2528304,
+          "name": "꽃샘 꿀유자차 S",
+          "price": 9960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/2528304.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2528304",
+          "affiliate_url": "https://link.coupang.com/a/imGbSgsvHE"
+        },
+        {
+          "productId": 7665162360,
+          "name": "아빠랑 과육 그대로 갈아만든 고흥 유자 1kg, 1kg, 1개",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7665162360.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7665162360",
+          "affiliate_url": "https://link.coupang.com/a/imGb2yFVnw"
+        },
+        {
+          "productId": 9319259,
+          "name": "자연생각 유자차",
+          "price": 9240,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9319259.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9319259",
+          "affiliate_url": "https://link.coupang.com/a/imGb59drl6"
+        },
+        {
+          "productId": 345075023,
+          "name": "(고흥식품) 화학 첨가물이 없는 100% 통 유자차",
+          "price": 12780,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/345075023.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/345075023",
+          "affiliate_url": "https://link.coupang.com/a/imGb9PZ8b6"
+        }
+      ]
+    },
+    "생강차": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9392103490,
+          "name": "[물 한방울 섞지않은] 100% 국산 선비비책 진짜 생강청",
+          "price": 14500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9392103490.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9392103490",
+          "affiliate_url": "https://link.coupang.com/a/imGconGBae"
+        },
+        {
+          "productId": 9766455509,
+          "name": "평생비책 천연벌꿀 조청 국산 생강청 원액 100% 무설탕 생강차",
+          "price": 22410,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9766455509.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766455509",
+          "affiliate_url": "https://link.coupang.com/a/imGcsnjXRk"
+        },
+        {
+          "productId": 9342535004,
+          "name": "레드진저 생강차 [공식판매처]",
+          "price": 20000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9342535004.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9342535004",
+          "affiliate_url": "https://link.coupang.com/a/imGcwuWjEy"
+        },
+        {
+          "productId": 274969186,
+          "name": "다농원 꿀생강차A, 1kg, 1개입, 6개",
+          "price": 44400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/274969186.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/274969186",
+          "affiliate_url": "https://link.coupang.com/a/imGcFSypaK"
+        },
+        {
+          "productId": 9718350579,
+          "name": "안동 수제 생강청 생강엑기스 생강원액",
+          "price": 13180,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9718350579.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9718350579",
+          "affiliate_url": "https://link.coupang.com/a/imGcJxmZem"
+        },
+        {
+          "productId": 7136278610,
+          "name": "꽃샘 꿀생강차",
+          "price": 5700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7136278610.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7136278610",
+          "affiliate_url": "https://link.coupang.com/a/imGcSzr0aP"
+        },
+        {
+          "productId": 9705042806,
+          "name": "착즙 그대로 생강 원액 무설탕 무가당 100% 생강청 생강차 국산생강",
+          "price": 17370,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9705042806.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9705042806",
+          "affiliate_url": "https://link.coupang.com/a/imGc0hHE2m"
+        },
+        {
+          "productId": 9171424773,
+          "name": "녹차원 차오름 레몬생강차",
+          "price": 6970,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9171424773.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9171424773",
+          "affiliate_url": "https://link.coupang.com/a/imGc8TlxzE"
+        }
+      ]
+    },
+    "대추차": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7622843233,
+          "name": "걸쭉한 카페 수제대추차 무설탕 진한대추즙 대용량 8리터(2L 4병), 2L, 1개입, 4개",
+          "price": 98490,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7622843233.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7622843233",
+          "affiliate_url": "https://link.coupang.com/a/imGduG2hQO"
+        },
+        {
+          "productId": 9620568986,
+          "name": "대용량 카페 보은 걸쭉한 대추차 무설탕 진한 대추진액 전통차, 2개, 1개입, 2kg",
+          "price": 60000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9620568986.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9620568986",
+          "affiliate_url": "https://link.coupang.com/a/imGdAtXuFg"
+        },
+        {
+          "productId": 5191057386,
+          "name": "청년농원 대추차 삼각티백, 1g, 50개입, 1개",
+          "price": 12900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/5191057386.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5191057386",
+          "affiliate_url": "https://link.coupang.com/a/imGdGQvVsW"
+        },
+        {
+          "productId": 14923230,
+          "name": "꽃샘 꿀대추차",
+          "price": 11550,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/14923230.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/14923230",
+          "affiliate_url": "https://link.coupang.com/a/imGdMiJx6W"
+        },
+        {
+          "productId": 4400892594,
+          "name": "담터 꿀대추차",
+          "price": 7300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/4400892594.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4400892594",
+          "affiliate_url": "https://link.coupang.com/a/imGdVNie9A"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
