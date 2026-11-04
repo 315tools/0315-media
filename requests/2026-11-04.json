@@ -30,5 +30,39 @@
    "keyword": "온열 넥워머 충전식",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9640305791"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9668475716"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9640148209"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9207288847"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9063031376"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9306852022"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9640305791"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9207288847"
+  }
  ]
 }
