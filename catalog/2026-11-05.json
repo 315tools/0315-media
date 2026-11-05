@@ -1,0 +1,497 @@
+{
+  "searches": {
+    "붙이는 핫팩 대용량": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9710282569,
+          "name": "[국내생산] 충성 부착형 붙이는 핫팩 50g, 30개",
+          "price": 11400,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9710282569.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9710282569",
+          "affiliate_url": "https://link.coupang.com/a/ipZ2tgAqw8"
+        },
+        {
+          "productId": 9689783664,
+          "name": "마이핫 보온대 핫팩 160g 120개입 하트곰 지퍼백 12개 세트 대용량 캠핑 등산 낚시 겨울 군용 군인 군대, 120개",
+          "price": 90000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9689783664.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9689783664",
+          "affiliate_url": "https://link.coupang.com/a/ipZ2CJsiKi"
+        },
+        {
+          "productId": 8232712957,
+          "name": "인라이프 포켓형 THE 큰 솔저 프렌즈 핫팩 200g, 20개",
+          "price": 11700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8232712957.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8232712957",
+          "affiliate_url": "https://link.coupang.com/a/ipZ2IYly2e"
+        },
+        {
+          "productId": 9726264339,
+          "name": "히트포스 포켓용 대형 대용량 군용 핫팩 160g, 40개",
+          "price": 17200,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9726264339.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9726264339",
+          "affiliate_url": "https://link.coupang.com/a/ipZ2QItQLA"
+        },
+        {
+          "productId": 9743980827,
+          "name": "마이핫 붙이는 보온대 + 파우치 구성품",
+          "price": 25800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9743980827.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9743980827",
+          "affiliate_url": "https://link.coupang.com/a/ipZ2Z8mJki"
+        },
+        {
+          "productId": 7712424145,
+          "name": "붙이는 손일병 군용 핫팩 40개",
+          "price": 24000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/7712424145.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7712424145",
+          "affiliate_url": "https://link.coupang.com/a/ipZ3fKApJ6"
+        },
+        {
+          "productId": 35338812,
+          "name": "레츠고  붙이는 핫팩",
+          "price": 14200,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/35338812.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/35338812",
+          "affiliate_url": "https://link.coupang.com/a/ipZ3s3rEBw"
+        },
+        {
+          "productId": 9389565227,
+          "name": "쏘핫 장시간 프리미엄 붙이는 핫팩",
+          "price": 16420,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9389565227.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9389565227",
+          "affiliate_url": "https://link.coupang.com/a/ipZ3H81xka"
+        }
+      ]
+    },
+    "보온 물주머니": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9032395141,
+          "name": "카페타 인형 보온물주머니 커버포함 핫팩 찜질팩, 갈색곰, 1개",
+          "price": 23900,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9032395141.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9032395141",
+          "affiliate_url": "https://link.coupang.com/a/ipZ33WKv7I"
+        },
+        {
+          "productId": 9082718134,
+          "name": "만만템 물주머니 2L 주머니형 커버포함 보온 보냉 핫팩 찜질, 그레이 커버 세트, MMT-055",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9082718134.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9082718134",
+          "affiliate_url": "https://link.coupang.com/a/ipZ4aCj4DI"
+        },
+        {
+          "productId": 8359638595,
+          "name": "파쉬 양면빗살 보온물주머니 2L 랜덤발송 + 면커버 세트, 1세트",
+          "price": 28110,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8359638595.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8359638595",
+          "affiliate_url": "https://link.coupang.com/a/ipZ4kSHAR2"
+        },
+        {
+          "productId": 9682116990,
+          "name": "ZOZI 손넣는 퍼커버 2L 온수찜질팩 물주머니 보온 보냉 핫팩 커버세트",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9682116990.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9682116990",
+          "affiliate_url": "https://link.coupang.com/a/ipZ4uuvCTs"
+        },
+        {
+          "productId": 8359638520,
+          "name": "파쉬 양면빗살 2L 보온 물주머니 랜덤발송 + 누빔면 물결무늬커버 블루 세트",
+          "price": 21280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8359638520.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8359638520",
+          "affiliate_url": "https://link.coupang.com/a/ipZ4H20Yay"
+        },
+        {
+          "productId": 9227542719,
+          "name": "SEVOREN 2L 따뜻함 보온 물주머니 핫팩 + 커버 세트",
+          "price": 7900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9227542719.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9227542719",
+          "affiliate_url": "https://link.coupang.com/a/ipZ4Pr0luS"
+        },
+        {
+          "productId": 1299324,
+          "name": "파쉬 다이아몬드무늬 보온 물주머니 2L",
+          "price": 11610,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/1299324.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1299324",
+          "affiliate_url": "https://link.coupang.com/a/ipZ41NyviS"
+        }
+      ]
+    },
+    "진공 보온 텀블러": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9787203232,
+          "name": "하이카라 밀크 보온보냉 이중진공 텀블러",
+          "price": 13800.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9787203232.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9787203232",
+          "affiliate_url": "https://link.coupang.com/a/ipZ5rSFlAG"
+        },
+        {
+          "productId": 9504337581,
+          "name": "드링보틀 텀블러 보온보냉 물병",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9504337581.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9504337581",
+          "affiliate_url": "https://link.coupang.com/a/ipZ5zpAlau"
+        },
+        {
+          "productId": 9131039021,
+          "name": "DS 액정 온도 표시 원터치 진공 스테인리스 텀블러 보온 보냉병",
+          "price": 7900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9131039021.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9131039021",
+          "affiliate_url": "https://link.coupang.com/a/ipZ5Kmioy4"
+        },
+        {
+          "productId": 2057731929,
+          "name": "코멧 진공 스테인리스 텀블러 + 손잡이 + 빨대뚜껑 + 빨대 + 빨대솔",
+          "price": 9690,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/2057731929.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2057731929",
+          "affiliate_url": "https://link.coupang.com/a/ipZ5ReVqNM"
+        },
+        {
+          "productId": 9198149612,
+          "name": "콜콜러브 이중진공 텀블러 손잡이 보온 보냉병 휴대용 커피컵 대용량 차량용 빨대텀블러",
+          "price": 10990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9198149612.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9198149612",
+          "affiliate_url": "https://link.coupang.com/a/ipZ5WBSUns"
+        },
+        {
+          "productId": 7600310551,
+          "name": "클리나 이지 머그 텀블러",
+          "price": 14990,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/7600310551.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7600310551",
+          "affiliate_url": "https://link.coupang.com/a/ipZ53Dz5Uq"
+        },
+        {
+          "productId": 6762293745,
+          "name": "HiKaRi 슬림 미니 보온보냉 스텐 텀블러",
+          "price": 13960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6762293745.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6762293745",
+          "affiliate_url": "https://link.coupang.com/a/ipZ59JYtqu"
+        },
+        {
+          "productId": 8541263151,
+          "name": "스탠리 카페 투고 트래블 머그",
+          "price": 30710,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8541263151.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8541263151",
+          "affiliate_url": "https://link.coupang.com/a/ipZ6f2gZxs"
+        }
+      ]
+    },
+    "김장매트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9780106484,
+          "name": "로미나 국산 김장매트 무봉제 중형 배추절임 김치 버무리 놀이매트 + 김장봉투 증정, 1개",
+          "price": 21500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9780106484.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9780106484",
+          "affiliate_url": "https://link.coupang.com/a/ipZ6FZ9cw8"
+        },
+        {
+          "productId": 9716881197,
+          "name": "나코 김장매트 식품 김치 절임용 촉감 모래놀이 국산 무봉제 무독성, 1개",
+          "price": 12000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9716881197.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9716881197",
+          "affiliate_url": "https://link.coupang.com/a/ipZ6NZBK1I"
+        },
+        {
+          "productId": 6834456,
+          "name": "키친아트 다용도 무봉제 김장 매트 미니, 1개",
+          "price": 13840,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/6834456.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6834456",
+          "affiliate_url": "https://link.coupang.com/a/ipZ6UEA19w"
+        },
+        {
+          "productId": 7731769638,
+          "name": "(소) 패드 버무리 김장하는날 무봉제 모래 국내 놀이 생산 매트 용품 90cm 비닐, 1개",
+          "price": 32800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7731769638.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7731769638",
+          "affiliate_url": "https://link.coupang.com/a/ipZ60QEi8O"
+        },
+        {
+          "productId": 309327580,
+          "name": "깨끗한데이 국산 스마일 무봉제 다용도 김장매트",
+          "price": 10400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/309327580.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/309327580",
+          "affiliate_url": "https://link.coupang.com/a/ipZ67zUElE"
+        },
+        {
+          "productId": 6918666430,
+          "name": "토토비즈 다용도 김장매트",
+          "price": 7500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6918666430.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6918666430",
+          "affiliate_url": "https://link.coupang.com/a/ipZ7dOX4nI"
+        },
+        {
+          "productId": 9780037855,
+          "name": "모베린 국내산 무봉제 김장매트 김치 버무림용 다용도 매트",
+          "price": 19790,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9780037855.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9780037855",
+          "affiliate_url": "https://link.coupang.com/a/ipZ7p4ouIe"
+        },
+        {
+          "productId": 9779540438,
+          "name": "키친9단 국산 무봉제 무독성 원형 접이식 김장매트 촉감놀이매트 배추절임매트",
+          "price": 14700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9779540438.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9779540438",
+          "affiliate_url": "https://link.coupang.com/a/ipZ7z6cbjE"
+        }
+      ]
+    },
+    "김장 고무장갑": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8460323390,
+          "name": "모드놀리 롱밴드 겨울 세차 김장 고무장갑, 단색, FREE(one size), 9개",
+          "price": 37330,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/8460323390.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8460323390",
+          "affiliate_url": "https://link.coupang.com/a/ipZ7WBKPw4"
+        },
+        {
+          "productId": 6199242647,
+          "name": "모스트픽 기모안감 목 긴 고무장갑 밴드형 세트, 혼합색상, 중(M), 3개",
+          "price": 10200,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6199242647.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6199242647",
+          "affiliate_url": "https://link.coupang.com/a/ipZ78diOSi"
+        },
+        {
+          "productId": 8982851421,
+          "name": "김애경 겨울 기모 고무장갑 남녀공용 방한 주방 설거지 청소 김장 2켤레 세트",
+          "price": 6500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8982851421.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8982851421",
+          "affiliate_url": "https://link.coupang.com/a/ipZ8h2B9KS"
+        },
+        {
+          "productId": 2166136,
+          "name": "마미손 고무장갑",
+          "price": 6230,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/2166136.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2166136",
+          "affiliate_url": "https://link.coupang.com/a/ipZ8pjvGPk"
+        },
+        {
+          "productId": 41623907,
+          "name": "크린랩  기모 고무장갑 (Free 사이즈)",
+          "price": 9700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/41623907.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/41623907",
+          "affiliate_url": "https://link.coupang.com/a/ipZ8zsNi4i"
+        },
+        {
+          "productId": 9749459755,
+          "name": "로니베이 김장용 긴 비닐장갑",
+          "price": 7900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9749459755.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9749459755",
+          "affiliate_url": "https://link.coupang.com/a/ipZ8Hkazo4"
+        }
+      ]
+    },
+    "김치통 밀폐용기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6835842313,
+          "name": "제오닉 블랙 김장 김치통, 4L, 2개",
+          "price": 10800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6835842313.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6835842313",
+          "affiliate_url": "https://link.coupang.com/a/ipZ8ZlZ41s"
+        },
+        {
+          "productId": 2269494656,
+          "name": "제오닉 코코아락 원핸들 김치통, 3.2L, 3개",
+          "price": 15200,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/2269494656.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2269494656",
+          "affiliate_url": "https://link.coupang.com/a/ipZ88vGFMa"
+        },
+        {
+          "productId": 6130766783,
+          "name": "락앤락 김치통의 정석 숨쉬는 김치통",
+          "price": 13520,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6130766783.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6130766783",
+          "affiliate_url": "https://link.coupang.com/a/ipZ9ifsCPI"
+        },
+        {
+          "productId": 7115546499,
+          "name": "까사베니 연마제 없는 스테인레스 김치통",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7115546499.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7115546499",
+          "affiliate_url": "https://link.coupang.com/a/ipZ9ucjB3Q"
+        },
+        {
+          "productId": 8438920740,
+          "name": "에이엘에스 트라이탄 크리스탈 밀폐용기",
+          "price": 24900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8438920740.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8438920740",
+          "affiliate_url": "https://link.coupang.com/a/ipZ9H5FFjE"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
