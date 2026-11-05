@@ -30,5 +30,39 @@
    "keyword": "김치통 밀폐용기",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9389565227"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9682116990"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9131039021"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9779540438"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6199242647"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7115546499"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9682116990"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9779540438"
+  }
  ]
 }
