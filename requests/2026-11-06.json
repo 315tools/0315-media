@@ -35,5 +35,39 @@
    "keyword": "샤브샤브 밀키트",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8169306605"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8989662831"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8616947721"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7387532866"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/1546636258"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8308733382"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/8169306605"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/7387532866"
+  }
  ]
 }
