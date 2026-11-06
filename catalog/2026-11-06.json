@@ -1,0 +1,590 @@
+{
+  "searches": {
+    "컵수프": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6496102759,
+          "name": "보노 스프 3p x 6종 세트, 342g, 1세트",
+          "price": 17410,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/6496102759.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6496102759",
+          "affiliate_url": "https://link.coupang.com/a/irE0mEvIpE"
+        },
+        {
+          "productId": 9376663165,
+          "name": "보노 스프 3종기획세트 옥수수알그대로 콘스프 3px2개+포르치니버섯스프 3px2개 +체다치즈스프 3px2개, 1세트, 360g",
+          "price": 22980,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9376663165.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9376663165",
+          "affiliate_url": "https://link.coupang.com/a/irE0yRaUBo"
+        },
+        {
+          "productId": 2038492934,
+          "name": "보노 옥수수알 콘스프, 63g, 5개",
+          "price": 15620,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/2038492934.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2038492934",
+          "affiliate_url": "https://link.coupang.com/a/irE0LH63gq"
+        },
+        {
+          "productId": 9402558487,
+          "name": "[로켓프레시] 포케올데이 저당 양송이 스프 (냉동), 250g, 3개",
+          "price": 10780,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9402558487.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9402558487",
+          "affiliate_url": "https://link.coupang.com/a/irE0WGZ2lw"
+        },
+        {
+          "productId": 6297847984,
+          "name": "폰타나 그릴드 머쉬룸 컵수프",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6297847984.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6297847984",
+          "affiliate_url": "https://link.coupang.com/a/irE06s4cSW"
+        },
+        {
+          "productId": 8169306605,
+          "name": "폰타나 컵수프 머쉬룸 2p + 콘 2p + 브로콜리 2p + 어니언 2p",
+          "price": 11320,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8169306605.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8169306605",
+          "affiliate_url": "https://link.coupang.com/a/irE1cI3hRs"
+        },
+        {
+          "productId": 8168595094,
+          "name": "폰타나 뉴질랜드 스위트콘 컵수프",
+          "price": 10980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8168595094.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8168595094",
+          "affiliate_url": "https://link.coupang.com/a/irE1j0zHdQ"
+        },
+        {
+          "productId": 2450615,
+          "name": "폰타나 피에몬테 그릴드 머쉬룸 크림 컵수프 20p",
+          "price": 10980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/2450615.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2450615",
+          "affiliate_url": "https://link.coupang.com/a/irE1vUoyRM"
+        }
+      ]
+    },
+    "컵 누룽지": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6216708626,
+          "name": "오뚜기 옛날 구수한 누룽지, 30g, 8개",
+          "price": 9300,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6216708626.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6216708626",
+          "affiliate_url": "https://link.coupang.com/a/irE1Qe1JlY"
+        },
+        {
+          "productId": 9366404616,
+          "name": "이더스 부드러운 3분 누룽지 15p, 450g, 2개",
+          "price": 15720,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9366404616.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9366404616",
+          "affiliate_url": "https://link.coupang.com/a/irE1W9BrVI"
+        },
+        {
+          "productId": 186347425,
+          "name": "곰곰 간편 누룽지",
+          "price": 15690,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/186347425.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/186347425",
+          "affiliate_url": "https://link.coupang.com/a/irE14nhrS8"
+        },
+        {
+          "productId": 8989662831,
+          "name": "오뚜기 옛날 구수한 누룽지 컵형",
+          "price": 5250,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8989662831.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8989662831",
+          "affiliate_url": "https://link.coupang.com/a/irE2bQGqSy"
+        }
+      ]
+    },
+    "파우치 죽": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8616947721,
+          "name": "동원 양반죽 간편식 파우치 6종 420g 전복죽+쇠고기죽+참치죽+버섯야채죽+들깨닭죽+백합죽, 420g, 1개",
+          "price": 24800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8616947721.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8616947721",
+          "affiliate_url": "https://link.coupang.com/a/irE2t9B7uK"
+        },
+        {
+          "productId": 7432370486,
+          "name": "동원 양반 파우치죽 5종 기획세트 2호(전복2+쇠고기2+단호박2+백합2+누룽지 닭죽2), 420g, 1개",
+          "price": 35980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7432370486.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7432370486",
+          "affiliate_url": "https://link.coupang.com/a/irE2DYtHu8"
+        },
+        {
+          "productId": 8616954548,
+          "name": "동원 양반죽 간편식 7종 14개 전복죽+단호박죽+쇠고기죽+야채죽+밤단팥죽+누룽지닭죽+참치죽, 4.004kg, 1세트",
+          "price": 36800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8616954548.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8616954548",
+          "affiliate_url": "https://link.coupang.com/a/irE2NMw3W0"
+        },
+        {
+          "productId": 9202402332,
+          "name": "바밤 포켓밀 3종 체험팩 세트 390g, 2세트, 390g",
+          "price": 17800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9202402332.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9202402332",
+          "affiliate_url": "https://link.coupang.com/a/irE2WrRJa8"
+        },
+        {
+          "productId": 8288814457,
+          "name": "성형 짜먹죽 수술 후 마시는 죽",
+          "price": 26590,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8288814457.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8288814457",
+          "affiliate_url": "https://link.coupang.com/a/irE27JQxWe"
+        },
+        {
+          "productId": 1649563824,
+          "name": "짱죽 쌀눈 한우야채죽 스파우트형",
+          "price": 22000.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/1649563824.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1649563824",
+          "affiliate_url": "https://link.coupang.com/a/irE3eJzCGO"
+        },
+        {
+          "productId": 326496469,
+          "name": "양반 쇠소기죽",
+          "price": 41000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/326496469.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/326496469",
+          "affiliate_url": "https://link.coupang.com/a/irE3meyHSu"
+        },
+        {
+          "productId": 1080201462,
+          "name": "비비고 죽 7종 세트",
+          "price": 17980,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/1080201462.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1080201462",
+          "affiliate_url": "https://link.coupang.com/a/irE3txvNvM"
+        }
+      ]
+    },
+    "즉석 사골곰탕": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8512615291,
+          "name": "한우직판장 횡성한우 사골곰탕, 10개, 500ml",
+          "price": 60400,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8512615291.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8512615291",
+          "affiliate_url": "https://link.coupang.com/a/irE3KOX8W4"
+        },
+        {
+          "productId": 7527803282,
+          "name": "비비고 사골곰탕, 500g, 6개",
+          "price": 7600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7527803282.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7527803282",
+          "affiliate_url": "https://link.coupang.com/a/irE3QREEEe"
+        },
+        {
+          "productId": 8607957103,
+          "name": "동원 양반 즉석국 7종 1개세트 (한우사골시래기+진국소고기무국+백합미역국+차돌육개장+백합우거지된장+소고기미역+수라한우사골곰탕), 1세트, 3.22kg",
+          "price": 23980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8607957103.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8607957103",
+          "affiliate_url": "https://link.coupang.com/a/irE3XMyybI"
+        },
+        {
+          "productId": 8113703874,
+          "name": "오뚜기 간편블럭국 6종 기획세트 1호(미역국+사골우거지국+버섯해장국+닭곰탕+북엇국+미소된장국), 1개, 47.5g",
+          "price": 26850,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8113703874.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8113703874",
+          "affiliate_url": "https://link.coupang.com/a/irE33TE9nM"
+        },
+        {
+          "productId": 9794498013,
+          "name": "국내산 산양삼 사골곰탕 1kg x 10팩",
+          "price": 28100.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9794498013.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9794498013",
+          "affiliate_url": "https://link.coupang.com/a/irE4ac1hM4"
+        },
+        {
+          "productId": 9780157575,
+          "name": "[홈쇼핑] 횡성축협한우 한우 사골곰탕",
+          "price": 39900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9780157575.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9780157575",
+          "affiliate_url": "https://link.coupang.com/a/irE4grllOS"
+        },
+        {
+          "productId": 9795845444,
+          "name": "MUJI 재료의 맛을 살린 사골 곰탕",
+          "price": 27560.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9795845444.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795845444",
+          "affiliate_url": "https://link.coupang.com/a/irE4m9tivs"
+        },
+        {
+          "productId": 9795502603,
+          "name": "비비고 즉석국(닭곰탕+두부듬뿍된장찌개+두부듬뿍김치찌개+소고기듬뿍설렁탕+깊은사골곰탕+진한소고기미역국+진한육개장+시래기듬뿍장터국+시래기듬뿍된장국+갈비탕)",
+          "price": 51100,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9795502603.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795502603",
+          "affiliate_url": "https://link.coupang.com/a/irE4tH1AJw"
+        }
+      ]
+    },
+    "부대찌개 밀키트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9398259208,
+          "name": "빨간음식연구소 햄폭격 부대찌개 밀키트, 530g, 3개",
+          "price": 47400,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9398259208.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9398259208",
+          "affiliate_url": "https://link.coupang.com/a/irE4MkWG2m"
+        },
+        {
+          "productId": 8633966193,
+          "name": "의정부식 얼큰한 부대찌개 밀키트 1kg 2팩 햄듬뿍 4~6인분 사나이쉐프, 2개, 1kg",
+          "price": 19290,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8633966193.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8633966193",
+          "affiliate_url": "https://link.coupang.com/a/irE4Wufopo"
+        },
+        {
+          "productId": 8493758075,
+          "name": "대한우리 NEW 의정부식 신사 부대찌개, 2개, 1.35kg",
+          "price": 20900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8493758075.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8493758075",
+          "affiliate_url": "https://link.coupang.com/a/irE49ml1Ay"
+        },
+        {
+          "productId": 296139681,
+          "name": "곰곰 더 오리지널 부대찌개",
+          "price": 14990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/296139681.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/296139681",
+          "affiliate_url": "https://link.coupang.com/a/irE5gvORlA"
+        },
+        {
+          "productId": 7387532866,
+          "name": "MYCHEF 놀부 부대찌개 밀키트 2인분",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7387532866.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7387532866",
+          "affiliate_url": "https://link.coupang.com/a/irE5mdu3pY"
+        },
+        {
+          "productId": 8461445185,
+          "name": "[로켓프레시] 마이셰프 쟌슨빌 부대찌개 2인분 밀키트",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8461445185.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8461445185",
+          "affiliate_url": "https://link.coupang.com/a/irE5r50Agu"
+        },
+        {
+          "productId": 2227032633,
+          "name": "정든 부대찌개 밀키트 2000g 2~3인분 송탄식 의정부식 부대찌개 전골",
+          "price": 17900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/2227032633.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2227032633",
+          "affiliate_url": "https://link.coupang.com/a/irE5y794LI"
+        }
+      ]
+    },
+    "칼국수 밀키트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7814628974,
+          "name": "명가칼국수6인분 귀빈정 26년전통 명가 진한 칼국수 소스포함 6인분, 1.074kg, 1개",
+          "price": 14900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7814628974.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7814628974",
+          "affiliate_url": "https://link.coupang.com/a/irE5QIBrVs"
+        },
+        {
+          "productId": 8502522109,
+          "name": "[슈퍼맘푸드] 공주 얼큰이 칼국수 세트 ( 생면 + 소스 ) / 생면 개별포장, 5개, 150g",
+          "price": 13930,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8502522109.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8502522109",
+          "affiliate_url": "https://link.coupang.com/a/irE5YgXAxU"
+        },
+        {
+          "productId": 9094591424,
+          "name": "군산 엄마손 생 칼국수 밀키트(1인분), 6개",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9094591424.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9094591424",
+          "affiliate_url": "https://link.coupang.com/a/irE54V5rnU"
+        },
+        {
+          "productId": 6774538327,
+          "name": "명동칼국수 5인분세트 칼국수면1kg+진한소스5팩 칼국수 맛집, 1개, 1kg",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/6774538327.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6774538327",
+          "affiliate_url": "https://link.coupang.com/a/irE6aVEmEm"
+        },
+        {
+          "productId": 1546636258,
+          "name": "프레시지 장칼국수 밀키트 2인분",
+          "price": 8900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/1546636258.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1546636258",
+          "affiliate_url": "https://link.coupang.com/a/irE6mubjxs"
+        },
+        {
+          "productId": 4869527565,
+          "name": "프레시밀 채소칼국수 2~3인분",
+          "price": 9900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/4869527565.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4869527565",
+          "affiliate_url": "https://link.coupang.com/a/irE6tgQQi4"
+        },
+        {
+          "productId": 8424464839,
+          "name": "[로켓프레시] 면사랑 바지락칼국수 1인분 (냉동)",
+          "price": 6660,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8424464839.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8424464839",
+          "affiliate_url": "https://link.coupang.com/a/irE6zdEuey"
+        },
+        {
+          "productId": 7360934402,
+          "name": "[로켓프레시] 강남면옥 사골만두 칼국수 2인분 (냉동)",
+          "price": 10210,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7360934402.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7360934402",
+          "affiliate_url": "https://link.coupang.com/a/irE6E0rsD6"
+        }
+      ]
+    },
+    "샤브샤브 밀키트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8513823098,
+          "name": "고기가좋다 밀푀유나베 밀키트 3~4인분 캠핑 집들이 간편조리식품, 1개, 1kg",
+          "price": 25300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/8513823098.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8513823098",
+          "affiliate_url": "https://link.coupang.com/a/irE6VZOSlw"
+        },
+        {
+          "productId": 8957192665,
+          "name": "밀푀유나베 2-3인분 1.2kg 집들이 캠핑밀키트 쿠킹박스, 1.2kg, 1개",
+          "price": 19900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8957192665.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8957192665",
+          "affiliate_url": "https://link.coupang.com/a/irE65AB0qO"
+        },
+        {
+          "productId": 8933326394,
+          "name": "대한푸드상회 소고기 폭탄 얼큰 샤브샤브, 1.3kg, 1개",
+          "price": 29900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8933326394.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8933326394",
+          "affiliate_url": "https://link.coupang.com/a/irE7b9nbPg"
+        },
+        {
+          "productId": 267253959,
+          "name": "프레시밀 샤브샤브재료 밀키트 2~3인분",
+          "price": 12700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/267253959.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/267253959",
+          "affiliate_url": "https://link.coupang.com/a/irE7iCaNum"
+        },
+        {
+          "productId": 156649366,
+          "name": "프레시지 소고기 샤브샤브 밀키트 2인분",
+          "price": 18900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/156649366.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/156649366",
+          "affiliate_url": "https://link.coupang.com/a/irE7nKxeQC"
+        },
+        {
+          "productId": 8308733382,
+          "name": "[로켓프레시] 채선당 모둠 샤브 전골",
+          "price": 13520,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8308733382.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8308733382",
+          "affiliate_url": "https://link.coupang.com/a/irE7xFkgsm"
+        },
+        {
+          "productId": 8719926055,
+          "name": "채선당 [채선당] 샤브샤브 밀키트 2인분",
+          "price": 17750,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8719926055.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8719926055",
+          "affiliate_url": "https://link.coupang.com/a/irE7C8hrTo"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
