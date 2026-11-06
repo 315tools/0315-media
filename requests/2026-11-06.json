@@ -1,0 +1,39 @@
+{
+ "searches": [
+  {
+   "key": "C",
+   "keyword": "컵수프",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "컵 누룽지",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "파우치 죽",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "즉석 사골곰탕",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "부대찌개 밀키트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "칼국수 밀키트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "샤브샤브 밀키트",
+   "limit": 8
+  }
+ ]
+}
