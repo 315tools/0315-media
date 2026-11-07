@@ -1,0 +1,497 @@
+{
+  "searches": {
+    "가열식 가습기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8389643072,
+          "name": "끌리젠 가열식 올스텐 대용량 가습기 6L, klz-hh01, 혼합색상",
+          "price": 298000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8389643072.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8389643072",
+          "affiliate_url": "https://link.coupang.com/a/itjJJ49aJo"
+        },
+        {
+          "productId": 9165143367,
+          "name": "듀플렉스 간편세척 포트형 가열식 가습기 4.5L",
+          "price": 89000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9165143367.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9165143367",
+          "affiliate_url": "https://link.coupang.com/a/itjJQwekkS"
+        },
+        {
+          "productId": 9071589020,
+          "name": "다미에어 가정용 스팀 안전한 가열식 가습기, 퓨어 화이트",
+          "price": 62000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9071589020.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9071589020",
+          "affiliate_url": "https://link.coupang.com/a/itjJXHtsPY"
+        },
+        {
+          "productId": 9738768799,
+          "name": "[2026 NEW] 한경희 복합식 가정용 가습기 1위 가열식 가습기 사무실 대용량 4L 통세척 상부급수",
+          "price": 39900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9738768799.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9738768799",
+          "affiliate_url": "https://link.coupang.com/a/itjJ4deynQ"
+        },
+        {
+          "productId": 6781092371,
+          "name": "아이리스 가열식 가습기",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6781092371.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6781092371",
+          "affiliate_url": "https://link.coupang.com/a/itjKaKJQFU"
+        },
+        {
+          "productId": 9136176625,
+          "name": "신일 가열식 가습기",
+          "price": 70900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9136176625.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9136176625",
+          "affiliate_url": "https://link.coupang.com/a/itjKhnkaCy"
+        },
+        {
+          "productId": 6183839957,
+          "name": "듀플렉스 리모콘 가열식 가습기",
+          "price": 66840,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6183839957.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6183839957",
+          "affiliate_url": "https://link.coupang.com/a/itjKocHkPs"
+        },
+        {
+          "productId": 9156145873,
+          "name": "신일 수조 분리 대용량 무드등 저소음 통세척 물멍 가열식 가습기",
+          "price": 127000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9156145873.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9156145873",
+          "affiliate_url": "https://link.coupang.com/a/itjKvCWBga"
+        }
+      ]
+    },
+    "초음파 가습기 대용량": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9728205306,
+          "name": "EYY UV살균 듀얼 분무구 아기 가습기 무소음 가정용 스마트 디지털 디스플레이 4.5L 초음파 아로마 트레이, 화이트, 1개",
+          "price": 99000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9728205306.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9728205306",
+          "affiliate_url": "https://link.coupang.com/a/itjKM6puKr"
+        },
+        {
+          "productId": 8354914894,
+          "name": "케리프 이지핸들 MAX 10L 가열 복합식 UV살균 대용량 가습기, KLH-9000UV, 단일색상",
+          "price": 179900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8354914894.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8354914894",
+          "affiliate_url": "https://link.coupang.com/a/itjKTAttlI"
+        },
+        {
+          "productId": 8323957108,
+          "name": "백화점 입점 풀라스 복합식 가습기 1위 7L 대용량 100도 가열 살균 무소음 자동 습도조절 가정용 사무실 대형 통세척 온열 무드등 신생아 아기 가열식 초음파 humidifier, 화이트, FL-HF5000",
+          "price": 141990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8323957108.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8323957108",
+          "affiliate_url": "https://link.coupang.com/a/itjKZlItG2"
+        },
+        {
+          "productId": 9786410026,
+          "name": "온담 무드등 세척쉬운 대용량 가습기",
+          "price": 9800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9786410026.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9786410026",
+          "affiliate_url": "https://link.coupang.com/a/itjK6dCLdI"
+        },
+        {
+          "productId": 8457552215,
+          "name": "블랙앤데커 무드등 대용량 듀얼 초음파 가습기 5L",
+          "price": 38700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8457552215.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8457552215",
+          "affiliate_url": "https://link.coupang.com/a/itjLdkrOdU"
+        },
+        {
+          "productId": 9796824416,
+          "name": "SOTCAR 10L 대용량 초음파 가습기 UV-C 상부급수 자동습도조절 저소음 리모컨 타워형",
+          "price": 69800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9796824416.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9796824416",
+          "affiliate_url": "https://link.coupang.com/a/itjLkuF2MS"
+        },
+        {
+          "productId": 7580888630,
+          "name": "대우 레트로 플라이 UV 살균 초음파 가습기 DEH-RT400 대용량 4.5L 인테리어 가습기",
+          "price": 29900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/7580888630.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7580888630",
+          "affiliate_url": "https://link.coupang.com/a/itjLqelqLI"
+        }
+      ]
+    },
+    "복합식 가습기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8323957108,
+          "name": "백화점 입점 풀라스 복합식 가습기 1위 7L 대용량 100도 가열 살균 무소음 자동 습도조절 가정용 사무실 대형 통세척 온열 무드등 신생아 아기 가열식 초음파 humidifier, 화이트, FL-HF5000",
+          "price": 141990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8323957108.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8323957108",
+          "affiliate_url": "https://link.coupang.com/a/itjLE423Ai"
+        },
+        {
+          "productId": 9127088592,
+          "name": "디오프X듀플렉스 복합식 가습기 6L, 화이트, THF02",
+          "price": 49800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9127088592.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9127088592",
+          "affiliate_url": "https://link.coupang.com/a/itjLK8zvoq"
+        },
+        {
+          "productId": 9777134501,
+          "name": "[27년형 간편세척] 한경희 자동습도조절 UV 가열살균 초저소음 복합식 가습기 대용량 4L, 새틴 화이트, GF-HD1101P",
+          "price": 99900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9777134501.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9777134501",
+          "affiliate_url": "https://link.coupang.com/a/itjLRUPWrQ"
+        },
+        {
+          "productId": 9196392377,
+          "name": "[안심가열 UV살균] 한경희 복합식 가습기 무소음 가정용 가습기1 가열식 사무실 대용량 통세척 상부급수, 화이트, 단품",
+          "price": 99900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9196392377.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9196392377",
+          "affiliate_url": "https://link.coupang.com/a/itjLYFEDam"
+        },
+        {
+          "productId": 8389642536,
+          "name": "에어보나 자동습도조절 복합식 가습기 5L",
+          "price": 59800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8389642536.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8389642536",
+          "affiliate_url": "https://link.coupang.com/a/itjL87FZQq"
+        },
+        {
+          "productId": 9103987417,
+          "name": "블랙앤데커 100도가열 상부급수 복합식 가습기",
+          "price": 79000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9103987417.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9103987417",
+          "affiliate_url": "https://link.coupang.com/a/itjMjzI44W"
+        },
+        {
+          "productId": 9796924359,
+          "name": "[ 2027년형 신제품 ] DamDam 담담 대용량 리모컨 복합식 (초음파식+가열식) 가습기 10L 가정용 사무실 식당 펌프식 상부급수식  습도조절 저소음 LED 무드등",
+          "price": 69800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9796924359.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9796924359",
+          "affiliate_url": "https://link.coupang.com/a/itjMzg3B6a"
+        },
+        {
+          "productId": 9796448469,
+          "name": "13L 대용량 복합식 가습기 PTC 가열 초음파 저소음 리모컨 자동습도조절 타이머",
+          "price": 99900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9796448469.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9796448469",
+          "affiliate_url": "https://link.coupang.com/a/itjMK6EdlA"
+        }
+      ]
+    },
+    "전기요": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9150828084,
+          "name": "HanilMedical 탄소열선 고급 전기요 HL-D205(25)",
+          "price": 29800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9150828084.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9150828084",
+          "affiliate_url": "https://link.coupang.com/a/itjMZ0UgZE"
+        },
+        {
+          "productId": 9734718643,
+          "name": "[27년형 신상품] 한일의료기 탄소열선 프리미엄 전기요 그레이 민들레 더블 2인용,싱글 1인용",
+          "price": 35900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9734718643.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9734718643",
+          "affiliate_url": "https://link.coupang.com/a/itjM6rGyCi"
+        },
+        {
+          "productId": 8261253598,
+          "name": "HanilMedical 탄소열선 고급전기요 비숑 HL-203D(22)",
+          "price": 25520,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8261253598.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8261253598",
+          "affiliate_url": "https://link.coupang.com/a/itjNhfB1Iy"
+        },
+        {
+          "productId": 9719320802,
+          "name": "HanilMedical 프리미엄 카본열선 워셔블 탄소전기요",
+          "price": 28900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9719320802.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9719320802",
+          "affiliate_url": "https://link.coupang.com/a/itjNrGNshE"
+        },
+        {
+          "productId": 7665804013,
+          "name": "릴렉시 전자파 안심 온열매트",
+          "price": 24890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7665804013.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7665804013",
+          "affiliate_url": "https://link.coupang.com/a/itjNxXe35g"
+        },
+        {
+          "productId": 8982187646,
+          "name": "HanilMedical 프리미엄 카본열선 탄소 전기요",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8982187646.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8982187646",
+          "affiliate_url": "https://link.coupang.com/a/itjNGtLi0a"
+        }
+      ]
+    },
+    "카본 히터": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9161185691,
+          "name": "슈어홈 1초발열 프리미엄 스탠드 카본히터 14인치 컨벡션, SUH-SCH14S",
+          "price": 99800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9161185691.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9161185691",
+          "affiliate_url": "https://link.coupang.com/a/itjNYur7Zc"
+        },
+        {
+          "productId": 9185725298,
+          "name": "5방향 완벽난방 오방난로 이동식 실내용 전기히터, 화이트, SUH-500MN",
+          "price": 64800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9185725298.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9185725298",
+          "affiliate_url": "https://link.coupang.com/a/itjN41d7tc"
+        },
+        {
+          "productId": 9736112796,
+          "name": "한경희 카본 가정용 히터 전기 난로 전기 히터 절전형 스토브 난방기 열 난로, 차콜 그레이, AFP-CABON350",
+          "price": 69900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9736112796.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9736112796",
+          "affiliate_url": "https://link.coupang.com/a/itjOiv0JEa"
+        },
+        {
+          "productId": 335473675,
+          "name": "신일 원적외선 카본히터 전기난로 4단, SEH-PC260PW, 혼합 색상",
+          "price": 147510,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/335473675.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/335473675",
+          "affiliate_url": "https://link.coupang.com/a/itjOppdTGu"
+        },
+        {
+          "productId": 9138896215,
+          "name": "[2026년형 신제품] 3초만에 따뜻! 레이나 히터 RH-2250CB 고효율 빠른발열 2단 카본히터 스탠드형 타이머 슬림디자인 좌우회전",
+          "price": 39840,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9138896215.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9138896215",
+          "affiliate_url": "https://link.coupang.com/a/itjOvBZCcC"
+        },
+        {
+          "productId": 9058172523,
+          "name": "니코 타워형 카본히터",
+          "price": 34230,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9058172523.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9058172523",
+          "affiliate_url": "https://link.coupang.com/a/itjOBWwIXQ"
+        },
+        {
+          "productId": 9505296742,
+          "name": "니코 타워형 카본히터 무소음 자동회전",
+          "price": 27700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9505296742.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9505296742",
+          "affiliate_url": "https://link.coupang.com/a/itjOKfSiK4"
+        },
+        {
+          "productId": 7685486345,
+          "name": "포첸 스탠드형 카본 히터",
+          "price": 25900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7685486345.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7685486345",
+          "affiliate_url": "https://link.coupang.com/a/itjOUhe5Lw"
+        }
+      ]
+    },
+    "오일 라디에이터": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9054357480,
+          "name": "독일 신기술 무소음 기름없는 라디에이터 컨벡션 히터, OTG-9915",
+          "price": 113810,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9054357480.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9054357480",
+          "affiliate_url": "https://link.coupang.com/a/itjPbUbRGC"
+        },
+        {
+          "productId": 8550783695,
+          "name": "니코 전기 라디에이터, WH-0509",
+          "price": 73900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8550783695.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8550783695",
+          "affiliate_url": "https://link.coupang.com/a/itjPoy2Kk0"
+        },
+        {
+          "productId": 1195421,
+          "name": "니코 미니 오일 라디에이터, WH-M07",
+          "price": 31680,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/1195421.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1195421",
+          "affiliate_url": "https://link.coupang.com/a/itjPuXRYbc"
+        },
+        {
+          "productId": 9789978801,
+          "name": "전기 라디에이터 9핀 오일 전기 히터 난로 스토브 난방기 화장실 욕실 가정용 업소용 온열기 사무실",
+          "price": 99000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9789978801.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9789978801",
+          "affiliate_url": "https://link.coupang.com/a/itjPInyFie"
+        },
+        {
+          "productId": 9773881470,
+          "name": "인더스 7핀 오일 라디에이터 전기히터 욕실 화장실 난방기 동파방지 겨울난방 INO-MR700",
+          "price": 39900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9773881470.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9773881470",
+          "affiliate_url": "https://link.coupang.com/a/itjPS0fFL2"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
