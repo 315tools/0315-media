@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "가열식 가습기", "limit": 8},
-  {"key": "C", "keyword": "초음파 가습기 대용량", "limit": 8},
-  {"key": "C", "keyword": "복합식 가습기", "limit": 8},
-  {"key": "C", "keyword": "전기요", "limit": 8},
-  {"key": "C", "keyword": "카본 히터", "limit": 8},
-  {"key": "C", "keyword": "오일 라디에이터", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "가열식 가습기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "초음파 가습기 대용량",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "복합식 가습기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "전기요",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "카본 히터",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "오일 라디에이터",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9136176625"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8457552215"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8389642536"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9150828084"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/335473675"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/1195421"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/8457552215"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9150828084"
+  }
  ]
 }
