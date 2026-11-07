@@ -1,0 +1,10 @@
+{
+ "searches": [
+  {"key": "C", "keyword": "가열식 가습기", "limit": 8},
+  {"key": "C", "keyword": "초음파 가습기 대용량", "limit": 8},
+  {"key": "C", "keyword": "복합식 가습기", "limit": 8},
+  {"key": "C", "keyword": "전기요", "limit": 8},
+  {"key": "C", "keyword": "카본 히터", "limit": 8},
+  {"key": "C", "keyword": "오일 라디에이터", "limit": 8}
+ ]
+}
