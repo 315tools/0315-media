@@ -1,0 +1,497 @@
+{
+  "searches": {
+    "휴대용 신발 아이젠": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9288511975,
+          "name": "이지유 (파우치 포함) 2세대 도시형 원터치 경량 갯바위 아이젠 10핀 휴대용 신발체인 미끄럼방지 눈길, 아이젠 블랙",
+          "price": 8800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9288511975.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9288511975",
+          "affiliate_url": "https://link.coupang.com/a/iuYHAQz9DU"
+        },
+        {
+          "productId": 9101271422,
+          "name": "겨울철 빙판길 등산 안전 미끄럼방지 신발커버 도심형 고무 밴드 아이젠 10핀, 검정",
+          "price": 3170,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9101271422.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9101271422",
+          "affiliate_url": "https://link.coupang.com/a/iuYHHcGSLA"
+        },
+        {
+          "productId": 9227856999,
+          "name": "휴대용 남성 여성 도시형 운동화 신발 아이젠 얼음길 빙판길 등산 눈길 눈썰매장 미끄럼방지",
+          "price": 10800,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9227856999.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9227856999",
+          "affiliate_url": "https://link.coupang.com/a/iuYHPTTfj2"
+        },
+        {
+          "productId": 8654985413,
+          "name": "휴대용 미끄럼방지 도심형 경량 운동화 아이젠 도시형 신발 겨울 빙판길 스패츠 빙판 눈길 간편 폭설",
+          "price": 11380.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8654985413.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8654985413",
+          "affiliate_url": "https://link.coupang.com/a/iuYHW18hYy"
+        },
+        {
+          "productId": 8655543070,
+          "name": "도심형 운동화 아이젠 휴대용 빙판 신발 4P 등산용 빙판길 미끄럼방지 눈길 폭설 겨울 스패츠 간편 도시형",
+          "price": 13060.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8655543070.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8655543070",
+          "affiliate_url": "https://link.coupang.com/a/iuYH73ejN6"
+        },
+        {
+          "productId": 8261934958,
+          "name": "휴대용 겨울 산악 등산 체인 아이젠 2P 산행 빙판 등산용 간편 신발 폭설 빙판길 도심형 스패츠 도시형",
+          "price": 24350.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8261934958.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8261934958",
+          "affiliate_url": "https://link.coupang.com/a/iuYIlxA3fU"
+        },
+        {
+          "productId": 9185124876,
+          "name": "미끄럼방지 휴대용 아이젠 신발 등산 13피크 빙판",
+          "price": 13050.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9185124876.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9185124876",
+          "affiliate_url": "https://link.coupang.com/a/iuYIvJh2fA"
+        }
+      ]
+    },
+    "안경 김서림 방지 천": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9616489040,
+          "name": "오브린 극세사 대형 천 김서림방지 안경닦이10p",
+          "price": 4600.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9616489040.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9616489040",
+          "affiliate_url": "https://link.coupang.com/a/iuYIVYuSnk"
+        },
+        {
+          "productId": 9701249089,
+          "name": "해드리오 김서림방지 극세사 안경닦이 10p",
+          "price": 5400.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9701249089.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9701249089",
+          "affiliate_url": "https://link.coupang.com/a/iuYI19c7EW"
+        },
+        {
+          "productId": 8259653406,
+          "name": "제프 국내생산 유해성분  불검출  안전인증합격 김서림방지 안경닦이 안경김서림방지 김서림방지제 안경닦이천 안티포그 안경김서림 김서림방지천 1P",
+          "price": 5760.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8259653406.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8259653406",
+          "affiliate_url": "https://link.coupang.com/a/iuYI7NLJiC"
+        },
+        {
+          "productId": 8475179914,
+          "name": "마이뷰 극세사 안경 김서림방지 안경닦이",
+          "price": 7900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8475179914.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8475179914",
+          "affiliate_url": "https://link.coupang.com/a/iuYJebJ9KC"
+        },
+        {
+          "productId": 9788146255,
+          "name": "초극세사 안경닦이 안경닦이천 김서림방지 대형 스마트폰 닦이 초극세사안경닦이",
+          "price": 8000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9788146255.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788146255",
+          "affiliate_url": "https://link.coupang.com/a/iuYJn8P6wS"
+        },
+        {
+          "productId": 9782238752,
+          "name": "극세사 닦이천 김서림제 안경수건 클리너 카메라안경닦이천 안경클리너 김서림방지티슈",
+          "price": 6120.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9782238752.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9782238752",
+          "affiliate_url": "https://link.coupang.com/a/iuYJtCOApw"
+        },
+        {
+          "productId": 9797415956,
+          "name": "안경수건 수건 안경닦는천 닦이 김서림방지 습기제거 안경닦이 안경수건 안경닦기",
+          "price": 6660.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9797415956.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9797415956",
+          "affiliate_url": "https://link.coupang.com/a/iuYJzUPq8a"
+        },
+        {
+          "productId": 9785253505,
+          "name": "김서림 방지 안경닦이 30매 김서림 방지 안경천 다회용 휴대용 선글라스 티슈 안전 카메라",
+          "price": 20250.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9785253505.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785253505",
+          "affiliate_url": "https://link.coupang.com/a/iuYJF2p5Y4"
+        }
+      ]
+    },
+    "장갑형 성에 제거 스크래퍼": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9806741911,
+          "name": "장갑형 자동차 성에제거 차량 성애제거기 스크래퍼 자동차스크래퍼 차량용스크래퍼 자동차브러쉬",
+          "price": 9750.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9806741911.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9806741911",
+          "affiliate_url": "https://link.coupang.com/a/iuYJWQ4VFI"
+        },
+        {
+          "productId": 9806730789,
+          "name": "장갑형 성에제거기/ 털장갑 스크래퍼/ 겨울차량유리",
+          "price": 5630.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9806730789.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9806730789",
+          "affiliate_url": "https://link.coupang.com/a/iuYJ2jEcU0"
+        },
+        {
+          "productId": 9798255774,
+          "name": "스크래퍼 용품 앞유리 빗자루 장갑형 자동차 성에 얼음삽 겨울 성에제거기",
+          "price": 8870.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9798255774.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9798255774",
+          "affiliate_url": "https://link.coupang.com/a/iuYJ6P5TqK"
+        },
+        {
+          "productId": 8189924302,
+          "name": "윤이네 성에제거기 털 장갑형 스크래퍼",
+          "price": 5600.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8189924302.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8189924302",
+          "affiliate_url": "https://link.coupang.com/a/iuYKcQx8IX"
+        },
+        {
+          "productId": 9242833428,
+          "name": "J&D  장갑형 성에제거기 스크래퍼 차량, 냉동고 청소, 눈치우기 하늘색",
+          "price": 14800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9242833428.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9242833428",
+          "affiliate_url": "https://link.coupang.com/a/iuYKjpPZJY"
+        },
+        {
+          "productId": 9808026764,
+          "name": "장갑형 차량용 성에 제거기 스크래퍼 자동차 성에 제거기 유리 제거",
+          "price": 15180.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9808026764.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9808026764",
+          "affiliate_url": "https://link.coupang.com/a/iuYKrDg0g8"
+        },
+        {
+          "productId": 9808026955,
+          "name": "장갑형 차량용 성에 제거기 스크래퍼 자동차 성에 제거기 유리 제거",
+          "price": 15180.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9808026955.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9808026955",
+          "affiliate_url": "https://link.coupang.com/a/iuYKw3vc9Q"
+        },
+        {
+          "productId": 9790249102,
+          "name": "mitas 미타스 차량용 아이스 스크래퍼 장갑형 성에 제거기",
+          "price": 18170.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9790249102.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9790249102",
+          "affiliate_url": "https://link.coupang.com/a/iuYKCkMH8e"
+        }
+      ]
+    },
+    "정전기 방지 팔찌": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8809446713,
+          "name": "밸런스닥터 일렉스탑 정전기방지팔찌 KOLAS인증 제전팔찌 스포츠밴드 생활방수 실리콘팔찌 기념품",
+          "price": 12320,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8809446713.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8809446713",
+          "affiliate_url": "https://link.coupang.com/a/iuYKSGViW4"
+        },
+        {
+          "productId": 9108705214,
+          "name": "스마트덕 정전기 방지 팔찌 완화 밴드, 1개, 순화이트",
+          "price": 10900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9108705214.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9108705214",
+          "affiliate_url": "https://link.coupang.com/a/iuYKYa2VH2"
+        },
+        {
+          "productId": 8594874746,
+          "name": "정전기방지팔찌 국내유일 1초미만 시험완료 스파크캔슬링, 블랙, 3개",
+          "price": 37800,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8594874746.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8594874746",
+          "affiliate_url": "https://link.coupang.com/a/iuYK9nhAWa"
+        },
+        {
+          "productId": 8390113617,
+          "name": "온더밸류 정전기 방지 팔찌 건강 방수 밴드 완화 장치",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8390113617.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8390113617",
+          "affiliate_url": "https://link.coupang.com/a/iuYLl7OsbQ"
+        },
+        {
+          "productId": 8417356682,
+          "name": "피라모니 정전기 방지 팔찌",
+          "price": 11520,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8417356682.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8417356682",
+          "affiliate_url": "https://link.coupang.com/a/iuYLrxF5ZQ"
+        },
+        {
+          "productId": 9736736923,
+          "name": "루닌 정전기 방지 밴드 팔찌",
+          "price": 4900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9736736923.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9736736923",
+          "affiliate_url": "https://link.coupang.com/a/iuYLxfTP2a"
+        },
+        {
+          "productId": 9067034374,
+          "name": "오늘의생활 밴드형 정전기방지팔찌 1+1",
+          "price": 6900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9067034374.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9067034374",
+          "affiliate_url": "https://link.coupang.com/a/iuYLDrnULk"
+        }
+      ]
+    },
+    "정전기 제거 키링": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9535308617,
+          "name": "정전기 방지 키홀더 CAR-K01",
+          "price": 2560.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9535308617.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9535308617",
+          "affiliate_url": "https://link.coupang.com/a/iuYLVe0kua"
+        },
+        {
+          "productId": 8522888641,
+          "name": "아리코 정전기 방지 스틱 키홀더 2종 세트",
+          "price": 7500.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8522888641.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8522888641",
+          "affiliate_url": "https://link.coupang.com/a/iuYL22QUF2"
+        },
+        {
+          "productId": 8688374973,
+          "name": "정전기 방지 자동차 키홀더 열쇠고리 LA-946 3X3",
+          "price": 4980.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8688374973.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8688374973",
+          "affiliate_url": "https://link.coupang.com/a/iuYL9H8R3Y"
+        },
+        {
+          "productId": 48597341,
+          "name": "정전기방지 키홀더 CAR-K01",
+          "price": 10800.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/48597341.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/48597341",
+          "affiliate_url": "https://link.coupang.com/a/iuYMj5MEOy"
+        },
+        {
+          "productId": 9153314473,
+          "name": "넥토스 휴대용 정전기 방지 제거기 키링 키홀더 열쇠고리",
+          "price": 8600.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9153314473.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9153314473",
+          "affiliate_url": "https://link.coupang.com/a/iuYMrbYkCW"
+        },
+        {
+          "productId": 9770783565,
+          "name": "메탈 정전기 제거 키링 LED 표시등 1초 정전기 없애기 차문 현관문 엘리베이터 버튼 사용 가능",
+          "price": 8990.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9770783565.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9770783565",
+          "affiliate_url": "https://link.coupang.com/a/iuYMxAvXk4"
+        },
+        {
+          "productId": 9172105936,
+          "name": "피라모니 정전기 완화 실리콘 키링",
+          "price": 8820.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9172105936.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9172105936",
+          "affiliate_url": "https://link.coupang.com/a/iuYMFKnFLw"
+        }
+      ]
+    },
+    "정전기 방지 스프레이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9562167867,
+          "name": "안셈 뿌리는 섬유유연제 섬유탈취제 정전기방지 500ml, 1개, 500ml",
+          "price": 12810,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9562167867.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9562167867",
+          "affiliate_url": "https://link.coupang.com/a/iuYM6wNz6O"
+        },
+        {
+          "productId": 7642323926,
+          "name": "무향 정전기 방지 스프레이 100ml, 150ml, 1개",
+          "price": 12000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7642323926.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7642323926",
+          "affiliate_url": "https://link.coupang.com/a/iuYNhZIiGG"
+        },
+        {
+          "productId": 9061323200,
+          "name": "무향 정전기 방지 스프레이 250ml, 250ml, 1개",
+          "price": 18980,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9061323200.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9061323200",
+          "affiliate_url": "https://link.coupang.com/a/iuYNqswXTM"
+        },
+        {
+          "productId": 92182487,
+          "name": "리빙굿 옷 정전기 방지 스프레이 허브향 본품",
+          "price": 4620,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/92182487.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/92182487",
+          "affiliate_url": "https://link.coupang.com/a/iuYNzOs6VM"
+        },
+        {
+          "productId": 9438134263,
+          "name": "하시 정전기 방지 스프레이 본품",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9438134263.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9438134263",
+          "affiliate_url": "https://link.coupang.com/a/iuYNMTYDv2"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
