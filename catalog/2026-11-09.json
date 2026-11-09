@@ -1,0 +1,464 @@
+{
+  "searches": {
+    "건조기 양모볼": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9584887631,
+          "name": "에테르나 건조기 양모볼 6p+건조기 오일15ml 세트, 아이보리, 1세트",
+          "price": 19900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9584887631.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9584887631",
+          "affiliate_url": "https://link.coupang.com/a/iwDEFPWCU8"
+        },
+        {
+          "productId": 7539241422,
+          "name": "[세트] 양모볼3개+오일3병 / 플러퓨스 울 드라이어볼, 양모볼, 건조기볼천연섬유유연제, 5000개, 0",
+          "price": 59260,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/7539241422.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7539241422",
+          "affiliate_url": "https://link.coupang.com/a/iwDENUY98u"
+        },
+        {
+          "productId": 9698051369,
+          "name": "데이킵 울 드라이어 볼 6p+파우치 건조기 정전기 양모볼, 1세트, 모던그레이",
+          "price": 11000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9698051369.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9698051369",
+          "affiliate_url": "https://link.coupang.com/a/iwDEUb9dsW"
+        },
+        {
+          "productId": 7871746353,
+          "name": "코멧 홈 건조기 양모 울드라이어볼 6p 세트 파우치 포함",
+          "price": 6990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7871746353.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7871746353",
+          "affiliate_url": "https://link.coupang.com/a/iwDEZNPjau"
+        },
+        {
+          "productId": 8103510424,
+          "name": "나무 건조기 양모볼 6p + 파우치 세트",
+          "price": 6330.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8103510424.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8103510424",
+          "affiliate_url": "https://link.coupang.com/a/iwDE5ZjnTE"
+        }
+      ]
+    },
+    "보풀제거기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9053329272,
+          "name": "LKOUY 보풀제거기 휴대용 충전식 6중날 대용량 세탁소용",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9053329272.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9053329272",
+          "affiliate_url": "https://link.coupang.com/a/iwDFlLd1Do"
+        },
+        {
+          "productId": 4947594003,
+          "name": "필립스 보풀제거기",
+          "price": 12780,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/4947594003.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4947594003",
+          "affiliate_url": "https://link.coupang.com/a/iwDFpiFBts"
+        },
+        {
+          "productId": 9769826876,
+          "name": "구스페리 충전식 가정용 LED 보풀제거기",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9769826876.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9769826876",
+          "affiliate_url": "https://link.coupang.com/a/iwDFvPz3dc"
+        },
+        {
+          "productId": 8502026641,
+          "name": "한경희생활과학 휴대용 충전식 세탁소 전문 보풀제거기 + 추가날",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8502026641.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8502026641",
+          "affiliate_url": "https://link.coupang.com/a/iwDFBIpziK"
+        },
+        {
+          "productId": 9710456479,
+          "name": "[2026신제품/ 8만대 돌파] 커버원 프리미엄 보풀제거기 세탁소용 6중날 충전식 대용량 LED",
+          "price": 16800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9710456479.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9710456479",
+          "affiliate_url": "https://link.coupang.com/a/iwDFF2zxg4"
+        },
+        {
+          "productId": 9729648047,
+          "name": "Elfcity 보풀제거기 휴대용 충전식 강력 6중날 무선 세탁소용 + 추가날",
+          "price": 13900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9729648047.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9729648047",
+          "affiliate_url": "https://link.coupang.com/a/iwDFLT1AlM"
+        },
+        {
+          "productId": 9101462411,
+          "name": "OMIIYA 보풀제거기 휴대용 충전식 대용량 세탁소용 6중날 3단조절 LED 디스플레",
+          "price": 18900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9101462411.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9101462411",
+          "affiliate_url": "https://link.coupang.com/a/iwDFWpboJM"
+        },
+        {
+          "productId": 9151439121,
+          "name": "강력 보풀 제거기 1위 세탁소용 휴대용 충전식 6중날",
+          "price": 10420,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9151439121.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9151439121",
+          "affiliate_url": "https://link.coupang.com/a/iwDF3oCSmi"
+        }
+      ]
+    },
+    "다운 패딩 전용 세제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 2322706995,
+          "name": "쉬슬러 구스다운워시 전용 액상세제 본품, 650ml, 1개",
+          "price": 7700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/2322706995.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2322706995",
+          "affiliate_url": "https://link.coupang.com/a/iwDGiWx7rU"
+        },
+        {
+          "productId": 8428251673,
+          "name": "다운와셔 오리털 구스다운 거위털 패딩세제 이불 침낭 침구 전용 세탁 세제, 15개, 30ml",
+          "price": 17370,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8428251673.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8428251673",
+          "affiliate_url": "https://link.coupang.com/a/iwDGmw5Dqu"
+        },
+        {
+          "productId": 8399406761,
+          "name": "닉왁스 다운워시 구스다운워시 울샴푸, 1개, 1L",
+          "price": 24700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8399406761.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8399406761",
+          "affiliate_url": "https://link.coupang.com/a/iwDGp7HkkL"
+        },
+        {
+          "productId": 9777088810,
+          "name": "[옷 손상 없이~!] 패딩 전용 세탁세제 홈 드라이크리닝 세제 패딩 얼룩제거제 구스 다운 세제 패딩 볼륨제 중성 세제 가정용 손빨래 LUPEIYA 포장증정",
+          "price": 11600,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9777088810.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9777088810",
+          "affiliate_url": "https://link.coupang.com/a/iwDGt6Aazc"
+        },
+        {
+          "productId": 9798218230,
+          "name": "[패딩 전용 클리닝 폼] 겨울 다운점퍼 얼룩 관리 거품형 의류 클리너 부분 세척 세정제",
+          "price": 14890.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9798218230.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9798218230",
+          "affiliate_url": "https://link.coupang.com/a/iwDGCPXoxU"
+        },
+        {
+          "productId": 1292114,
+          "name": "울샴푸 다운워시 본품",
+          "price": 8860,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/1292114.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1292114",
+          "affiliate_url": "https://link.coupang.com/a/iwDGHaLwI0"
+        }
+      ]
+    },
+    "창문 결로방지 시트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9810044790,
+          "name": "물흡수 테이프 베란다창문 결로 현관문 습기 물기 곰팡이방지 문풍지 창틀시트 샤시 발코니",
+          "price": 7190,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9810044790.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9810044790",
+          "affiliate_url": "https://link.coupang.com/a/iwDGZN1hPo"
+        },
+        {
+          "productId": 9795756661,
+          "name": "패턴 창문 에어캡 단열 뽁뽁이 보온단열 시트 결로방지 3중 코팅 5m",
+          "price": 10100.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9795756661.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795756661",
+          "affiliate_url": "https://link.coupang.com/a/iwDG5o8bgO"
+        },
+        {
+          "productId": 9785790149,
+          "name": "아이푸룸 국내생산 창문단열필름 자외선차단 아파트 베란다 보온 방한 결로방지 단열시트",
+          "price": 45900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9785790149.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785790149",
+          "affiliate_url": "https://link.coupang.com/a/iwDHeqXkHI"
+        },
+        {
+          "productId": 9791283059,
+          "name": "단열 결로방지 창문 시트 에어캡 뽁뽁이 열차단 겨울철 59000EA 1EA",
+          "price": 29110.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9791283059.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9791283059",
+          "affiliate_url": "https://link.coupang.com/a/iwDHkHgADY"
+        },
+        {
+          "productId": 9792855320,
+          "name": "겨울철 우풍 결로 방지 창문 뽁뽁이 3중 단열시트 필름 10m 결로방지",
+          "price": 31940.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9792855320.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9792855320",
+          "affiliate_url": "https://link.coupang.com/a/iwDHrPvDiu"
+        },
+        {
+          "productId": 9809347113,
+          "name": "라미에뜨 창문단열재 누빔 창문가리개 방한커튼 외풍차단 단열시트 결로방지",
+          "price": 37400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9809347113.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9809347113",
+          "affiliate_url": "https://link.coupang.com/a/iwDHyxTwOW"
+        },
+        {
+          "productId": 9799444331,
+          "name": "뽁뽁이 창문방풍 에어캡 단열비닐 결로방지 단열시트 1m X 2m 2개",
+          "price": 13780.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9799444331.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9799444331",
+          "affiliate_url": "https://link.coupang.com/a/iwDHEoES3o"
+        },
+        {
+          "productId": 9799444354,
+          "name": "뽁뽁이 창문방풍 에어캡 단열비닐 결로방지 단열시트 1m X 10m",
+          "price": 13780.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9799444354.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9799444354",
+          "affiliate_url": "https://link.coupang.com/a/iwDHKOD9H2"
+        }
+      ]
+    },
+    "창문 결로 물기제거 스퀴지": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9756277917,
+          "name": "창문 유리닦이 물기제거기 청소도구 아파트 베란다 욕실용 결로 방지 스퀴지 다용도",
+          "price": 15960.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9756277917.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9756277917",
+          "affiliate_url": "https://link.coupang.com/a/iwDH3JaU6S"
+        },
+        {
+          "productId": 9591554689,
+          "name": "리리아누 무선전동스퀴지 창문닦이 유리창닦이 물기제거 욕실 베란다 결로",
+          "price": 47900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9591554689.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9591554689",
+          "affiliate_url": "https://link.coupang.com/a/iwDIayX2jc"
+        },
+        {
+          "productId": 9591554139,
+          "name": "리리아누 무선전동스퀴지 창문닦이 미니스퀴지 유리창청소 욕실 결로제거",
+          "price": 53400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9591554139.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9591554139",
+          "affiliate_url": "https://link.coupang.com/a/iwDIiNoY6S"
+        },
+        {
+          "productId": 9731494626,
+          "name": "리리아누 전동스퀴지 무선물기제거기 창문닦이 유리창청소기 욕실 베란다 결로제거",
+          "price": 50700.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9731494626.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9731494626",
+          "affiliate_url": "https://link.coupang.com/a/iwDIqojvTU"
+        },
+        {
+          "productId": 4323766671,
+          "name": "화장실 욕실 거울 유리창 물기제거 청소스퀴지",
+          "price": 7040.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/4323766671.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4323766671",
+          "affiliate_url": "https://link.coupang.com/a/iwDIwRGjO8"
+        },
+        {
+          "productId": 9283478479,
+          "name": "깔끔의정석 2in1 화장실 욕실 바닥 롱 청소솔",
+          "price": 5900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9283478479.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9283478479",
+          "affiliate_url": "https://link.coupang.com/a/iwDICweVsO"
+        }
+      ]
+    },
+    "곰팡이 제거 젤": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9699465774,
+          "name": "일본 곰팡이 제거제 바르는 곰팡이 제거젤 욕실 화장실 실리콘 타일 줄눈 고무패킹 틈새 청소, 3개, 120g",
+          "price": 16800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9699465774.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9699465774",
+          "affiliate_url": "https://link.coupang.com/a/iwDITVJq8a"
+        },
+        {
+          "productId": 9775974432,
+          "name": "1/1+1강력 곰팡이 제거 젤 욕실 실리콘 곰팡이제거제 화장실 곰팡이제거제 줄눈 크리너 초강력 3초 곰팡이 제거, 1개, 120g",
+          "price": 17400,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9775974432.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9775974432",
+          "affiliate_url": "https://link.coupang.com/a/iwDIZSocai"
+        },
+        {
+          "productId": 9785808048,
+          "name": "대한살림 욕실 곰팡이 제거제 집 벽지 뿌리는 초강력 세정제, 6개, 500ml",
+          "price": 43900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9785808048.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785808048",
+          "affiliate_url": "https://link.coupang.com/a/iwDJbQRSuq"
+        },
+        {
+          "productId": 7506301128,
+          "name": "홈스타 바르는 곰팡이 싹 세정제",
+          "price": 2470,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7506301128.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7506301128",
+          "affiliate_url": "https://link.coupang.com/a/iwDJhcwQZU"
+        },
+        {
+          "productId": 4590711585,
+          "name": "청정세상 붓으로 바르는 곰팡이 제거제 (붓포함)",
+          "price": 14150,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/4590711585.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4590711585",
+          "affiliate_url": "https://link.coupang.com/a/iwDJnu6TYG"
+        },
+        {
+          "productId": 1509881,
+          "name": "미라클 곰팡이젤",
+          "price": 15220.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/1509881.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1509881",
+          "affiliate_url": "https://link.coupang.com/a/iwDJvSAuiW"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
