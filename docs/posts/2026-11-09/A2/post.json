@@ -31,5 +31,10 @@
     "04.jpg",
     "05.jpg"
   ],
-  "result": {}
+  "result": {
+    "error": "HTTP 403: Application request limit reached",
+    "at": "2026-11-09T18:57:51+09:00"
+  },
+  "status": "failed",
+  "attempts": 1
 }
