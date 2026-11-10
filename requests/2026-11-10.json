@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "꿀유자차", "limit": 8},
-  {"key": "C", "keyword": "맛밤", "limit": 8},
-  {"key": "C", "keyword": "꿀고구마 3kg", "limit": 8},
-  {"key": "C", "keyword": "국산 쌀 가래떡", "limit": 8},
-  {"key": "C", "keyword": "쌀조청", "limit": 8},
-  {"key": "C", "keyword": "쌀떡볶이 밀키트", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "꿀유자차",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "맛밤",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "꿀고구마 3kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "국산 쌀 가래떡",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "쌀조청",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "쌀떡볶이 밀키트",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/2528304"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6855917521"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9801632833"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8771531346"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8202492933"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9580732566"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/2528304"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/8771531346"
+  }
  ]
 }
