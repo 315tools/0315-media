@@ -1,0 +1,387 @@
+{
+  "searches": {
+    "꿀유자차": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 96760,
+          "name": "담터 꿀유자차",
+          "price": 6540,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/96760.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/96760",
+          "affiliate_url": "https://link.coupang.com/a/iyiFBQkrXU"
+        },
+        {
+          "productId": 2528304,
+          "name": "꽃샘 꿀유자차 S",
+          "price": 9960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/2528304.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2528304",
+          "affiliate_url": "https://link.coupang.com/a/iyiFFBlQT6"
+        },
+        {
+          "productId": 8610547094,
+          "name": "마이데이즈 유자 스푼 슈푼슈푼 고흥 꿀 유자차 유자청 스틱 휴대용 차",
+          "price": 5900,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8610547094.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8610547094",
+          "affiliate_url": "https://link.coupang.com/a/iyiFLYdZTM"
+        }
+      ]
+    },
+    "맛밤": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6855917521,
+          "name": "씨제이 맛밤",
+          "price": 24300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6855917521.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6855917521",
+          "affiliate_url": "https://link.coupang.com/a/iyiF4McPUO"
+        }
+      ]
+    },
+    "꿀고구마 3kg": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9791695251,
+          "name": "[재구매율1위] 기간한정특가 고당도 베니하루카 꿀고구마",
+          "price": 8900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9791695251.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9791695251",
+          "affiliate_url": "https://link.coupang.com/a/iyiGtwv4hw"
+        },
+        {
+          "productId": 9800831952,
+          "name": "[한정특가] 농장직송 해남 고구마 꿀고구마 (중상)",
+          "price": 8800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9800831952.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9800831952",
+          "affiliate_url": "https://link.coupang.com/a/iyiGF46VRk"
+        },
+        {
+          "productId": 9801632833,
+          "name": "[26년 햇고구마] 국내산 고당도 꿀고구마 베니하루카",
+          "price": 8800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9801632833.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9801632833",
+          "affiliate_url": "https://link.coupang.com/a/iyiGNRiVJ6"
+        },
+        {
+          "productId": 9802499817,
+          "name": "[24시간특가] 하루50박스만 꿀범벅브릭스 초고당도 꿀고구마",
+          "price": 9900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9802499817.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9802499817",
+          "affiliate_url": "https://link.coupang.com/a/iyiGZkGUXQ"
+        },
+        {
+          "productId": 9795188984,
+          "name": "[산지직송] 해남 고구마 꿀고구마 작년재구매1위",
+          "price": 12900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9795188984.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795188984",
+          "affiliate_url": "https://link.coupang.com/a/iyiG5JbkpU"
+        },
+        {
+          "productId": 9803079440,
+          "name": "[하루30박스한정판매] 산지직송 벌꿀맛birx 베니하루카 꿀고구마",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9803079440.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803079440",
+          "affiliate_url": "https://link.coupang.com/a/iyiHbOvyBE"
+        },
+        {
+          "productId": 9803972281,
+          "name": "[농장특가] 달콤촉촉 꿀고당도 베니하루카 꿀고구마",
+          "price": 9900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9803972281.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803972281",
+          "affiliate_url": "https://link.coupang.com/a/iyiHpqjFZs"
+        },
+        {
+          "productId": 9791497087,
+          "name": "[꿀고구마] 해남 황토 베니하루카 촉촉달콤",
+          "price": 14020,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9791497087.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9791497087",
+          "affiliate_url": "https://link.coupang.com/a/iyiHAzPJ6G"
+        }
+      ]
+    },
+    "국산 쌀 가래떡": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8898829446,
+          "name": "기타 순수 우리쌀 가래떡 1kg+1kg+1kg (총 3kg)",
+          "price": 10900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/8898829446.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8898829446",
+          "affiliate_url": "https://link.coupang.com/a/iyiHR987Mq"
+        },
+        {
+          "productId": 7292483281,
+          "name": "구워먹는가래떡 100% 마켓통  국내산 쌀 개래떡",
+          "price": 11410.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/7292483281.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7292483281",
+          "affiliate_url": "https://link.coupang.com/a/iyiH2JfcVo"
+        },
+        {
+          "productId": 8771531346,
+          "name": "[로켓프레시] 농협식품 통가래떡",
+          "price": 3080.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8771531346.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8771531346",
+          "affiliate_url": "https://link.coupang.com/a/iyiH8wyak0"
+        },
+        {
+          "productId": 9452506201,
+          "name": "참미소 쌀가래떡 1kg",
+          "price": 8340,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9452506201.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9452506201",
+          "affiliate_url": "https://link.coupang.com/a/iyiIjaQl88"
+        },
+        {
+          "productId": 5930115419,
+          "name": "시루조아 굳지않는 흰 가래떡 (냉동)",
+          "price": 15800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/5930115419.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5930115419",
+          "affiliate_url": "https://link.coupang.com/a/iyiIpsStIy"
+        },
+        {
+          "productId": 7665358668,
+          "name": "소소담 우리쌀 한입 가래떡 (냉동)",
+          "price": 8900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7665358668.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7665358668",
+          "affiliate_url": "https://link.coupang.com/a/iyiIABp24G"
+        },
+        {
+          "productId": 8969417641,
+          "name": "[로켓프레시] 경기떡집 흰가래떡 (냉동)",
+          "price": 8230,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8969417641.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8969417641",
+          "affiliate_url": "https://link.coupang.com/a/iyiILIYb8e"
+        }
+      ]
+    },
+    "쌀조청": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8202534194,
+          "name": "강봉석 명인쌀조청",
+          "price": 18890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8202534194.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8202534194",
+          "affiliate_url": "https://link.coupang.com/a/iyiI6Zotc4"
+        },
+        {
+          "productId": 5083877890,
+          "name": "쌀조청 경일식품 물엿 조청",
+          "price": 22070,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/5083877890.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5083877890",
+          "affiliate_url": "https://link.coupang.com/a/iyiJcLo8lg"
+        },
+        {
+          "productId": 8202570722,
+          "name": "청정원 조청쌀엿",
+          "price": 17060,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8202570722.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8202570722",
+          "affiliate_url": "https://link.coupang.com/a/iyiJiRvFOm"
+        },
+        {
+          "productId": 9474826145,
+          "name": "우리쌀조청엿3kg/경일[PT]",
+          "price": 12630,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9474826145.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9474826145",
+          "affiliate_url": "https://link.coupang.com/a/iyiJvS3CEK"
+        },
+        {
+          "productId": 8202492933,
+          "name": "청정원 조청쌀엿",
+          "price": 3480,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8202492933.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8202492933",
+          "affiliate_url": "https://link.coupang.com/a/iyiJFndknA"
+        }
+      ]
+    },
+    "쌀떡볶이 밀키트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7690240662,
+          "name": "[로켓프레시] 고래사어묵 어묵떡볶이 2인분 (쌀떡) (냉동)",
+          "price": 4770,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7690240662.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7690240662",
+          "affiliate_url": "https://link.coupang.com/a/iyiJWPNjpI"
+        },
+        {
+          "productId": 7686950577,
+          "name": "[로켓프레시] 금미옥 쌀떡볶이 (냉동)",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7686950577.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7686950577",
+          "affiliate_url": "https://link.coupang.com/a/iyiJ3ywzqm"
+        },
+        {
+          "productId": 9580732566,
+          "name": "[로켓프레시] 미정당 가래떡 쌀떡볶이 (냉동)",
+          "price": 6400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9580732566.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9580732566",
+          "affiliate_url": "https://link.coupang.com/a/iyiJ9xcAeG"
+        },
+        {
+          "productId": 1478690658,
+          "name": "풀무원 국물떡볶이 (쌀떡)",
+          "price": 3750.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/1478690658.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1478690658",
+          "affiliate_url": "https://link.coupang.com/a/iyiKfZaFmm"
+        },
+        {
+          "productId": 8251509200,
+          "name": "[로켓프레시] HOMESTAURANT 애슐리 베이컨 까르보나라 떡볶이 밀키트 2인분 (쌀떡) (냉동)",
+          "price": 6610,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8251509200.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8251509200",
+          "affiliate_url": "https://link.coupang.com/a/iyiKlM52ia"
+        },
+        {
+          "productId": 111269049,
+          "name": "풀무원 쌀 순쌀 고추장 떡볶이 (쌀떡)",
+          "price": 7460,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/111269049.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/111269049",
+          "affiliate_url": "https://link.coupang.com/a/iyiKzxM21Y"
+        },
+        {
+          "productId": 8185326926,
+          "name": "[로켓프레시] 대림선 24 / 7 통가래떡볶이 2인분 (쌀떡)",
+          "price": 6600.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8185326926.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8185326926",
+          "affiliate_url": "https://link.coupang.com/a/iyiKF6fmrA"
+        },
+        {
+          "productId": 8663074881,
+          "name": "[삼진어묵] 어묵듬뿍 쌀떡볶이",
+          "price": 25270.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8663074881.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8663074881",
+          "affiliate_url": "https://link.coupang.com/a/iyiKL1iOGW"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
