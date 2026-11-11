@@ -1,0 +1,497 @@
+{
+  "searches": {
+    "차량용 김서림방지제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6976280145,
+          "name": "더클래스 안티포그 김서림 방지제, 120ml, 2개",
+          "price": 16400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6976280145.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6976280145",
+          "affiliate_url": "https://link.coupang.com/a/izXu5IWpWK"
+        },
+        {
+          "productId": 5919458125,
+          "name": "베리크린 김서림방지제 안티포그, 1개, 200ml",
+          "price": 18900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/5919458125.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5919458125",
+          "affiliate_url": "https://link.coupang.com/a/izXvcAq7Vs"
+        },
+        {
+          "productId": 9144086447,
+          "name": "자동차 앞유리 백미러 김서림 방지 및 초발수 코팅제 세트, 2개, 100ml",
+          "price": 14570,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9144086447.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9144086447",
+          "affiliate_url": "https://link.coupang.com/a/izXvjnfLrg"
+        },
+        {
+          "productId": 9396085183,
+          "name": "필로그레이 차량용 유리 김서림방지 코팅제",
+          "price": 9800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9396085183.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9396085183",
+          "affiliate_url": "https://link.coupang.com/a/izXvtiZloO"
+        },
+        {
+          "productId": 9799426067,
+          "name": "[올인원] 자동차 김서림 방지제 욕실 거울 차량용 김서림방지제 차량 유리 습기제거제 차유리 오토바이 쉴드 헬멧 김서림 습기 방지 제거 스프레이 화장실 안티포그 코팅제 TENFOC",
+          "price": 9800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9799426067.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9799426067",
+          "affiliate_url": "https://link.coupang.com/a/izXvAxtyUK"
+        },
+        {
+          "productId": 6068835105,
+          "name": "불스원 레인OK 김서림방지",
+          "price": 14440.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/6068835105.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6068835105",
+          "affiliate_url": "https://link.coupang.com/a/izXvH4l43g"
+        }
+      ]
+    },
+    "차량용 숯 제습제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9466864793,
+          "name": "차콜프레시 포켓 국내산 백탄 참숯 서랍장 옷장 신발장 차량용 무향 탈취제 제습제, 30개, 50g",
+          "price": 46000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9466864793.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9466864793",
+          "affiliate_url": "https://link.coupang.com/a/izXv3vDBbo"
+        },
+        {
+          "productId": 9807955493,
+          "name": "닥터케이콩 파워제습제 250g, 습기제거 냄새방지 곰팡이방지 습기제거제 염화칼슘 제습제",
+          "price": 5600.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9807955493.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9807955493",
+          "affiliate_url": "https://link.coupang.com/a/izXwakRv7A"
+        },
+        {
+          "productId": 8636917240,
+          "name": "겔형 탈취제 150g 제습제 숯 녹차 오렌지 장마철 장농 옷장 서랍 화장실 신발장 자동차",
+          "price": 2600.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8636917240.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8636917240",
+          "affiliate_url": "https://link.coupang.com/a/izXwgKSLjE"
+        },
+        {
+          "productId": 8628217131,
+          "name": "겔형 탈취제 150g 제습제 숯 녹차 오렌지 장마철 장농 옷장 서랍 화장실 신발장 자동차",
+          "price": 2600.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8628217131.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8628217131",
+          "affiliate_url": "https://link.coupang.com/a/izXwnnTVE4"
+        },
+        {
+          "productId": 9811887422,
+          "name": "신차 탈취 방습 방곰팡이 팩 고흡습 자동차 제습백 차량용 실리카겔 변색 건조제 제습 숯 팩",
+          "price": 19740.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9811887422.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9811887422",
+          "affiliate_url": "https://link.coupang.com/a/izXwtzWM4O"
+        }
+      ]
+    },
+    "사이드미러 빗물방지 필름": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9580947162,
+          "name": "미라클다인 사이드미러형+창문형 세트 빗물 김서림 눈부심 방지 방수 필름, 2세트, 창문+ 사이드미러",
+          "price": 8990,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9580947162.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9580947162",
+          "affiliate_url": "https://link.coupang.com/a/izXwLTSgmW"
+        },
+        {
+          "productId": 6959604370,
+          "name": "[오카] 더뉴 셀토스 호환 용품 사이드미러 발수 친수 방수 필름 안티포그 김서림방지 빗물 차량용 비오는날, 1세트",
+          "price": 8150,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6959604370.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6959604370",
+          "affiliate_url": "https://link.coupang.com/a/izXwVsyHXE"
+        },
+        {
+          "productId": 9062665363,
+          "name": "누띤 김서림 방지 사이드미러 좌측 벽면 방수필름 세트, 1세트, 모든차종",
+          "price": 7580,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9062665363.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9062665363",
+          "affiliate_url": "https://link.coupang.com/a/izXw5w2d7A"
+        },
+        {
+          "productId": 9205408815,
+          "name": "[오카] 사이드미러 발수 방수 친수 필름 트랙스 싼타페 쏘렌토 팰리세이드 아반떼 호환 상품, 1세트, 차종번호를입력해주세요",
+          "price": 8250,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9205408815.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9205408815",
+          "affiliate_url": "https://link.coupang.com/a/izXxgvzdh6"
+        },
+        {
+          "productId": 8936591018,
+          "name": "자동차 사이드미러 방우 필름 4종 세트",
+          "price": 6200.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8936591018.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8936591018",
+          "affiliate_url": "https://link.coupang.com/a/izXxtfwShE"
+        },
+        {
+          "productId": 9037078888,
+          "name": "뉴오피러스 사이드미러 빗물 방지 필름",
+          "price": 8500.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9037078888.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9037078888",
+          "affiliate_url": "https://link.coupang.com/a/izXxAjnrBk"
+        },
+        {
+          "productId": 9812746272,
+          "name": "사이드미러 방수필름 2p 차량 빗물 습기 방지 원형",
+          "price": 8400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9812746272.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9812746272",
+          "affiliate_url": "https://link.coupang.com/a/izXxLzm4rY"
+        }
+      ]
+    },
+    "수능시계 아날로그": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9794140535,
+          "name": "제미즈 저소음 아날로그 손목시계 수능 수험생 시험용",
+          "price": 12900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9794140535.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9794140535",
+          "affiliate_url": "https://link.coupang.com/a/izXx91ZQqG"
+        },
+        {
+          "productId": 8366678245,
+          "name": "슈페르바 저소음 큰숫자 학생 수능 아날로그 손목 시계 수능시계",
+          "price": 6490,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8366678245.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8366678245",
+          "affiliate_url": "https://link.coupang.com/a/izXyf0QsGO"
+        },
+        {
+          "productId": 9604037511,
+          "name": "리베이 남녀공용 저소음 손목 수능시계",
+          "price": 5290,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9604037511.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9604037511",
+          "affiliate_url": "https://link.coupang.com/a/izXymeSVAy"
+        },
+        {
+          "productId": 8599454744,
+          "name": "CANCRI 수능시계 큰숫자 저소음 토익 시험 아날로그 손목시계",
+          "price": 10800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8599454744.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8599454744",
+          "affiliate_url": "https://link.coupang.com/a/izXyszWvbE"
+        },
+        {
+          "productId": 8852987291,
+          "name": "수능시계 4년 배터리 칼리브 시험용 저소음 KALIV SUPER2035",
+          "price": 13900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8852987291.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8852987291",
+          "affiliate_url": "https://link.coupang.com/a/izXyx7lvJ6"
+        },
+        {
+          "productId": 9734540351,
+          "name": "저소음 수험생 시험용 아날로그 수능 시계",
+          "price": 7800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9734540351.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9734540351",
+          "affiliate_url": "https://link.coupang.com/a/izXyI7ddq8"
+        },
+        {
+          "productId": 9599124196,
+          "name": "에듀타임 시간도공부입니다 저소음 수험생시계 시험용시계 학생 손목시계",
+          "price": 8900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9599124196.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9599124196",
+          "affiliate_url": "https://link.coupang.com/a/izXyPfWzZs"
+        },
+        {
+          "productId": 9581614226,
+          "name": "아르앤 빅넘버 저소음 시험용 아날로그 방수 손목시계 초경량",
+          "price": 8900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9581614226.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9581614226",
+          "affiliate_url": "https://link.coupang.com/a/izXyVdnOXA"
+        }
+      ]
+    },
+    "수능 합격기원 선물세트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9797252156,
+          "name": "대왕합격스 수능선물 합격기원선물 수험생선물 응원선물 시험선물 수능합격 고3 수험생간식, 1세트, 대왕합격스",
+          "price": 29800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9797252156.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9797252156",
+          "affiliate_url": "https://link.coupang.com/a/izXzcUK3O0"
+        },
+        {
+          "productId": 7400128258,
+          "name": "시험 선물 세트 선샤인마켓 딱붙어 수험생 선물 올인원 합격 기원 응원 선물 시험 만점 기원 고3 수능 고시 합격엿 세트 (영업일기준 13시 이전 주문 당일발송), 1세트",
+          "price": 42900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/7400128258.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7400128258",
+          "affiliate_url": "https://link.coupang.com/a/izXzlJev2O"
+        },
+        {
+          "productId": 9766773518,
+          "name": "수능 간식 합격 수험생 선물 합격엿, 9개, 과자9종세트",
+          "price": 37000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9766773518.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766773518",
+          "affiliate_url": "https://link.coupang.com/a/izXzso12Rg"
+        },
+        {
+          "productId": 7623011291,
+          "name": "옛다합격2호 행운합격엿 페레로로쉐 세트 [ 엿10입/120g + 페레로12입/150g ] 수능 시험 합격 기원 응원 간식 전통엿 초콜릿 선물 포장 세트 270g, 1개, 270g",
+          "price": 25900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7623011291.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7623011291",
+          "affiliate_url": "https://link.coupang.com/a/izXzCyClmm"
+        },
+        {
+          "productId": 9810211636,
+          "name": "[합격의 비밀] 엿츠 수능 선물 세트 합격기원 딱붙는 수능엿",
+          "price": 29800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9810211636.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9810211636",
+          "affiliate_url": "https://link.coupang.com/a/izXzJSMxtA"
+        },
+        {
+          "productId": 6156269065,
+          "name": "빼빼로 6입 하트 선물세트 (초코 아몬드 화이트쿠키) 행운 응원 생일 수능 시험 합격기원 빼빼로데이",
+          "price": 14600,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/6156269065.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6156269065",
+          "affiliate_url": "https://link.coupang.com/a/izXzQaebV7"
+        },
+        {
+          "productId": 4363614531,
+          "name": "빼빼로 6입 럭셔리 선물세트 (초코 아몬드 화이트쿠키 각2개) 행운 응원 생일 수능 시험 합격기원 빼빼로데이",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/4363614531.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4363614531",
+          "affiliate_url": "https://link.coupang.com/a/izXzWimimy"
+        },
+        {
+          "productId": 9766702339,
+          "name": "핑크 러브다이브 빼빼로 선물세트 생일 빼빼로데이 행운 수능 시험 합격기원 응원 초콜릿 초대형빼빼로",
+          "price": 119000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9766702339.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766702339",
+          "affiliate_url": "https://link.coupang.com/a/izXz34Raea"
+        }
+      ]
+    },
+    "수험생 무릎담요": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9793460324,
+          "name": "[1+1] 5컬러 극세사 무릎담요 똑딱이 어깨블랭킷 망토담요 캠핑 차박 수험생 여행",
+          "price": 13950,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9793460324.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9793460324",
+          "affiliate_url": "https://link.coupang.com/a/izXAlX9yyi"
+        },
+        {
+          "productId": 9785948347,
+          "name": "똑딱이 무릎담요 망토담요 입는 담요 수험생 사무실 캠핑 차박",
+          "price": 9100.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9785948347.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785948347",
+          "affiliate_url": "https://link.coupang.com/a/izXAsDrvWe"
+        },
+        {
+          "productId": 9789407891,
+          "name": "극세사 담요 대형 차량용 사무실 무릎 덮개 보온 휴대용 학생 수험생 겨울 블랭킷",
+          "price": 8280.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9789407891.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9789407891",
+          "affiliate_url": "https://link.coupang.com/a/izXAzLKbqm"
+        },
+        {
+          "productId": 9798276856,
+          "name": "체크 망토 담요 양털 안감 무릎담요 겨울 숄 어깨 사무실 수험생 캠핑 방한",
+          "price": 13960.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9798276856.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9798276856",
+          "affiliate_url": "https://link.coupang.com/a/izXAF2QBVc"
+        },
+        {
+          "productId": 9794537867,
+          "name": "똑딱이 담요 단추 블랭킷 망토 사무실 차박 야외 극세사 방한 겨울 100x145 무릎담요 수험생 크리스마스 선물 연말 답례품 보온",
+          "price": 7410.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9794537867.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9794537867",
+          "affiliate_url": "https://link.coupang.com/a/izXAMh1tlc"
+        },
+        {
+          "productId": 9667207048,
+          "name": "캐릭터 무릎담요 꼬망 담요 사무실 캠핑 차량 차박 카페 수험생 여행",
+          "price": 25460.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9667207048.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9667207048",
+          "affiliate_url": "https://link.coupang.com/a/izXASm2oUu"
+        },
+        {
+          "productId": 9147863653,
+          "name": "극세사 무릎담요 담요 대형 160x200cm 캠핑 밍크담요 사무실 거실 학교 캠핑 차박 수험생",
+          "price": 27000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9147863653.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9147863653",
+          "affiliate_url": "https://link.coupang.com/a/izXAYA1eYC"
+        },
+        {
+          "productId": 9791968908,
+          "name": "2개세트 캐릭터 단추 극세사 담요 블랑켓 차량 사무실 무릎 어깨 치마 수험생 수면 겨울 보온",
+          "price": 16900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9791968908.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9791968908",
+          "affiliate_url": "https://link.coupang.com/a/izXA5nKozQ"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
