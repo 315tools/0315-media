@@ -1,0 +1,475 @@
+{
+  "searches": {
+    "KF94 마스크 대형 100매": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9788791840,
+          "name": "혜원클린 프리미엄국산 KF94 대형 마스크 화이트 100매 지퍼팩 포장, 화이트, 4개, 25매입",
+          "price": 10300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9788791840.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788791840",
+          "affiliate_url": "https://link.coupang.com/a/iBCpishJ00"
+        },
+        {
+          "productId": 9138672512,
+          "name": "닥터피앤비 프리미엄 국산 KF94 대형 보건용 마스크 100매 (10매씩 포장), 화이트, 10개, 10개입",
+          "price": 14900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9138672512.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9138672512",
+          "affiliate_url": "https://link.coupang.com/a/iBCppyxAK4"
+        },
+        {
+          "productId": 9788792702,
+          "name": "혜원클린 국산 KF94 대형 프리미엄 마스크 100매, 블랙, 4개, 25매입",
+          "price": 11210,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9788792702.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788792702",
+          "affiliate_url": "https://link.coupang.com/a/iBCpCUfT3c"
+        },
+        {
+          "productId": 8746842149,
+          "name": "허글리 국내산 KF94 핏하고 숨쉬기 편한 새부리형 마스크",
+          "price": 10900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8746842149.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8746842149",
+          "affiliate_url": "https://link.coupang.com/a/iBCpKn4sAC"
+        },
+        {
+          "productId": 8562895882,
+          "name": "ANNANE 더스마티 귀편한 프리미엄 KF94 마스크 컬러 새부리형 대형 100매 12.8x15.2cm",
+          "price": 7500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/8562895882.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8562895882",
+          "affiliate_url": "https://link.coupang.com/a/iBCpWwaDbU"
+        }
+      ]
+    },
+    "정전기 청소포 대용량": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6943521716,
+          "name": "크린액티브 대용량 정전기 청소포 대형 310p, 1개",
+          "price": 13590,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6943521716.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6943521716",
+          "affiliate_url": "https://link.coupang.com/a/iBCqgw2XAa"
+        },
+        {
+          "productId": 6865510861,
+          "name": "크린팡 표준형 대용량 정전기 청소포 300매입, 1개",
+          "price": 11780,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/6865510861.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6865510861",
+          "affiliate_url": "https://link.coupang.com/a/iBCqx6rCU0"
+        },
+        {
+          "productId": 1250760308,
+          "name": "정전기청소포 대용량300매, 1개",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/1250760308.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1250760308",
+          "affiliate_url": "https://link.coupang.com/a/iBCqIB9CHk"
+        },
+        {
+          "productId": 8159298120,
+          "name": "스카치브라이트 올뉴 재활용 PET 사용 정전기 청소포 표준형 200p, 1개",
+          "price": 18530,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8159298120.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8159298120",
+          "affiliate_url": "https://link.coupang.com/a/iBCqQm07Uq"
+        },
+        {
+          "productId": 8967692477,
+          "name": "[맑은결] 국산대용량 정전기 청소포 1kg",
+          "price": 7900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8967692477.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8967692477",
+          "affiliate_url": "https://link.coupang.com/a/iBCq2DaUfc"
+        },
+        {
+          "productId": 2311796525,
+          "name": "코멧 일반형 정전기 청소포 대용량 600매",
+          "price": 22210,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/2311796525.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2311796525",
+          "affiliate_url": "https://link.coupang.com/a/iBCrfwvkwS"
+        },
+        {
+          "productId": 9314145722,
+          "name": "꼼꼼한생활 정전기청소포 정전기포 미세먼지 청소 대용량 600매",
+          "price": 18900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9314145722.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9314145722",
+          "affiliate_url": "https://link.coupang.com/a/iBCrqJnmWO"
+        },
+        {
+          "productId": 5392655254,
+          "name": "코멧 베이직 정전기 청소포 200매 20x30cm",
+          "price": 7020,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/5392655254.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5392655254",
+          "affiliate_url": "https://link.coupang.com/a/iBCrCtCdKS"
+        }
+      ]
+    },
+    "극세사 먼지떨이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9786921806,
+          "name": "손잡이형 극세사 먼지떨이개 청소먼지떨이",
+          "price": 3500.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9786921806.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9786921806",
+          "affiliate_url": "https://link.coupang.com/a/iBCrYzSOHY"
+        },
+        {
+          "productId": 21973954,
+          "name": "극세사 먼지털이",
+          "price": 4550.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/21973954.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/21973954",
+          "affiliate_url": "https://link.coupang.com/a/iBCsaeQ80i"
+        },
+        {
+          "productId": 9757551912,
+          "name": "온빛4 극세사 먼지털이개 소형",
+          "price": 8000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9757551912.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9757551912",
+          "affiliate_url": "https://link.coupang.com/a/iBCsiiq9VQ"
+        },
+        {
+          "productId": 8365543019,
+          "name": "삼정 초극세사 (소, 대) 먼지떨이 극세사먼지털이 극세사먼지떨이 청소솔",
+          "price": 3330.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8365543019.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8365543019",
+          "affiliate_url": "https://link.coupang.com/a/iBCsvv5Ruu"
+        },
+        {
+          "productId": 8039804672,
+          "name": "크린메이트 극세사 먼지떨이",
+          "price": 10520.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8039804672.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8039804672",
+          "affiliate_url": "https://link.coupang.com/a/iBCsMs4xRA"
+        },
+        {
+          "productId": 8520178954,
+          "name": "치타샾 다용도 먼지털이",
+          "price": 6590.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/8520178954.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8520178954",
+          "affiliate_url": "https://link.coupang.com/a/iBCsTiZBlI"
+        },
+        {
+          "productId": 9689674052,
+          "name": "안젤로 극세사 차량 먼지떨이개 대형",
+          "price": 4300.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9689674052.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9689674052",
+          "affiliate_url": "https://link.coupang.com/a/iBCs5Jdcce"
+        },
+        {
+          "productId": 7809971395,
+          "name": "카렉스 3분세차 초극세사 미니털이개",
+          "price": 7800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/7809971395.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7809971395",
+          "affiliate_url": "https://link.coupang.com/a/iBCtgkVAsu"
+        }
+      ]
+    },
+    "곰팡이 제거젤": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9100903115,
+          "name": "에코후레쉬 실리콘 곰팡이 제거젤 창문 틈세 화장실 타일 줄눈 제거, 4개, 220ml",
+          "price": 27070,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9100903115.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9100903115",
+          "affiliate_url": "https://link.coupang.com/a/iBCtyACuaW"
+        },
+        {
+          "productId": 9699465774,
+          "name": "일본 곰팡이 제거제 바르는 곰팡이 제거젤 욕실 화장실 실리콘 타일 줄눈 고무패킹 틈새 청소, 5개, 120g",
+          "price": 21800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9699465774.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9699465774",
+          "affiliate_url": "https://link.coupang.com/a/iBCtCqVGtE"
+        },
+        {
+          "productId": 9531615345,
+          "name": "Gaayou 오염 세정제 욕실 바르는 실리콘 젤 화장실/ 벽/ 바닥/ 타일/ 틈새/ 드럼 세탁기, 2개, 500ml",
+          "price": 15590,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9531615345.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9531615345",
+          "affiliate_url": "https://link.coupang.com/a/iBCtI9s5fM"
+        },
+        {
+          "productId": 7506301128,
+          "name": "홈스타 바르는 곰팡이 싹 세정제",
+          "price": 3300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7506301128.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7506301128",
+          "affiliate_url": "https://link.coupang.com/a/iBCtMYNxSv"
+        }
+      ]
+    },
+    "창틀 틈새 청소 브러시": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9068940418,
+          "name": "필모어 활용끝판 일회용 창틀 틈새 청소솔 청소도구, 10개, 민트",
+          "price": 6000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9068940418.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9068940418",
+          "affiliate_url": "https://link.coupang.com/a/iBCt4el5ZA"
+        },
+        {
+          "productId": 8618183375,
+          "name": "더포인트 창틀 청소 브러쉬 틈새 청소솔 창틀 청소도구, 10개, 민트",
+          "price": 6000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8618183375.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8618183375",
+          "affiliate_url": "https://link.coupang.com/a/iBCuh9N3M4"
+        },
+        {
+          "productId": 8151323896,
+          "name": "테일스타 완벽한 창문 틈새청소 창틀 청소 틈새 브러쉬 솔 세트, 2세트, 그레이",
+          "price": 9000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8151323896.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8151323896",
+          "affiliate_url": "https://link.coupang.com/a/iBCus1xVCK"
+        },
+        {
+          "productId": 9654545153,
+          "name": "1+1 틈새 청소 브러쉬 다기능 틈새 송풍구 청소 브러시 일본 고밀도 섬유 먼지털이 선풍기 청소 틈새브러쉬 틈새 먼지제거기 기적의 만능 브러쉬 창틀 틈새 청소 브러쉬 선물 랜덤",
+          "price": 10770.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9654545153.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9654545153",
+          "affiliate_url": "https://link.coupang.com/a/iBCuEzOITc"
+        },
+        {
+          "productId": 9734539591,
+          "name": "슈리팜 선풍기 틈새 청소 먼지 제거 브러쉬",
+          "price": 7950,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9734539591.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9734539591",
+          "affiliate_url": "https://link.coupang.com/a/iBCuKgplbU"
+        },
+        {
+          "productId": 9660050059,
+          "name": "모디케이 일회용 창틀틈새 청소브러시 본품5+리필10개",
+          "price": 3980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9660050059.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9660050059",
+          "affiliate_url": "https://link.coupang.com/a/iBCuZrWNDU"
+        },
+        {
+          "productId": 9530888653,
+          "name": "다늘 창틀 틈새 청소솔 청소도구 30세트",
+          "price": 5990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9530888653.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9530888653",
+          "affiliate_url": "https://link.coupang.com/a/iBCvdoQyYu"
+        }
+      ]
+    },
+    "배수구 세정제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7809757780,
+          "name": "원샷 초강력 배수구 클리너, 120g, 4개",
+          "price": 34360,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7809757780.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7809757780",
+          "affiliate_url": "https://link.coupang.com/a/iBCvBnFsiq"
+        },
+        {
+          "productId": 7196702728,
+          "name": "펑크린 울트라겔 배수관 세정제",
+          "price": 9760,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7196702728.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7196702728",
+          "affiliate_url": "https://link.coupang.com/a/iBCvHVgrhQ"
+        },
+        {
+          "productId": 9782669277,
+          "name": "어슬릭 배수구 클리너 세정제 싱크대 화장실 배관청소, 1개, 1L",
+          "price": 15260,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9782669277.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9782669277",
+          "affiliate_url": "https://link.coupang.com/a/iBCvS4jP3s"
+        },
+        {
+          "productId": 7230118106,
+          "name": "난엄마니까 올인원 배수구 뚫어뻥  2리터 X 6개 하수구 세면대 싱크대 막힘 뚜러뻥 변기뚫어뻥 화장실뚜러뻥",
+          "price": 9130,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7230118106.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7230118106",
+          "affiliate_url": "https://link.coupang.com/a/iBCv5QZx3Q"
+        },
+        {
+          "productId": 9146138785,
+          "name": "홈스타 엘지 막힌곳을 부탁해 매직펑펑",
+          "price": 4200,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9146138785.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9146138785",
+          "affiliate_url": "https://link.coupang.com/a/iBCwhycRvV"
+        },
+        {
+          "productId": 8722423145,
+          "name": "제거죠스 미생물 효소 배수구 냄새 제거제",
+          "price": 18600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8722423145.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8722423145",
+          "affiliate_url": "https://link.coupang.com/a/iBCwyKem6K"
+        },
+        {
+          "productId": 9768265915,
+          "name": "배관 관리 비즈 독일 하수구 뚫림 탈취 수용성 젤 독일 무니부르크 배수관 청소제 정품 하수구 탈취캡슐 하수구 배관 캡슐 배수구 세정제 구매1위 JHDNS 사은품 런덤 증정",
+          "price": 10800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9768265915.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9768265915",
+          "affiliate_url": "https://link.coupang.com/a/iBCwPQ6chw"
+        },
+        {
+          "productId": 9712200314,
+          "name": "QOYO 배수구 클리너 고형 세정 블록 배수관 세정 악취 관리 주방 욕실 화장실 배수구 청소용",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9712200314.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9712200314",
+          "affiliate_url": "https://link.coupang.com/a/iBCwYEqrT2"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
