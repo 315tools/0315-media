@@ -27,8 +27,8 @@
   "slides": [],
   "result": {
     "error": "HTTP 500: An unknown error has occurred.",
-    "at": "2026-11-13T13:56:13+09:00"
+    "at": "2026-11-13T14:58:06+09:00"
   },
   "status": "failed",
-  "attempts": 2
+  "attempts": 3
 }
