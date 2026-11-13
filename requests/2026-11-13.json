@@ -1,0 +1,34 @@
+{
+ "searches": [
+  {
+   "key": "C",
+   "keyword": "하루견과 30봉",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "호박죽 파우치",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "보리차 티백",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "부침가루",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "냉동 해물파전",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "녹두빈대떡 냉동",
+   "limit": 8
+  }
+ ]
+}
