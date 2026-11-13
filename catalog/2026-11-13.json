@@ -1,0 +1,420 @@
+{
+  "searches": {
+    "하루견과 30봉": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9455134130,
+          "name": "하루견과 무염 무당 건과일없는 블렌드하루견과, 30개, 22g",
+          "price": 35900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9455134130.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9455134130",
+          "affiliate_url": "https://link.coupang.com/a/iDhd7Hl7ca"
+        },
+        {
+          "productId": 9194021590,
+          "name": "이롬 갓구운 하루견과 30p, 1개, 600g",
+          "price": 26620,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9194021590.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9194021590",
+          "affiliate_url": "https://link.coupang.com/a/iDhej0wDRY"
+        },
+        {
+          "productId": 9366950331,
+          "name": "투데이넛 너트한줌 클래식 30p 600g, 1개",
+          "price": 16900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9366950331.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9366950331",
+          "affiliate_url": "https://link.coupang.com/a/iDherJW8yW"
+        },
+        {
+          "productId": 8243649076,
+          "name": "산과들에 원데이프리미엄 하루견과류, 20g, 30개",
+          "price": 23100,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8243649076.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8243649076",
+          "affiliate_url": "https://link.coupang.com/a/iDheyHYCw8"
+        }
+      ]
+    },
+    "호박죽 파우치": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7735287960,
+          "name": "서울우유 단호박우유죽 130g",
+          "price": 31990,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7735287960.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7735287960",
+          "affiliate_url": "https://link.coupang.com/a/iDheSxsaYe"
+        },
+        {
+          "productId": 8013400397,
+          "name": "죽이야기 짜먹는 단호박죽 7p",
+          "price": 13260,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8013400397.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8013400397",
+          "affiliate_url": "https://link.coupang.com/a/iDhe30dKFM"
+        },
+        {
+          "productId": 324744881,
+          "name": "인테이크 모닝죽 단호박",
+          "price": 12900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/324744881.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/324744881",
+          "affiliate_url": "https://link.coupang.com/a/iDhfgBQcNM"
+        },
+        {
+          "productId": 1911567368,
+          "name": "두손드림 아침 바로먹는 한끼 단호박죽",
+          "price": 19390.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/1911567368.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1911567368",
+          "affiliate_url": "https://link.coupang.com/a/iDhfn9Vfb2"
+        },
+        {
+          "productId": 8783151495,
+          "name": "[샐러드보울] 짜먹는죽 늙은호박 짜먹는 국내산 늙은호박죽 (실온)",
+          "price": 23040,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8783151495.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8783151495",
+          "affiliate_url": "https://link.coupang.com/a/iDhfwR1zcy"
+        },
+        {
+          "productId": 7381463175,
+          "name": "바밤 단호박죽",
+          "price": 8100.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7381463175.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7381463175",
+          "affiliate_url": "https://link.coupang.com/a/iDhfJgK83E"
+        },
+        {
+          "productId": 5720630271,
+          "name": "오즈키친 단호박죽",
+          "price": 10980.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/5720630271.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5720630271",
+          "affiliate_url": "https://link.coupang.com/a/iDhfXRdZyS"
+        },
+        {
+          "productId": 1649563834,
+          "name": "짱죽 쌀눈 호박죽 스파우트형",
+          "price": 22000.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/1649563834.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1649563834",
+          "affiliate_url": "https://link.coupang.com/a/iDhf5jvImi"
+        }
+      ]
+    },
+    "보리차 티백": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6357560398,
+          "name": "대한다업 보성에서 자란 블랙 보리차, 1.5g, 60개입, 24개",
+          "price": 170880,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6357560398.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6357560398",
+          "affiliate_url": "https://link.coupang.com/a/iDhgns55bM"
+        },
+        {
+          "productId": 7480978890,
+          "name": "아임힐링 오르조 유기농 보리차 식약청 인증 한잔용 보리차, 700mg, 100개입, 3개",
+          "price": 71070,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7480978890.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7480978890",
+          "affiliate_url": "https://link.coupang.com/a/iDhgyRq0ei"
+        },
+        {
+          "productId": 102505,
+          "name": "동서 보리차",
+          "price": 6640,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/102505.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/102505",
+          "affiliate_url": "https://link.coupang.com/a/iDhgF63Cgu"
+        },
+        {
+          "productId": 6138531422,
+          "name": "동서 한잔용 보리차",
+          "price": 5960,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6138531422.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6138531422",
+          "affiliate_url": "https://link.coupang.com/a/iDhgMWlRIW"
+        }
+      ]
+    },
+    "부침가루": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9545823952,
+          "name": "배대감 우리쌀 부침가루, 450g, 1개",
+          "price": 2990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9545823952.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9545823952",
+          "affiliate_url": "https://link.coupang.com/a/iDhg44CFqe"
+        },
+        {
+          "productId": 8512192815,
+          "name": "부침가루 1kg x 2개+튀김가루 1kg x 2개, 4kg, 1세트",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8512192815.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8512192815",
+          "affiliate_url": "https://link.coupang.com/a/iDhhbSMwmq"
+        },
+        {
+          "productId": 1510131644,
+          "name": "CJ 백설 부침가루 1kg + 튀김가루 1kg, 1세트, 2kg",
+          "price": 8140,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/1510131644.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1510131644",
+          "affiliate_url": "https://link.coupang.com/a/iDhhlYTiMu"
+        },
+        {
+          "productId": 8244603080,
+          "name": "백설 부침가루, 1kg, 7개",
+          "price": 28000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8244603080.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8244603080",
+          "affiliate_url": "https://link.coupang.com/a/iDhhrtYdH3"
+        },
+        {
+          "productId": 9351524925,
+          "name": "오뚜기 부침가루",
+          "price": 5280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9351524925.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9351524925",
+          "affiliate_url": "https://link.coupang.com/a/iDhhzoVVxQ"
+        },
+        {
+          "productId": 6269223291,
+          "name": "백설 부침가루",
+          "price": 5110,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6269223291.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6269223291",
+          "affiliate_url": "https://link.coupang.com/a/iDhhMubvie"
+        },
+        {
+          "productId": 7851780518,
+          "name": "오뚜기 부침가루",
+          "price": 3340,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7851780518.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7851780518",
+          "affiliate_url": "https://link.coupang.com/a/iDhh0sdE84"
+        }
+      ]
+    },
+    "냉동 해물파전": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8515095424,
+          "name": "[로켓프레시] 박가네빈대떡 해물파전(냉동), 260g, 1개",
+          "price": 9330,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8515095424.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8515095424",
+          "affiliate_url": "https://link.coupang.com/a/iDhikqFxEy"
+        },
+        {
+          "productId": 9042409525,
+          "name": "냉동김치전 김치부침개 냉동간편조리 안주 간편식 가정용 업소용, 5개, 1kg",
+          "price": 35000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9042409525.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9042409525",
+          "affiliate_url": "https://link.coupang.com/a/iDhiuNAumO"
+        },
+        {
+          "productId": 8599261359,
+          "name": "펀쿡 오징어 야채전, 2개, 1kg",
+          "price": 20900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8599261359.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8599261359",
+          "affiliate_url": "https://link.coupang.com/a/iDhiP92PhQ"
+        },
+        {
+          "productId": 9701866809,
+          "name": "코스트코 사옹원 부침명장 해물파전 1.3kg(130g x 10개)",
+          "price": 22080,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9701866809.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9701866809",
+          "affiliate_url": "https://link.coupang.com/a/iDhi31POhg"
+        },
+        {
+          "productId": 8626762125,
+          "name": "[로켓프레시] 사옹원 프리미엄 해물파전 (냉동)",
+          "price": 8230,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8626762125.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8626762125",
+          "affiliate_url": "https://link.coupang.com/a/iDhjkkDos0"
+        },
+        {
+          "productId": 9671938296,
+          "name": "[로켓프레시] 반찬단지 해물파전 (냉동)",
+          "price": 9400.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9671938296.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9671938296",
+          "affiliate_url": "https://link.coupang.com/a/iDhjy7Hv64"
+        }
+      ]
+    },
+    "녹두빈대떡 냉동": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8969593560,
+          "name": "[로켓프레시] 풀무원 철판 도톰 녹두전 (냉동)",
+          "price": 10980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8969593560.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8969593560",
+          "affiliate_url": "https://link.coupang.com/a/iDhj2xaFHw"
+        },
+        {
+          "productId": 9179407414,
+          "name": "아워홈 미니 녹두전",
+          "price": 111500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9179407414.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9179407414",
+          "affiliate_url": "https://link.coupang.com/a/iDhkk1PbMa"
+        },
+        {
+          "productId": 8542600967,
+          "name": "원조광명할머니빈대떡 수제 빈대떡 녹두전 반죽, 2개",
+          "price": 35300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8542600967.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8542600967",
+          "affiliate_url": "https://link.coupang.com/a/iDhlbrPVU4"
+        },
+        {
+          "productId": 8552842184,
+          "name": "사옹원 부침명장 명절 6종 세트 오미산적 450g+깻잎전 400g+동태전 300g+계란옷 입은 고기완자 400g+녹두 빈대떡 400g+한입 땡초 부추전 300g, 1세트, 2.25kg",
+          "price": 50900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8552842184.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8552842184",
+          "affiliate_url": "https://link.coupang.com/a/iDhlKWO5Bs"
+        },
+        {
+          "productId": 6155099027,
+          "name": "사옹원 알찬 녹두전 1kg (30g x 34ea)",
+          "price": 11560.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/6155099027.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6155099027",
+          "affiliate_url": "https://link.coupang.com/a/iDhm1xyawC"
+        },
+        {
+          "productId": 31995467,
+          "name": "피코크 순희네 빈대떡",
+          "price": 45300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/31995467.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/31995467",
+          "affiliate_url": "https://link.coupang.com/a/iDhnpCCeHY"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
