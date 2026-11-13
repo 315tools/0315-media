@@ -13,5 +13,10 @@
   "channel": "B",
   "date": "2026-11-13",
   "slides": [],
-  "result": {}
+  "result": {
+    "error": "HTTP 500: An unknown error has occurred.",
+    "at": "2026-11-13T12:51:25+09:00"
+  },
+  "status": "failed",
+  "attempts": 1
 }
