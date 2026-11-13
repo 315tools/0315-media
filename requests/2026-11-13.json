@@ -30,5 +30,39 @@
    "keyword": "녹두빈대떡 냉동",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9366950331"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8013400397"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6138531422"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/1510131644"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8626762125"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8969593560"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9366950331"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/8626762125"
+  }
  ]
 }
