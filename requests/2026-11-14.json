@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "미니 제습기", "limit": 8},
-  {"key": "C", "keyword": "신발건조기", "limit": 8},
-  {"key": "C", "keyword": "침구 이불건조기", "limit": 8},
-  {"key": "C", "keyword": "충전식 손난로", "limit": 8},
-  {"key": "C", "keyword": "USB 전기 무릎담요", "limit": 8},
-  {"key": "C", "keyword": "탁상용 미니 온풍기", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "미니 제습기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "신발건조기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "침구 이불건조기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "충전식 손난로",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "USB 전기 무릎담요",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "탁상용 미니 온풍기",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8291673143"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8037241711"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8533494484"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9121607800"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9042228033"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7030236539"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/8291673143"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9121607800"
+  }
  ]
 }
