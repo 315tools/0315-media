@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "포켓 미니 돗자리", "limit": 8},
-  {"key": "C", "keyword": "접이식 실리콘 컵", "limit": 8},
-  {"key": "C", "keyword": "휴대용 접이식 방석", "limit": 8},
-  {"key": "C", "keyword": "김장매트 대형", "limit": 8},
-  {"key": "C", "keyword": "전동 마늘다지기", "limit": 8},
-  {"key": "C", "keyword": "김장장갑 롱", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "포켓 미니 돗자리",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "접이식 실리콘 컵",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "휴대용 접이식 방석",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "김장매트 대형",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "전동 마늘다지기",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "김장장갑 롱",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9216944059"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7288013604"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7330431138"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8429418365"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8512946878"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8326356395"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9216944059"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/8429418365"
+  }
  ]
 }
