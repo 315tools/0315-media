@@ -1,0 +1,486 @@
+{
+  "searches": {
+    "포켓 미니 돗자리": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7395955915,
+          "name": "휴대용 포켓 방수 돗자리, 그린",
+          "price": 6000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7395955915.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7395955915",
+          "affiliate_url": "https://link.coupang.com/a/iGA3wAEF5g"
+        },
+        {
+          "productId": 9743240817,
+          "name": "클로먼트 초경량 포켓 피크닉 매트 방수 돗자리 휴대용 2인용 수납 파우치 지핀 포함, 체리",
+          "price": 19800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9743240817.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9743240817",
+          "affiliate_url": "https://link.coupang.com/a/iGA3JdSQzA"
+        },
+        {
+          "productId": 9216944059,
+          "name": "브리즈문 포켓 방수 피크닉 돗자리",
+          "price": 8410,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9216944059.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9216944059",
+          "affiliate_url": "https://link.coupang.com/a/iGA3TZ4ALs"
+        },
+        {
+          "productId": 9479422075,
+          "name": "미니 포켓 피크닉 매트 접이식 가방 휴대용 방수 방습 야외 매트",
+          "price": 17550.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9479422075.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9479422075",
+          "affiliate_url": "https://link.coupang.com/a/iGA30vLIaq"
+        },
+        {
+          "productId": 8982129014,
+          "name": "마켓피오 야외 등산 캠핑 미니 포켓 방수 매트",
+          "price": 14400.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8982129014.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8982129014",
+          "affiliate_url": "https://link.coupang.com/a/iGA385poZw"
+        },
+        {
+          "productId": 8147509369,
+          "name": "경량 미니 포켓 돗자리 오렌지",
+          "price": 12920.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8147509369.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8147509369",
+          "affiliate_url": "https://link.coupang.com/a/iGA4iCpfBA"
+        }
+      ]
+    },
+    "접이식 실리콘 컵": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8502962721,
+          "name": "실리샵 국산 플래티넘 실리콘 손잡이 접이식 컵 사각형 270ml, 1개, 접이식컵 옐로우버터",
+          "price": 9900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/8502962721.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8502962721",
+          "affiliate_url": "https://link.coupang.com/a/iGA4xbCRuS"
+        },
+        {
+          "productId": 9766552332,
+          "name": "국산 실리콘 휴대용 접이식컵 캠핑 손잡이컵 200ml",
+          "price": 8070.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9766552332.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766552332",
+          "affiliate_url": "https://link.coupang.com/a/iGA4F4RR6a"
+        },
+        {
+          "productId": 7288013604,
+          "name": "실리만 국내생산 하모니 접이식 휴대컵 코코아그레이",
+          "price": 9500,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7288013604.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7288013604",
+          "affiliate_url": "https://link.coupang.com/a/iGA4JRTJNA"
+        },
+        {
+          "productId": 9638369194,
+          "name": "플라라 실리콘 휴대용 물컵, 딥그린, 1개",
+          "price": 5930,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9638369194.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9638369194",
+          "affiliate_url": "https://link.coupang.com/a/iGA4P63BpQ"
+        },
+        {
+          "productId": 81497621,
+          "name": "윙커 국산 파스텔 실리콘 자라바컵",
+          "price": 5300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/81497621.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/81497621",
+          "affiliate_url": "https://link.coupang.com/a/iGA4ZZTze8"
+        },
+        {
+          "productId": 7601277829,
+          "name": "1+1 접이식 실리콘 텀블러 접는 폴딩 컵 자바라컵 콜드컵 신기한 물병 물통 압축 접이식컵 휴대용 포켓 실리콘컵 등산 포켓병 파스텔 보틀 바틀",
+          "price": 12950,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7601277829.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7601277829",
+          "affiliate_url": "https://link.coupang.com/a/iGA43DexSS"
+        }
+      ]
+    },
+    "휴대용 접이식 방석": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9636897279,
+          "name": "엘누아 초경량 푹신한 접이식 등산 방석 돗자리 카키+블랙 2개, 카키+블랙",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9636897279.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9636897279",
+          "affiliate_url": "https://link.coupang.com/a/iGA5ihS3SS"
+        },
+        {
+          "productId": 7133772194,
+          "name": "WWAGO 하이제이비 멀티 휴대용방석 + 파우치 세트",
+          "price": 1820,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7133772194.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7133772194",
+          "affiliate_url": "https://link.coupang.com/a/iGA5l5mIAC"
+        },
+        {
+          "productId": 9471096220,
+          "name": "접이식 양면 방수방석 목욕탕 사우나 캠핑 국내생산 휴대용 쿠션방석",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9471096220.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9471096220",
+          "affiliate_url": "https://link.coupang.com/a/iGA5s8uYTY"
+        },
+        {
+          "productId": 7330431138,
+          "name": "다인네 접이식 휴대용 4단 방석 2p + 파우치 2p 세트",
+          "price": 4380,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7330431138.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7330431138",
+          "affiliate_url": "https://link.coupang.com/a/iGA5wQuWSy"
+        },
+        {
+          "productId": 7057856224,
+          "name": "1인용 4단 접이식 휴대용 초경량 등산방석 피크닉 미니방석 휴대용 사우나 1인용돗자리 캠핑매트 판촉물",
+          "price": 390,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7057856224.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7057856224",
+          "affiliate_url": "https://link.coupang.com/a/iGA5GILIrI"
+        },
+        {
+          "productId": 8225233539,
+          "name": "UH홈데코 휴대용 접이식 플라워 양면 쿠션 매트",
+          "price": 5500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8225233539.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8225233539",
+          "affiliate_url": "https://link.coupang.com/a/iGA5KwZu6C"
+        },
+        {
+          "productId": 9668677853,
+          "name": "벨루노르 등산 야외용 휴대용 접이식 방수 방석 1+1",
+          "price": 15900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9668677853.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9668677853",
+          "affiliate_url": "https://link.coupang.com/a/iGA5Of2YY8"
+        }
+      ]
+    },
+    "김장매트 대형": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8429418365,
+          "name": "헬로앤코 무봉제 다용도 김장매트, 1개",
+          "price": 15300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8429418365.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8429418365",
+          "affiliate_url": "https://link.coupang.com/a/iGA537itKS"
+        },
+        {
+          "productId": 6137301194,
+          "name": "국산 김장매트 무봉제 무독성 배추김치 놀이매트 분갈이 매트, 1개",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6137301194.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6137301194",
+          "affiliate_url": "https://link.coupang.com/a/iGA59QoFtA"
+        },
+        {
+          "productId": 7731769638,
+          "name": "(소) 패드 버무리 김장하는날 무봉제 모래 국내 놀이 생산 매트 용품 90cm 비닐, 1개",
+          "price": 32900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/7731769638.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7731769638",
+          "affiliate_url": "https://link.coupang.com/a/iGA6dtJD7k"
+        },
+        {
+          "productId": 9716372690,
+          "name": "김장매트 2026년 프리미엄 무독성 국내제작 분갈이 김치 놀이매트, 1개",
+          "price": 32900,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9716372690.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9716372690",
+          "affiliate_url": "https://link.coupang.com/a/iGA6juIy16"
+        },
+        {
+          "productId": 8397428437,
+          "name": "조앤제이 김장매트 100%국산 2중마감 무봉제 우수방수코팅 소형 중형 대형 김치 버무리 김장용 매트",
+          "price": 23800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8397428437.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8397428437",
+          "affiliate_url": "https://link.coupang.com/a/iGA6phvxrF"
+        },
+        {
+          "productId": 6918666430,
+          "name": "토토비즈 김장매트 대",
+          "price": 10000.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6918666430.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6918666430",
+          "affiliate_url": "https://link.coupang.com/a/iGA6sYCl3c"
+        },
+        {
+          "productId": 9223590939,
+          "name": "파밍굿즈 김장매트 국산 무봉제 다용도 배추 절임용 매트 고무장갑 세트",
+          "price": 23900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9223590939.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9223590939",
+          "affiliate_url": "https://link.coupang.com/a/iGA6yTSLJc"
+        },
+        {
+          "productId": 9779540438,
+          "name": "키친9단 국산 무봉제 무독성 원형 접이식 김장매트 촉감놀이매트 배추절임매트",
+          "price": 13700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9779540438.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9779540438",
+          "affiliate_url": "https://link.coupang.com/a/iGA6CAnRq8"
+        }
+      ]
+    },
+    "전동 마늘다지기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9510089319,
+          "name": "신일 올인원 전동 대용량 만능 다지기 5L 고기 야채 마늘 휘핑, 프리미엄 모델",
+          "price": 174900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9510089319.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9510089319",
+          "affiliate_url": "https://link.coupang.com/a/iGA6TfOtpI"
+        },
+        {
+          "productId": 4604878225,
+          "name": "닌자 프로페셔널 초퍼 핸드블렌더, NJ1001KR",
+          "price": 53000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/4604878225.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4604878225",
+          "affiliate_url": "https://link.coupang.com/a/iGA6Zw6VNI"
+        },
+        {
+          "productId": 9244233517,
+          "name": "다기능 마늘 다지기 고기 다지기 전동 다지기 믹서기 만능 다지기, 2L",
+          "price": 21900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9244233517.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9244233517",
+          "affiliate_url": "https://link.coupang.com/a/iGA665bth6"
+        },
+        {
+          "productId": 9289746023,
+          "name": "신일 프리미엄 멀티 대용량 만능 다지기, SFM-GM700",
+          "price": 59900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9289746023.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9289746023",
+          "affiliate_url": "https://link.coupang.com/a/iGA7cRofDM"
+        },
+        {
+          "productId": 8512946878,
+          "name": "쿠팸-M2 무선 전동 마늘 다지기 야채 이유식 멀티 만능 다지기 강화유리 6중날 350ml",
+          "price": 14820,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8512946878.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8512946878",
+          "affiliate_url": "https://link.coupang.com/a/iGA7h0GskS"
+        },
+        {
+          "productId": 9748627064,
+          "name": "무선 미니 전동 마늘다지기 전동수동겸용 USB충전 휴대용 블렌더 이유식 양념 다지기 분쇄기 간편세척",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9748627064.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9748627064",
+          "affiliate_url": "https://link.coupang.com/a/iGA7n5pGnI"
+        },
+        {
+          "productId": 4544518702,
+          "name": "홈플래닛 전동 멀티 다지기 믹서 2L",
+          "price": 19890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/4544518702.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4544518702",
+          "affiliate_url": "https://link.coupang.com/a/iGA7uqpItw"
+        },
+        {
+          "productId": 9749439131,
+          "name": "무선 미니 전동 마늘다지기 전동수동겸용 USB충전 휴대용 블렌더 이유식 양념 다지기 분쇄기 간편세척",
+          "price": 11900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9749439131.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9749439131",
+          "affiliate_url": "https://link.coupang.com/a/iGA7FcBsFo"
+        }
+      ]
+    },
+    "김장장갑 롱": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9617908800,
+          "name": "두꺼운 롱크린 일회용 위생장갑 500매, 20개, 500개입",
+          "price": 95000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9617908800.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9617908800",
+          "affiliate_url": "https://link.coupang.com/a/iGA7WTxUke"
+        },
+        {
+          "productId": 7694861881,
+          "name": "렉센 롱 긴 고무장갑 120켤레(레드) 중(M) 12호 1박스 김장 업소용 부드럽고 두꺼운 장갑, 120개, 레드, 중(M)",
+          "price": 442000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/7694861881.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7694861881",
+          "affiliate_url": "https://link.coupang.com/a/iGA75UBhvM"
+        },
+        {
+          "productId": 1339589272,
+          "name": "FROG 고탄력 프리미엄 팔목긴 위생장갑(20매) 팔토시형 비닐장갑, 2개",
+          "price": 10760,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/1339589272.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1339589272",
+          "affiliate_url": "https://link.coupang.com/a/iGA8brB7Tw"
+        },
+        {
+          "productId": 8326356395,
+          "name": "살리미템 김장용 긴 위생장갑 60cm 도톰 밴드형 팔토시 비닐장갑 요리용",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8326356395.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8326356395",
+          "affiliate_url": "https://link.coupang.com/a/iGA8hnmRdk"
+        },
+        {
+          "productId": 9775848308,
+          "name": "알찬생활 일회용장갑 롱핏 고무줄 김장용 긴비닐장갑 방수 식품용",
+          "price": 15000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9775848308.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9775848308",
+          "affiliate_url": "https://link.coupang.com/a/iGA8mR6Uyy"
+        },
+        {
+          "productId": 9792293758,
+          "name": "ODC 일회용 김장앞치마 롱비닐장갑 5세트",
+          "price": 8800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9792293758.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9792293758",
+          "affiliate_url": "https://link.coupang.com/a/iGA8xwU5mK"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
