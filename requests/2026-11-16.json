@@ -30,5 +30,39 @@
    "keyword": "옷장 제습제 대용량",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9775833107"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/6718528503"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/126289261"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7355599561"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7505237596"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/1744895218"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9775833107"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/7355599561"
+  }
  ]
 }
