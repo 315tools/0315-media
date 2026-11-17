@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "부사 사과 가정용", "limit": 8},
-  {"key": "C", "keyword": "노지 감귤 5kg", "limit": 8},
-  {"key": "C", "keyword": "단감 5kg", "limit": 8},
-  {"key": "C", "keyword": "사골곰탕", "limit": 8},
-  {"key": "C", "keyword": "냉동 왕만두", "limit": 8},
-  {"key": "C", "keyword": "냄비우동", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "부사 사과 가정용",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "노지 감귤 5kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "단감 5kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "사골곰탕",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "냉동 왕만두",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "냄비우동",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9795359305"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9750353182"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9805900315"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7527803282"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/2341738091"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/116679285"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9750353182"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/2341738091"
+  }
  ]
 }
