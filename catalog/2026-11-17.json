@@ -1,0 +1,475 @@
+{
+  "searches": {
+    "부사 사과 가정용": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9709169549,
+          "name": "[하루딱50박스] 최대15brix 세척사과 껍질째먹는 햇사과, 1박스, 5kg",
+          "price": 32900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9709169549.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9709169549",
+          "affiliate_url": "https://link.coupang.com/a/iJURbnSzkG"
+        },
+        {
+          "productId": 7501306793,
+          "name": "껍질째먹는 훈이네 경북 청송 가정용 선물용 꿀사과, 5kg (가정용 혼합), 1개",
+          "price": 34900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/7501306793.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7501306793",
+          "affiliate_url": "https://link.coupang.com/a/iJURhC3qKG"
+        },
+        {
+          "productId": 9803454179,
+          "name": "[국내산 과일] 고당도 가정용 부사사과 초특가, 1박스, 2kg",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9803454179.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803454179",
+          "affiliate_url": "https://link.coupang.com/a/iJURqr6TjE"
+        },
+        {
+          "productId": 9795359305,
+          "name": "[이루네 초특가] 산지직송 고당도 가정용 부사 사과, 1박스, 5kg(인기상품)",
+          "price": 22100,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9795359305.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795359305",
+          "affiliate_url": "https://link.coupang.com/a/iJURxfnZoi"
+        },
+        {
+          "productId": 9806470651,
+          "name": "가정용 부사사과 꿀사과 산지직송 국내산",
+          "price": 11500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9806470651.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9806470651",
+          "affiliate_url": "https://link.coupang.com/a/iJURD6yJb2"
+        },
+        {
+          "productId": 9802357361,
+          "name": "[당일출고]10kg 29900원 농협정식 한정특가 산지직송 고당도 부사사과",
+          "price": 29900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9802357361.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9802357361",
+          "affiliate_url": "https://link.coupang.com/a/iJURLcwYN2"
+        },
+        {
+          "productId": 9809911549,
+          "name": "[초특가] 고당도 국내산 햇 부사사과 가정용",
+          "price": 18700.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9809911549.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9809911549",
+          "affiliate_url": "https://link.coupang.com/a/iJURRVd7KK"
+        }
+      ]
+    },
+    "노지 감귤 5kg": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 153770361,
+          "name": "귤담원 제주 제철 감귤, 07.감귤 5kg 로얄과(S/M), 1박스",
+          "price": 21900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/153770361.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/153770361",
+          "affiliate_url": "https://link.coupang.com/a/iJUR6ZZz76"
+        },
+        {
+          "productId": 9774029248,
+          "name": "[시즌특가] 올레길감귤 제주직송 새콤달콤 서귀포감귤, 1박스, (시즌특가) 5kg(대과L이상)",
+          "price": 9900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9774029248.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9774029248",
+          "affiliate_url": "https://link.coupang.com/a/iJUSduspwG"
+        },
+        {
+          "productId": 9742388618,
+          "name": "고당도 귤 제주 감귤, 1개, 로얄과)_5kg 인기추천",
+          "price": 19900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9742388618.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9742388618",
+          "affiliate_url": "https://link.coupang.com/a/iJUSjoLrHM"
+        },
+        {
+          "productId": 9750353182,
+          "name": "고당도 선별 새콤달콤 제주 노지 감귤, 1박스, 5kg",
+          "price": 19470,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9750353182.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9750353182",
+          "affiliate_url": "https://link.coupang.com/a/iJUSt9GiZw"
+        },
+        {
+          "productId": 9811880325,
+          "name": "[하루50상자한정]제주 산지직송 제철 고당도 타이벡 감귤 노지 감귤",
+          "price": 12900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9811880325.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9811880325",
+          "affiliate_url": "https://link.coupang.com/a/iJUSAx4OXs"
+        },
+        {
+          "productId": 9803171331,
+          "name": "[한정특가] 제주 서귀포 고당도 노지 감귤 11Brix 이상 달콤한 제철 귤",
+          "price": 8820.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9803171331.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803171331",
+          "affiliate_url": "https://link.coupang.com/a/iJUSKg3u32"
+        },
+        {
+          "productId": 9803635850,
+          "name": "[오픈특가] 50박스한정 새콤달콤 제주 노지 감귤",
+          "price": 7600.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9803635850.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803635850",
+          "affiliate_url": "https://link.coupang.com/a/iJUSQKqiZg"
+        },
+        {
+          "productId": 9813188153,
+          "name": "(제철의 맛) 고당도 제주감귤 노지감귤 조생감귤",
+          "price": 12700.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9813188153.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9813188153",
+          "affiliate_url": "https://link.coupang.com/a/iJUS4baIM0"
+        }
+      ]
+    },
+    "단감 5kg": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6218373166,
+          "name": "[과일맛집]허니삼구 고당도 당도선별 꿀맛 단감, 1박스, 중과5KG(27~32과)",
+          "price": 30800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/6218373166.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6218373166",
+          "affiliate_url": "https://link.coupang.com/a/iJUTnPV9Y4"
+        },
+        {
+          "productId": 9805900315,
+          "name": "[꼼꼼선별] 고당도 국산 진영 단감, 1개, 중대과)_5KG",
+          "price": 25900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9805900315.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9805900315",
+          "affiliate_url": "https://link.coupang.com/a/iJUTuoiWhU"
+        },
+        {
+          "productId": 9818138301,
+          "name": "[타임특가] 국내산 초고당도 유명산지 단감, 1박스, 5kg",
+          "price": 22800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9818138301.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9818138301",
+          "affiliate_url": "https://link.coupang.com/a/iJUTEQx5xI"
+        },
+        {
+          "productId": 9120634662,
+          "name": "[타임특가] 햇수확 단감 고당도 특품선별",
+          "price": 19610.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9120634662.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9120634662",
+          "affiliate_url": "https://link.coupang.com/a/iJUTMIcW0y"
+        },
+        {
+          "productId": 9792364594,
+          "name": "[하루딱100박스] 단독특가 유명산지 고당도 국산 햇 단감",
+          "price": 11900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9792364594.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9792364594",
+          "affiliate_url": "https://link.coupang.com/a/iJUTXWGsRU"
+        },
+        {
+          "productId": 9793296528,
+          "name": "[반짝초특가] 고당도선별 최대15brix 꿀 단감",
+          "price": 11700.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9793296528.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9793296528",
+          "affiliate_url": "https://link.coupang.com/a/iJUUfaDxxA"
+        },
+        {
+          "productId": 9803467816,
+          "name": "[30박스특가] 고당도 햇 단감 산지직송",
+          "price": 11900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9803467816.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803467816",
+          "affiliate_url": "https://link.coupang.com/a/iJUUrq4U0q"
+        }
+      ]
+    },
+    "사골곰탕": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7675260700,
+          "name": "양반 진국 사골곰탕, 500g, 14개",
+          "price": 12630,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7675260700.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7675260700",
+          "affiliate_url": "https://link.coupang.com/a/iJUUIjM4ku"
+        },
+        {
+          "productId": 5767688009,
+          "name": "오프라이스 한촌 정통설렁탕, 500g, 5개",
+          "price": 21030,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/5767688009.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5767688009",
+          "affiliate_url": "https://link.coupang.com/a/iJUUNvTl24"
+        },
+        {
+          "productId": 7432618299,
+          "name": "팔복 사골진국 10-30팩 사골곰탕 사골국 사골국물 팔복도가니탕 30년 직화방식 무첨가, 350g, 20개",
+          "price": 55890,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7432618299.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7432618299",
+          "affiliate_url": "https://link.coupang.com/a/iJUUZpgx88"
+        },
+        {
+          "productId": 7527803282,
+          "name": "비비고 사골곰탕",
+          "price": 21600,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7527803282.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7527803282",
+          "affiliate_url": "https://link.coupang.com/a/iJUU3f3SmW"
+        }
+      ]
+    },
+    "냉동 왕만두": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8533690865,
+          "name": "새마원 푸짐한 담백한 고기 왕만두 3kg, 3kg, 1개",
+          "price": 24800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/8533690865.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8533690865",
+          "affiliate_url": "https://link.coupang.com/a/iJUVlAIy8O"
+        },
+        {
+          "productId": 8479103582,
+          "name": "전설의왕만두 고기 왕 만두 10개입, 2개, 750g",
+          "price": 25700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8479103582.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8479103582",
+          "affiliate_url": "https://link.coupang.com/a/iJUVrtVvAi"
+        },
+        {
+          "productId": 2341738091,
+          "name": "한만두 푸짐한 왕만두 (냉동), 1.4kg, 1개",
+          "price": 12980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/2341738091.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2341738091",
+          "affiliate_url": "https://link.coupang.com/a/iJUVCIu8MC"
+        },
+        {
+          "productId": 7237350529,
+          "name": "아하식품 고기왕만두1.4kg+김치왕만두1.4kg",
+          "price": 23490,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/7237350529.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7237350529",
+          "affiliate_url": "https://link.coupang.com/a/iJUVKSGmCi"
+        },
+        {
+          "productId": 9788607186,
+          "name": "산동 고기왕만두(70gx20알) 1.4kg",
+          "price": 41460.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9788607186.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788607186",
+          "affiliate_url": "https://link.coupang.com/a/iJUVRUGepo"
+        },
+        {
+          "productId": 317713654,
+          "name": "[로켓프레시] 개성 왕만두 (냉동)",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/317713654.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/317713654",
+          "affiliate_url": "https://link.coupang.com/a/iJUVX1k7Vs"
+        },
+        {
+          "productId": 7761869889,
+          "name": "[로켓프레시] 동원 개성 왕만두 (냉동)",
+          "price": 15480,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7761869889.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7761869889",
+          "affiliate_url": "https://link.coupang.com/a/iJUWdT96w8"
+        }
+      ]
+    },
+    "냄비우동": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6884351723,
+          "name": "핫이슈 포장마차 우동, 8개, 286g",
+          "price": 33590,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/6884351723.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6884351723",
+          "affiliate_url": "https://link.coupang.com/a/iJUWB830VM"
+        },
+        {
+          "productId": 181724126,
+          "name": "멘노스나오시 쯔유즈키 우동, 230g, 8개",
+          "price": 25100,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/181724126.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/181724126",
+          "affiliate_url": "https://link.coupang.com/a/iJUWIt0Yh2"
+        },
+        {
+          "productId": 6210636372,
+          "name": "멘노스나오시 다시우동 컵라면 80g, 4개",
+          "price": 11300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/6210636372.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6210636372",
+          "affiliate_url": "https://link.coupang.com/a/iJUWO2zenY"
+        },
+        {
+          "productId": 5015260860,
+          "name": "한일본고장 김치우동 나베",
+          "price": 11410.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/5015260860.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5015260860",
+          "affiliate_url": "https://link.coupang.com/a/iJUWZCUf1M"
+        },
+        {
+          "productId": 7804376738,
+          "name": "우불식당 즉석우동",
+          "price": 14200.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/7804376738.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7804376738",
+          "affiliate_url": "https://link.coupang.com/a/iJUW6D3kqG"
+        },
+        {
+          "productId": 7630968890,
+          "name": "천유작 고속도로 휴게소 우동 230g, 10인분",
+          "price": 14700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/7630968890.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7630968890",
+          "affiliate_url": "https://link.coupang.com/a/iJUXgNuwbA"
+        },
+        {
+          "productId": 116679285,
+          "name": "오뚜기 가쓰오 사누끼 우동 4인",
+          "price": 7370,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/116679285.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/116679285",
+          "affiliate_url": "https://link.coupang.com/a/iJUXnmX0Am"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
