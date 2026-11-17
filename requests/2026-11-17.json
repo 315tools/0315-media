@@ -1,0 +1,10 @@
+{
+ "searches": [
+  {"key": "C", "keyword": "부사 사과 가정용", "limit": 8},
+  {"key": "C", "keyword": "노지 감귤 5kg", "limit": 8},
+  {"key": "C", "keyword": "단감 5kg", "limit": 8},
+  {"key": "C", "keyword": "사골곰탕", "limit": 8},
+  {"key": "C", "keyword": "냉동 왕만두", "limit": 8},
+  {"key": "C", "keyword": "냄비우동", "limit": 8}
+ ]
+}
