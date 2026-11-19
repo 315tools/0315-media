@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "스텐 김장 대야 대형", "limit": 8},
-  {"key": "C", "keyword": "무채 채칼", "limit": 8},
-  {"key": "C", "keyword": "김장 비닐봉투 김치", "limit": 8},
-  {"key": "C", "keyword": "신발 아이젠 미니", "limit": 8},
-  {"key": "C", "keyword": "미끄럼방지 신발 덧신", "limit": 8},
-  {"key": "C", "keyword": "제설 삽 접이식", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "스텐 김장 대야 대형",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "무채 채칼",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "김장 비닐봉투 김치",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "신발 아이젠 미니",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "미끄럼방지 신발 덧신",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "제설 삽 접이식",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9337195897"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9489736746"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9334827505"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9145443723"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9016200408"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9576518715"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9489736746"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9145443723"
+  }
  ]
 }
