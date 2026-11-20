@@ -29,6 +29,11 @@
    "key": "C",
    "keyword": "쌍화차 스틱",
    "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "안흥 찐빵",
+   "limit": 8
   }
  ],
  "urls": [
@@ -46,10 +51,6 @@
   },
   {
    "key": "A",
-   "url": "https://www.coupang.com/vp/products/328726537"
-  },
-  {
-   "key": "A",
    "url": "https://www.coupang.com/vp/products/7324843040"
   },
   {
@@ -59,10 +60,6 @@
   {
    "key": "B",
    "url": "https://www.coupang.com/vp/products/9594066206"
-  },
-  {
-   "key": "B",
-   "url": "https://www.coupang.com/vp/products/328726537"
   }
  ]
 }
