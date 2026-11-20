@@ -480,6 +480,99 @@
           "affiliate_url": "https://link.coupang.com/a/iOTCSlWWu4"
         }
       ]
+    },
+    "안흥 찐빵": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 5498846415,
+          "name": "본가 안흥찐빵 2봉 20입 1Kg, 500g, 2개",
+          "price": 12600,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/5498846415.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5498846415",
+          "affiliate_url": "https://link.coupang.com/a/iOTOff6OqG"
+        },
+        {
+          "productId": 5657769040,
+          "name": "[직판]밀원본가 우리밀 안흥찐빵 삼색 1.5kgX30개, 50g",
+          "price": 20000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/5657769040.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5657769040",
+          "affiliate_url": "https://link.coupang.com/a/iOTOtvE10u"
+        },
+        {
+          "productId": 9055603827,
+          "name": "밀원본가 소화 잘되는 우리밀 찐빵 1.3kg 국내산 밀 팥, 1개, 1.3kg",
+          "price": 30000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9055603827.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9055603827",
+          "affiliate_url": "https://link.coupang.com/a/iOTOAcWKs0"
+        },
+        {
+          "productId": 8167394217,
+          "name": "밀원본가 안흥찐빵 1.6kg HACCP, 1.6kg, 1개",
+          "price": 18900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8167394217.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8167394217",
+          "affiliate_url": "https://link.coupang.com/a/iOTOGzh5jw"
+        },
+        {
+          "productId": 9264223811,
+          "name": "[안흥찐빵] 쌀찐빵 10개+단호박쌀찐빵 10개+흑미쌀찐빵 10개",
+          "price": 12900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9264223811.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9264223811",
+          "affiliate_url": "https://link.coupang.com/a/iOTOSOeXW8"
+        },
+        {
+          "productId": 6181271675,
+          "name": "안흥식품 옛날 전통 그대로 할매 안흥 쌀찐빵 혼합 1500g  (냉동)",
+          "price": 11800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6181271675.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6181271675",
+          "affiliate_url": "https://link.coupang.com/a/iOTO5EeHQW"
+        },
+        {
+          "productId": 260328635,
+          "name": "[안흥찐빵] 할매 안흥 쌀찐빵 4가지맛 25개 x 1봉 (쌀,단호박,흑미,새싹순보리)",
+          "price": 11160,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/260328635.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/260328635",
+          "affiliate_url": "https://link.coupang.com/a/iOTPhYRy5Q"
+        },
+        {
+          "productId": 7232493797,
+          "name": "진짜 안흥손찐빵 국산팥 100%. 횡성군수가 인증한 품질 (1200g) 수제찐빵",
+          "price": 18500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/7232493797.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7232493797",
+          "affiliate_url": "https://link.coupang.com/a/iOTPqdArgO"
+        }
+      ]
     }
   },
   "urls": [
