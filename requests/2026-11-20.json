@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "햅쌀 10kg", "limit": 8},
-  {"key": "C", "keyword": "무항생제 달걀 30구", "limit": 8},
-  {"key": "C", "keyword": "닭볶음탕용 닭 냉장", "limit": 8},
-  {"key": "C", "keyword": "삼립 호빵", "limit": 8},
-  {"key": "C", "keyword": "어묵탕 세트", "limit": 8},
-  {"key": "C", "keyword": "쌍화차 스틱", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "햅쌀 10kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "무항생제 달걀 30구",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "닭볶음탕용 닭 냉장",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "삼립 호빵",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "어묵탕 세트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "쌍화차 스틱",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/166996432"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9594066206"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9752054562"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/328726537"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7324843040"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7300051253"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9594066206"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/328726537"
+  }
  ]
 }
