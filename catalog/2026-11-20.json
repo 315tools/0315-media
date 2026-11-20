@@ -1,0 +1,486 @@
+{
+  "searches": {
+    "햅쌀 10kg": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9719241632,
+          "name": "[26년 햅쌀] 대왕님표 여주쌀 진상미 [백화점 납품용 프리미엄쌀], 10kg, 1개, 상등급",
+          "price": 62800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9719241632.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9719241632",
+          "affiliate_url": "https://link.coupang.com/a/iOTwBTr3Mi"
+        },
+        {
+          "productId": 2005753689,
+          "name": "여왕의만찬 2026년산 햅쌀 삼광미 백미 특등급, 특등급, 10kg, 1개",
+          "price": 35900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/2005753689.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2005753689",
+          "affiliate_url": "https://link.coupang.com/a/iOTwJgJg96"
+        },
+        {
+          "productId": 9393888960,
+          "name": "여왕의만찬 2026년산 햅쌀 수라쌀 미소진품 백미 특등급, 특등급, 10kg, 1개",
+          "price": 33900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9393888960.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9393888960",
+          "affiliate_url": "https://link.coupang.com/a/iOTwP4gat2"
+        },
+        {
+          "productId": 7757541101,
+          "name": "강화군농협 강화섬쌀 2026년산 햅쌀 삼광 백미 상등급, 상등급, 10kg, 1개",
+          "price": 35900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7757541101.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7757541101",
+          "affiliate_url": "https://link.coupang.com/a/iOTwX8YzVQ"
+        },
+        {
+          "productId": 166996432,
+          "name": "곰곰 2026년산 햅쌀 소중한 우리쌀 상등급",
+          "price": 34990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/166996432.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/166996432",
+          "affiliate_url": "https://link.coupang.com/a/iOTw4bE5C0"
+        },
+        {
+          "productId": 7646561681,
+          "name": "임금님표이천 GAP 인증 이천쌀 특등급",
+          "price": 45980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7646561681.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7646561681",
+          "affiliate_url": "https://link.coupang.com/a/iOTw9nf2PY"
+        },
+        {
+          "productId": 6098002264,
+          "name": "여주시농협 2026년산 햅쌀 대왕님표 여주쌀 진상미 상등급",
+          "price": 42560.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6098002264.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6098002264",
+          "affiliate_url": "https://link.coupang.com/a/iOTxifWqlg"
+        },
+        {
+          "productId": 8334694370,
+          "name": "수향미 2026년산 햅쌀 골든퀸 3호 백미 상등급",
+          "price": 38990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8334694370.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8334694370",
+          "affiliate_url": "https://link.coupang.com/a/iOTxo2BW6S"
+        }
+      ]
+    },
+    "무항생제 달걀 30구": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9068473037,
+          "name": "농장직송 항생제 없는 신선한 계란 대란, 60구, 1개",
+          "price": 22850,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9068473037.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9068473037",
+          "affiliate_url": "https://link.coupang.com/a/iOTxKTSKnA"
+        },
+        {
+          "productId": 8463684147,
+          "name": "난각번호 1번 무항생제 친환경 계란 청정한알",
+          "price": 20470,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8463684147.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8463684147",
+          "affiliate_url": "https://link.coupang.com/a/iOTxWwRSLs"
+        },
+        {
+          "productId": 9740442568,
+          "name": "[알부자집] 무항생제계란 대란(52g~59g)",
+          "price": 23640,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9740442568.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9740442568",
+          "affiliate_url": "https://link.coupang.com/a/iOTyaAz1dA"
+        },
+        {
+          "productId": 9734956643,
+          "name": "[당일산란]영신팜스 농장직송 무항생제 HACCP 대란 계란, 30구, 2개",
+          "price": 22500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9734956643.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9734956643",
+          "affiliate_url": "https://link.coupang.com/a/iOTyiKGN8C"
+        },
+        {
+          "productId": 8788170679,
+          "name": "[알부자집] 무항생제계란 왕란",
+          "price": 21120,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8788170679.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8788170679",
+          "affiliate_url": "https://link.coupang.com/a/iOTysmYLim"
+        },
+        {
+          "productId": 9631594859,
+          "name": "무항생제 계란 신선한 초란 30구,60구 오픈특가",
+          "price": 10900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9631594859.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9631594859",
+          "affiliate_url": "https://link.coupang.com/a/iOTyExnuGO"
+        },
+        {
+          "productId": 9594066206,
+          "name": "[젊은 닭 유정란] 난각번호2번 유정란 특대란 계란 무항생제 달걀 30구",
+          "price": 16900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9594066206.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9594066206",
+          "affiliate_url": "https://link.coupang.com/a/iOTyMXW09A"
+        }
+      ]
+    },
+    "닭볶음탕용 닭 냉장": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7755163966,
+          "name": "국내산 100%, 냉장 알뜰 닭볶음용, 신선한 마니커 절단육 닭고기, 4개",
+          "price": 20800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7755163966.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7755163966",
+          "affiliate_url": "https://link.coupang.com/a/iOTy9MtgD6"
+        },
+        {
+          "productId": 9752054562,
+          "name": "하림 친환경 프레쉬업 무항생제 닭볶음탕용, 900g, 1개",
+          "price": 9850,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9752054562.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9752054562",
+          "affiliate_url": "https://link.coupang.com/a/iOTzgoVeJo"
+        },
+        {
+          "productId": 9182950578,
+          "name": "늘찬 닭볶음탕용 절단닭 냉장, 1kg, 3개",
+          "price": 20000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9182950578.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9182950578",
+          "affiliate_url": "https://link.coupang.com/a/iOTzoISURE"
+        },
+        {
+          "productId": 9558313165,
+          "name": "[로켓프레시] 동우팜투테이블 바른닭고기 절단육 (냉장)",
+          "price": 13080.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9558313165.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9558313165",
+          "affiliate_url": "https://link.coupang.com/a/iOTzwa0rMO"
+        },
+        {
+          "productId": 8715112960,
+          "name": "[로켓프레시] 한강식품 다리네개 닭볶음탕용 닭고기 (냉장)",
+          "price": 9890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8715112960.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8715112960",
+          "affiliate_url": "https://link.coupang.com/a/iOTzRRkHOm"
+        },
+        {
+          "productId": 6583324168,
+          "name": "[로켓프레시] 무항생제 인증 갓잡은 닭 볶음탕용 (냉장)",
+          "price": 15980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/6583324168.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6583324168",
+          "affiliate_url": "https://link.coupang.com/a/iOTzYivdRY"
+        }
+      ]
+    },
+    "삼립 호빵": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7643660061,
+          "name": "[로켓프레시] 삼립 발효미종 정통단팥 호빵",
+          "price": 3910,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7643660061.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7643660061",
+          "affiliate_url": "https://link.coupang.com/a/iOTAgiwUYC"
+        },
+        {
+          "productId": 328726572,
+          "name": "삼립 호빵 발효미종 단팥",
+          "price": 11780,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/328726572.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/328726572",
+          "affiliate_url": "https://link.coupang.com/a/iOTAoqORr2"
+        },
+        {
+          "productId": 9141856844,
+          "name": "삼립 삼립호빵 정통단팥1봉+야채1봉+피자1봉",
+          "price": 13050,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9141856844.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9141856844",
+          "affiliate_url": "https://link.coupang.com/a/iOTAvN6DZY"
+        },
+        {
+          "productId": 7623478303,
+          "name": "[보아스몰] 삼립호빵 정통 단팥호빵 4개입 380g",
+          "price": 11960,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7623478303.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7623478303",
+          "affiliate_url": "https://link.coupang.com/a/iOTAC5g4vQ"
+        },
+        {
+          "productId": 9770796601,
+          "name": "삼립호빵 2026 단팥 고구마 야채 피자 4종 세트",
+          "price": 17870,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9770796601.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9770796601",
+          "affiliate_url": "https://link.coupang.com/a/iOTAIYAOUS"
+        },
+        {
+          "productId": 328726537,
+          "name": "삼립 호빵 발효미종 단팥 + 야채",
+          "price": 12280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/328726537.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/328726537",
+          "affiliate_url": "https://link.coupang.com/a/iOTAMxZWnc"
+        },
+        {
+          "productId": 2346811126,
+          "name": "삼립 호빵 발효미종 단팥 + 피자",
+          "price": 12280,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/2346811126.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2346811126",
+          "affiliate_url": "https://link.coupang.com/a/iOTASGlRvw"
+        }
+      ]
+    },
+    "어묵탕 세트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7324843040,
+          "name": "삼진어묵 오동통 모듬어묵 + 스프",
+          "price": 8010,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7324843040.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7324843040",
+          "affiliate_url": "https://link.coupang.com/a/iOTA7NUV8C"
+        },
+        {
+          "productId": 9116178804,
+          "name": "[로켓프레시] 호리카와 종합어묵세트 (냉동)",
+          "price": 6700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9116178804.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9116178804",
+          "affiliate_url": "https://link.coupang.com/a/iOTBeGIn6q"
+        },
+        {
+          "productId": 9658332782,
+          "name": "명물부산물떡 대풍관 30년전통 물떡 어묵탕 오뎅탕2~3인분",
+          "price": 13200,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9658332782.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9658332782",
+          "affiliate_url": "https://link.coupang.com/a/iOTBivJrIi"
+        },
+        {
+          "productId": 8286288362,
+          "name": "[로켓프레시] 대림선 국탕종합 어묵",
+          "price": 6160,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8286288362.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8286288362",
+          "affiliate_url": "https://link.coupang.com/a/iOTBv3t98m"
+        },
+        {
+          "productId": 7724268744,
+          "name": "냉동 와카메 오뎅야 일제모듬오뎅 어묵",
+          "price": 15800,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7724268744.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7724268744",
+          "affiliate_url": "https://link.coupang.com/a/iOTBDw07xI"
+        },
+        {
+          "productId": 8299990406,
+          "name": "[로켓프레시] 삼호어묵 정통어묵탕",
+          "price": 3780,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8299990406.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8299990406",
+          "affiliate_url": "https://link.coupang.com/a/iOTBLWCAW4"
+        },
+        {
+          "productId": 7432509432,
+          "name": "[로켓프레시] 삼진어묵 7가지 모듬어묵 (냉동)",
+          "price": 7180,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7432509432.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7432509432",
+          "affiliate_url": "https://link.coupang.com/a/iOTBS4dadE"
+        }
+      ]
+    },
+    "쌍화차 스틱": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7300051253,
+          "name": "우리차 쌍화차 110T",
+          "price": 18800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7300051253.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7300051253",
+          "affiliate_url": "https://link.coupang.com/a/iOTCgyiSjI"
+        },
+        {
+          "productId": 8367011926,
+          "name": "김소형원방 천마쌍화차",
+          "price": 13070,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8367011926.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8367011926",
+          "affiliate_url": "https://link.coupang.com/a/iOTCno1h48"
+        },
+        {
+          "productId": 8261162775,
+          "name": "김오곤 원장의 진한 쌍화차 + 선물용 쇼핑백 2p",
+          "price": 39220,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8261162775.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8261162775",
+          "affiliate_url": "https://link.coupang.com/a/iOTCuayqku"
+        },
+        {
+          "productId": 7669276956,
+          "name": "김소형원방 쌍화골드 15g x 50포",
+          "price": 13190,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7669276956.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7669276956",
+          "affiliate_url": "https://link.coupang.com/a/iOTCBeJ0O4"
+        },
+        {
+          "productId": 8326113664,
+          "name": "천양삼 쌍화 약도라지배 진액스틱",
+          "price": 20900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8326113664.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8326113664",
+          "affiliate_url": "https://link.coupang.com/a/iOTCLI759U"
+        },
+        {
+          "productId": 8239645693,
+          "name": "김소형 원장 무설탕 스테비아 프리미엄 저당 쌍화차",
+          "price": 22400.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8239645693.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8239645693",
+          "affiliate_url": "https://link.coupang.com/a/iOTCSlWWu4"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
