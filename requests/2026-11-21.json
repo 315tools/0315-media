@@ -1,10 +1,68 @@
 {
  "searches": [
-  {"key": "C", "keyword": "발난로 풋워머", "limit": 8},
-  {"key": "C", "keyword": "전기방석", "limit": 8},
-  {"key": "C", "keyword": "카본 히터", "limit": 8},
-  {"key": "C", "keyword": "전기요 1인용", "limit": 8},
-  {"key": "C", "keyword": "서큘레이터", "limit": 8},
-  {"key": "C", "keyword": "가습기 대용량", "limit": 8}
+  {
+   "key": "C",
+   "keyword": "발난로 풋워머",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "전기방석",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "카본 히터",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "전기요 1인용",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "서큘레이터",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "가습기 대용량",
+   "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9178700071"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7658093689"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7648527343"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9801959597"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8551060597"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8974720992"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9178700071"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9801959597"
+  }
  ]
 }
