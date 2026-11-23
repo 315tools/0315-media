@@ -30,5 +30,39 @@
    "keyword": "문틈 바람막이",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7434490441"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8314586681"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9520614727"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9642046260"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9806143283"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9244089954"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/7434490441"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9642046260"
+  }
  ]
 }
