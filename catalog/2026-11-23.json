@@ -1,0 +1,475 @@
+{
+  "searches": {
+    "신발 방수 스프레이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7295797798,
+          "name": "안젖소 신발 방수 스프레이",
+          "price": 12000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7295797798.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7295797798",
+          "affiliate_url": "https://link.coupang.com/a/iTSgVto6F2"
+        },
+        {
+          "productId": 7434490441,
+          "name": "콜로닐 워터스탑 신발 방수 스프레이",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7434490441.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7434490441",
+          "affiliate_url": "https://link.coupang.com/a/iTSg1BcoIm"
+        },
+        {
+          "productId": 8535050851,
+          "name": "모어화이트 올케어 코팅 발수 방오제",
+          "price": 29800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8535050851.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8535050851",
+          "affiliate_url": "https://link.coupang.com/a/iTShcYxeXQ"
+        },
+        {
+          "productId": 9661585673,
+          "name": "나노리펠 아웃도어/슈즈 250ml 발수코팅 스프레이",
+          "price": 19900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9661585673.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9661585673",
+          "affiliate_url": "https://link.coupang.com/a/iTShjRtriu"
+        },
+        {
+          "productId": 38229817,
+          "name": "아베오나 신발 방수 스프레이",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/38229817.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/38229817",
+          "affiliate_url": "https://link.coupang.com/a/iTShtDNupw"
+        },
+        {
+          "productId": 9809360185,
+          "name": "[얼룩차단100%] 신발 방수 스프레이 스웨이드 어그부츠 운동화 초강력 코팅제 신발방수커버 가죽 코팅 투명 유오노미",
+          "price": 10500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9809360185.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9809360185",
+          "affiliate_url": "https://link.coupang.com/a/iTShEm6TjU"
+        },
+        {
+          "productId": 8635679248,
+          "name": "탐사 프리미엄 신발 방수 스프레이 어그부츠 양털부츠 스웨이드부츠",
+          "price": 9580,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8635679248.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8635679248",
+          "affiliate_url": "https://link.coupang.com/a/iTShOc9dPo"
+        },
+        {
+          "productId": 9785395157,
+          "name": "콜로닐 워터스탑 방수 스프레이",
+          "price": 11870,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9785395157.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785395157",
+          "affiliate_url": "https://link.coupang.com/a/iTShUi3kTQ"
+        }
+      ]
+    },
+    "신발 제습제": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9569451430,
+          "name": "헤오드 스멜제로 신발 탈취제 초강력 발냄새 제거 제습 항균 3in1 런닝화 구두 군화 작업화 부츠",
+          "price": 11620,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9569451430.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9569451430",
+          "affiliate_url": "https://link.coupang.com/a/iTSicmJ0Oy"
+        },
+        {
+          "productId": 8384706099,
+          "name": "냄새털이범 초강력 신발 탈취 운동화 구두 군인 군화 냄새 제거, 1세트, 40g",
+          "price": 13470,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8384706099.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8384706099",
+          "affiliate_url": "https://link.coupang.com/a/iTSigDSdz2"
+        },
+        {
+          "productId": 4882418922,
+          "name": "홈플래닛 실리카겔 제습제",
+          "price": 8540,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/4882418922.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4882418922",
+          "affiliate_url": "https://link.coupang.com/a/iTSikoT15M"
+        },
+        {
+          "productId": 8314586681,
+          "name": "크로반 제습제 실리카겔 습기제거제 신발 의류 방습제 서랍용 서랍장 신발장",
+          "price": 8590,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8314586681.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8314586681",
+          "affiliate_url": "https://link.coupang.com/a/iTSinXqRsi"
+        },
+        {
+          "productId": 9614475515,
+          "name": "Sprize 진짜 좋은 제습제 일반형 30p",
+          "price": 16250,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9614475515.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9614475515",
+          "affiliate_url": "https://link.coupang.com/a/iTSirPzvuS"
+        },
+        {
+          "productId": 8634254220,
+          "name": "일리마 신발탈취제 냄새제거 신발제습제 겸용 발냄새 제거 신발장 현관",
+          "price": 10530,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8634254220.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8634254220",
+          "affiliate_url": "https://link.coupang.com/a/iTSiDOgwG4"
+        }
+      ]
+    },
+    "보온 텀블러 500ml": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9018946543,
+          "name": "락앤락 모그 스텐 머그컵, 화이트, 1개, 500ml",
+          "price": 25440,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9018946543.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9018946543",
+          "affiliate_url": "https://link.coupang.com/a/iTSiVYstTE"
+        },
+        {
+          "productId": 9520614727,
+          "name": "하토르 듀얼리드 텀블러 스테인리스 진공 보온보냉, 1개, 500ml, 웜 그레이",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9520614727.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9520614727",
+          "affiliate_url": "https://link.coupang.com/a/iTSi8J95Eq"
+        },
+        {
+          "productId": 7087875221,
+          "name": "디유 비비드 2중 진공 원터치 보온병",
+          "price": 14320,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7087875221.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7087875221",
+          "affiliate_url": "https://link.coupang.com/a/iTSjeOee04"
+        },
+        {
+          "productId": 8137681019,
+          "name": "락앤락 메트로 카페 세라믹 텀블러",
+          "price": 48300.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8137681019.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8137681019",
+          "affiliate_url": "https://link.coupang.com/a/iTSjlLoVA4"
+        },
+        {
+          "productId": 9504337581,
+          "name": "드링보틀 텀블러 보온보냉 물병",
+          "price": 9800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9504337581.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9504337581",
+          "affiliate_url": "https://link.coupang.com/a/iTSjqKfZOS"
+        },
+        {
+          "productId": 9655361389,
+          "name": "온도텀블러 500ml 스마트LED 304스테인레스 보온보냉 텀블러",
+          "price": 10000.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9655361389.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9655361389",
+          "affiliate_url": "https://link.coupang.com/a/iTSjxmxeZU"
+        }
+      ]
+    },
+    "디지털 온습도계": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9642046260,
+          "name": "아이리버 디지털 미니 온습도계 ITH-100, 1개, ITH-100, 화이트",
+          "price": 9850,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9642046260.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9642046260",
+          "affiliate_url": "https://link.coupang.com/a/iTSjPxS5qm"
+        },
+        {
+          "productId": 9018761962,
+          "name": "브루마 온습도계 BT11 + 건전지, 화이트, 1개",
+          "price": 7110,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9018761962.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9018761962",
+          "affiliate_url": "https://link.coupang.com/a/iTSjVbHLTE"
+        },
+        {
+          "productId": 8920884492,
+          "name": "카스 체감 온도계 측정기 온습도계 습도계 T702, 1개, 혼합",
+          "price": 37000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/8920884492.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8920884492",
+          "affiliate_url": "https://link.coupang.com/a/iTSj1raerI"
+        },
+        {
+          "productId": 72986941,
+          "name": "카스 디지털 온습도계 T023",
+          "price": 9890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/72986941.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/72986941",
+          "affiliate_url": "https://link.coupang.com/a/iTSj43yzpk"
+        },
+        {
+          "productId": 7863265788,
+          "name": "카스 백라이트 초정밀 디지털 온습도계 T035",
+          "price": 22000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/7863265788.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7863265788",
+          "affiliate_url": "https://link.coupang.com/a/iTSj9rvMIK"
+        },
+        {
+          "productId": 177857493,
+          "name": "카스 디지털 온습도계 T025 + 배터리 CR2032",
+          "price": 11840,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/177857493.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/177857493",
+          "affiliate_url": "https://link.coupang.com/a/iTSkdBvFfM"
+        }
+      ]
+    },
+    "바닥 단열 매트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 8918550713,
+          "name": "닥터하우스 사계절 푹신한 보온 베란다 거실 놀이방 쿠션매트, 직사각우드",
+          "price": 59500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8918550713.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8918550713",
+          "affiliate_url": "https://link.coupang.com/a/iTSkt0Yomq"
+        },
+        {
+          "productId": 9179161652,
+          "name": "92개국판매 바로 붙이는 무자국 롤 카페트 워셔블 매트 오트 베이지",
+          "price": 25700,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9179161652.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9179161652",
+          "affiliate_url": "https://link.coupang.com/a/iTSkzQMWf6"
+        },
+        {
+          "productId": 9466571130,
+          "name": "쿠셔니 논슬립 PE 거실매트 바닥매트 유아거실매트 헤링본 롤매트, 그레이",
+          "price": 29500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9466571130.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9466571130",
+          "affiliate_url": "https://link.coupang.com/a/iTSkFLukkC"
+        },
+        {
+          "productId": 9376448196,
+          "name": "은박매트 열반사 보온재 단열재 캠핑매트 은박시트 은박발포지 4T",
+          "price": 18780,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9376448196.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9376448196",
+          "affiliate_url": "https://link.coupang.com/a/iTSkNtfAd2"
+        },
+        {
+          "productId": 9746919817,
+          "name": "거실 침실 조립식 퍼즐카페트 부드러운 털 러그 사각 조각매트 바닥매트",
+          "price": 29900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9746919817.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9746919817",
+          "affiliate_url": "https://link.coupang.com/a/iTSkWv75Yi"
+        },
+        {
+          "productId": 9806143283,
+          "name": "보온매트 두께 10mm 바닥 단열 거실 방 냉기차단 PE 매트",
+          "price": 22140.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9806143283.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9806143283",
+          "affiliate_url": "https://link.coupang.com/a/iTSk2EKGHc"
+        }
+      ]
+    },
+    "문틈 바람막이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7764795902,
+          "name": "실리콘 문풍지 창문바람막이 45mm x 5m, 5개",
+          "price": 29900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7764795902.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7764795902",
+          "affiliate_url": "https://link.coupang.com/a/iTSljPLEJg"
+        },
+        {
+          "productId": 3666590,
+          "name": "생활더하기 5중날 투명 문풍지 6m 2P, 2세트",
+          "price": 7900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/3666590.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/3666590",
+          "affiliate_url": "https://link.coupang.com/a/iTSlnqjaHQ"
+        },
+        {
+          "productId": 319075525,
+          "name": "문풍지나라 상가유리문전용 (대) 문풍지 바람막이 1M",
+          "price": 26000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/319075525.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/319075525",
+          "affiliate_url": "https://link.coupang.com/a/iTSltGDVlI"
+        },
+        {
+          "productId": 9192743442,
+          "name": "끌리온 20m 신소재 프리미엄 대용량 문풍지 창문 틈새 바람막이",
+          "price": 9400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9192743442.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9192743442",
+          "affiliate_url": "https://link.coupang.com/a/iTSlxoxv0m"
+        },
+        {
+          "productId": 9287063502,
+          "name": "주식회사아텍스 실리콘 외풍차단 틈새차단 문풍지 테이프 반투명 45mm x 5m",
+          "price": 3000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9287063502.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9287063502",
+          "affiliate_url": "https://link.coupang.com/a/iTSlCvaCXI"
+        },
+        {
+          "productId": 8301704105,
+          "name": "코멧 국내생산 사계절 우레탄 문풍지 3M",
+          "price": 6010,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8301704105.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8301704105",
+          "affiliate_url": "https://link.coupang.com/a/iTSlHWQpwG"
+        },
+        {
+          "productId": 9244089954,
+          "name": "문틈 문하단 밀폐 방음 바람막이 틈새 차단 테이프 실리콘 틈막이 문풍지 6m 세트",
+          "price": 9400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9244089954.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9244089954",
+          "affiliate_url": "https://link.coupang.com/a/iTSlOSTyRE"
+        },
+        {
+          "productId": 9749507906,
+          "name": "오렌 D형 문틈 틈새막이 소음방지, 그레이",
+          "price": 3890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9749507906.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9749507906",
+          "affiliate_url": "https://link.coupang.com/a/iTSlUAFLSC"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
