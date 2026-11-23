@@ -1,0 +1,34 @@
+{
+ "searches": [
+  {
+   "key": "C",
+   "keyword": "신발 방수 스프레이",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "신발 제습제",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "보온 텀블러 500ml",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "디지털 온습도계",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "바닥 단열 매트",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "문틈 바람막이",
+   "limit": 8
+  }
+ ]
+}
