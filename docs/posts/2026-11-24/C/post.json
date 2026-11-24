@@ -1,0 +1,38 @@
+{
+  "title": "값 내린 장바구니 BEST3",
+  "slot": 1,
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n사과·돼지고기 출하값 내렸어요 🛒 값 내린 장바구니 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 도드람한돈 1등급 목심 구이용 (냉장) 💛 품번 0196\n두툼하게 구워 먹는 국내산 1등급 목심.\n\n2. 선진포크 한돈 미박 앞다리 수육용 1kg + 분말스프 2p 💛 품번 0197\n스프까지 들어 있어 수육 한 냄비 간편하게.\n\n3. 영주 햇살듬뿍 사과즙 💛 품번 0198\n파우치형이라 아침에 한 포씩.\n\n✔ 10월 생산자물가(9월 대비) 사과 29.2%·돼지고기 12.8% 하락 — 출하 단계 가격이라 소비자 가격엔 시차가 있어요\n\n※ 물가: 한국은행(노컷뉴스·아시아경제 11/20)\n※ 11/24 쿠팡 검색 기준 · 가격은 바뀔 수 있어요\n\n#광고 #쿠팡추천템 #식품 #장보기 #한돈 #수육 #사과즙",
+  "products": [
+    {
+      "no": 1,
+      "name": "도드람한돈 1등급 목심 구이용 (냉장)",
+      "coupang_url": "https://www.coupang.com/vp/products/188172346",
+      "affiliate_url": "https://link.coupang.com/a/iVxcXV3ft6",
+      "code": "0196"
+    },
+    {
+      "no": 2,
+      "name": "선진포크 한돈 미박 앞다리 수육용 1kg + 분말스프 2p (냉장)",
+      "coupang_url": "https://www.coupang.com/vp/products/7313224375",
+      "affiliate_url": "https://link.coupang.com/a/iVxd3AUhnU",
+      "code": "0197"
+    },
+    {
+      "no": 3,
+      "name": "영주 햇살듬뿍 사과즙",
+      "coupang_url": "https://www.coupang.com/vp/products/9766077327",
+      "affiliate_url": "https://link.coupang.com/a/iVxeTThiwu",
+      "code": "0198"
+    }
+  ],
+  "channel": "C",
+  "date": "2026-11-24",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
