@@ -1,0 +1,34 @@
+{
+ "searches": [
+  {
+   "key": "C",
+   "keyword": "한돈 목살 구이용",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "한돈 앞다리살 수육용",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "사과즙 100%",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "꿀고구마 3kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "유자차 1kg",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "호떡믹스",
+   "limit": 8
+  }
+ ]
+}
