@@ -1,0 +1,34 @@
+{
+ "searches": [
+  {
+   "key": "C",
+   "keyword": "전기 도시락 가열",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "보온 죽통 스텐",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "무선 온열 무릎워머",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "경량 패딩 조끼 남녀공용",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "쿠션 담요",
+   "limit": 8
+  },
+  {
+   "key": "C",
+   "keyword": "경량 패딩 머플러",
+   "limit": 8
+  }
+ ]
+}
