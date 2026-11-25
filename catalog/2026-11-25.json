@@ -1,0 +1,464 @@
+{
+  "searches": {
+    "전기 도시락 가열": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9830364352,
+          "name": "Lancore [정기 보온 가능] 충전식 가열 보온 도시락 304 스테인리스 전기식 도시락 4단온도 제어 초장시간 사용 가능 직장인용 보온 도시락(완전 신규 업그레이드), 회색, 1개",
+          "price": 36900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9830364352.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9830364352",
+          "affiliate_url": "https://link.coupang.com/a/iXcfNdBMtw"
+        },
+        {
+          "productId": 9785769611,
+          "name": "직장인 휴대용 전기 도시락 스팀 가열 도시락통 스테인리스 용기 1단 2단 그레이 핑크, 1개, 핑크 2단 (용기 4개)",
+          "price": 26900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9785769611.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9785769611",
+          "affiliate_url": "https://link.coupang.com/a/iXcf06ksxw"
+        },
+        {
+          "productId": 9830242866,
+          "name": "POZEAL 무선 전기 가열 도시락 박스 국산 usb 충전식 도시락세트",
+          "price": 45800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9830242866.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9830242866",
+          "affiliate_url": "https://link.coupang.com/a/iXcgcNp7OS"
+        },
+        {
+          "productId": 9813582039,
+          "name": "전기 도시락 무선 반찬통 휴대용 학생 900ml 가열 도시락통 직장인 충전식 보온",
+          "price": 22900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9813582039.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9813582039",
+          "affiliate_url": "https://link.coupang.com/a/iXcgi04O3o"
+        },
+        {
+          "productId": 9794216468,
+          "name": "충전식 가열도시락  전기 보온도시락 직장인 야외용 휴대용  빠른 가열 도시락 물주입 불필요  전열 보온도시락",
+          "price": 37520.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9794216468.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9794216468",
+          "affiliate_url": "https://link.coupang.com/a/iXcgp1m536"
+        }
+      ]
+    },
+    "보온 죽통 스텐": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6347229965,
+          "name": "에스테반호프 미니 스텐 보온 밥통 죽통 국통 도시락통 보온통 1+1 휴대용 손잡이 보온도시락 1000ml",
+          "price": 45900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/6347229965.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6347229965",
+          "affiliate_url": "https://link.coupang.com/a/iXcgNBA3BA"
+        },
+        {
+          "productId": 8499289453,
+          "name": "피크르 304 스테인리스 보온도시락통 전자레인지 적용 2단 3단 4단 휴대용가방 포함, 1100ML 2단 베이지, 1개",
+          "price": 47800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8499289453.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8499289453",
+          "affiliate_url": "https://link.coupang.com/a/iXcgSS99H2"
+        },
+        {
+          "productId": 9669032682,
+          "name": "코코리브 2단 독립보온보냉 도시락, 1개, 스테인레스 실버",
+          "price": 29950,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9669032682.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9669032682",
+          "affiliate_url": "https://link.coupang.com/a/iXcg6WFfpc"
+        },
+        {
+          "productId": 7748757247,
+          "name": "MOZ 스웨덴 프리미엄 316L 스텐 푸드자 보온 도시락 보온 죽통 480ml, 포레스트그린, 1개, 480ml",
+          "price": 38900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7748757247.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7748757247",
+          "affiliate_url": "https://link.coupang.com/a/iXchj031Lo"
+        },
+        {
+          "productId": 9702275066,
+          "name": "트윙고 라스텐 보온죽통 TWL-FJ400TG 휴대용 400ml 미니 죽통 1인 스텐 보온 도시락",
+          "price": 15400,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9702275066.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9702275066",
+          "affiliate_url": "https://link.coupang.com/a/iXchuBruIm"
+        },
+        {
+          "productId": 8870646970,
+          "name": "네이쳐리빙 스텐316 보온보냉 대용량 도시락 죽통",
+          "price": 16050,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8870646970.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8870646970",
+          "affiliate_url": "https://link.coupang.com/a/iXchCbXx9w"
+        },
+        {
+          "productId": 9312508195,
+          "name": "삼광문구 ds054 이중 스텐 보온 죽통 죽그릇 도시락 주머니 세트",
+          "price": 7600.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9312508195.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9312508195",
+          "affiliate_url": "https://link.coupang.com/a/iXchH8cbxA"
+        }
+      ]
+    },
+    "무선 온열 무릎워머": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9410446075,
+          "name": "전기 무릎 보호대 무선 온열 패드 관절염용 3단계 온도 조절 워머 3000mAh 배터리 작동 밴드 남녀노소용 블랙단일",
+          "price": 76200.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9410446075.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9410446075",
+          "affiliate_url": "https://link.coupang.com/a/iXchZM20LQ"
+        },
+        {
+          "productId": 9575828151,
+          "name": "전기 무릎 보호대 무선 온열 패드 관절염용 3단계 온도 조절 워머 3000mAh 배터리 작동 밴드 남녀노소용 블랙단일",
+          "price": 76200.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9575828151.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9575828151",
+          "affiliate_url": "https://link.coupang.com/a/iXch5BfYPI"
+        },
+        {
+          "productId": 9162709762,
+          "name": "무선 충전 전기 온열 온수 무릎 찜질기 핫팩 워머",
+          "price": 70900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9162709762.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9162709762",
+          "affiliate_url": "https://link.coupang.com/a/iXcibWMbEi"
+        },
+        {
+          "productId": 9795471854,
+          "name": "한양 핫팩 워머 무선 충전식찜질팩 관절 용 무릎 온열 온수 전기 철아이템",
+          "price": 36900.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9795471854.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9795471854",
+          "affiliate_url": "https://link.coupang.com/a/iXciiqRDS8"
+        },
+        {
+          "productId": 9838088046,
+          "name": "온열과 공기압박 이중 케어 종아리 관리용 다리 워머 무릎까지 감싸 디자인 삼단계 강도 조절 온열 저소음 무선 이십 분 자동 종료 양발 세트",
+          "price": 136900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9838088046.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9838088046",
+          "affiliate_url": "https://link.coupang.com/a/iXcioqZLpI"
+        },
+        {
+          "productId": 9837923563,
+          "name": "무릎 마사지기 안마기 하체 밴드 종아리 발열 무선 워머 기능 적외선 휴대용 온열",
+          "price": 101470.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9837923563.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9837923563",
+          "affiliate_url": "https://link.coupang.com/a/iXciuBC2KG"
+        }
+      ]
+    },
+    "경량 패딩 조끼 남녀공용": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 2303809571,
+          "name": "TOPBOY 남녀공용 라운드넥 지퍼 경량 패딩조끼 (SCC5178PT)",
+          "price": 19800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/2303809571.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2303809571",
+          "affiliate_url": "https://link.coupang.com/a/iXciOdMK3E"
+        },
+        {
+          "productId": 6874863422,
+          "name": "TOPBOY 남녀공용 초경량 U넥 패딩조끼 경량 베스트 (TC010)",
+          "price": 27800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/6874863422.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6874863422",
+          "affiliate_url": "https://link.coupang.com/a/iXciV9S14m"
+        },
+        {
+          "productId": 8488942575,
+          "name": "턴키 남녀공용 브이넥 경량 패딩 조끼 AJ-1235",
+          "price": 20920,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8488942575.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8488942575",
+          "affiliate_url": "https://link.coupang.com/a/iXci2T0aFo"
+        },
+        {
+          "productId": 9788280613,
+          "name": "융털 경량 패딩 조끼 겨울 방한 베스트 누빔 깔깔이 2color 남녀공용 캠핑 산책 겨울작업 일상복 겉옷 실내보온",
+          "price": 4900.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9788280613.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9788280613",
+          "affiliate_url": "https://link.coupang.com/a/iXcjb8w51w"
+        },
+        {
+          "productId": 9811774485,
+          "name": "알래스카 공용 경량 패딩 베스트 PAH5VP1300",
+          "price": 79000.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9811774485.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9811774485",
+          "affiliate_url": "https://link.coupang.com/a/iXcjopxFKu"
+        },
+        {
+          "productId": 9058172325,
+          "name": "5xl까지 빅사이즈 남녀공용 경량 패딩 조끼 라운드 민소매 집업 패딩 점퍼 웰론 누빔 바람막이 자켓 레이어드 아우터 상의",
+          "price": 23700,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9058172325.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9058172325",
+          "affiliate_url": "https://link.coupang.com/a/iXcjuDRJMi"
+        },
+        {
+          "productId": 8449425647,
+          "name": "핫투 남녀공용 경량 패딩 조끼 웰론점퍼 U넥 베스트 이너패딩",
+          "price": 9900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/8449425647.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8449425647",
+          "affiliate_url": "https://link.coupang.com/a/iXcjGlD4PQ"
+        }
+      ]
+    },
+    "쿠션 담요": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6875742433,
+          "name": "므뮤 예쁜 동물 캐릭터 인형 쿠션 무릎담요",
+          "price": 15990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6875742433.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6875742433",
+          "affiliate_url": "https://link.coupang.com/a/iXcj01P9UG"
+        },
+        {
+          "productId": 9734511940,
+          "name": "타고가요 캐리어 전용 핑구 쿠션 인형 + 담요 세트, 혼합색상",
+          "price": 49800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9734511940.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9734511940",
+          "affiliate_url": "https://link.coupang.com/a/iXckcgiUTc"
+        },
+        {
+          "productId": 7692338936,
+          "name": "보들보들 극세사 쿠션담요",
+          "price": 15810,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/7692338936.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7692338936",
+          "affiliate_url": "https://link.coupang.com/a/iXckh3E5yS"
+        },
+        {
+          "productId": 7945325075,
+          "name": "루시아이 오리 웜핸드 쿠션 담요",
+          "price": 18900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/7945325075.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7945325075",
+          "affiliate_url": "https://link.coupang.com/a/iXcktdN0TY"
+        },
+        {
+          "productId": 9750788589,
+          "name": "WHH 사계절 쿠션담요 2in1 접이식 휴대용 사무실 차량 낮잠이불",
+          "price": 19980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9750788589.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9750788589",
+          "affiliate_url": "https://link.coupang.com/a/iXckHcEZBA"
+        },
+        {
+          "productId": 9750727530,
+          "name": "WHH 2in1 쿠션담요 접이식 낮잠이불 사무실 차량용 무릎담요 겸용 쿠션",
+          "price": 24980.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9750727530.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9750727530",
+          "affiliate_url": "https://link.coupang.com/a/iXckUyGSzc"
+        },
+        {
+          "productId": 9750781860,
+          "name": "WHH 포근한 극세사 쿠션담요 2in1 낮잠이불 접이식 차량용 사무실 담요",
+          "price": 26980.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9750781860.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9750781860",
+          "affiliate_url": "https://link.coupang.com/a/iXck044oHk"
+        }
+      ]
+    },
+    "경량 패딩 머플러": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7650971425,
+          "name": "아웃도어프로덕츠 방한 패딩 머플러, 그레이, 1개",
+          "price": 23500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7650971425.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7650971425",
+          "affiliate_url": "https://link.coupang.com/a/iXcljwdXbw"
+        },
+        {
+          "productId": 8322464067,
+          "name": "공유 경량 패딩 목도리",
+          "price": 7900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8322464067.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8322464067",
+          "affiliate_url": "https://link.coupang.com/a/iXcltHmopw"
+        },
+        {
+          "productId": 9717707477,
+          "name": "비바스탠다드 털안감 경량 방한 패딩 머플러 목도리",
+          "price": 19900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9717707477.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9717707477",
+          "affiliate_url": "https://link.coupang.com/a/iXclzFihgG"
+        },
+        {
+          "productId": 9772857155,
+          "name": "아이더 따뜻하고 가벼운 경량 패디드 소재의 캐주얼 머플러 DUW25941",
+          "price": 29000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9772857155.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9772857155",
+          "affiliate_url": "https://link.coupang.com/a/iXclKjTKDc"
+        },
+        {
+          "productId": 9161183191,
+          "name": "메종로브 초경량 여성 패딩 목도리 남성 머플러",
+          "price": 12800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9161183191.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9161183191",
+          "affiliate_url": "https://link.coupang.com/a/iXclYHcc3M"
+        },
+        {
+          "productId": 9120967782,
+          "name": "아트발란스 여성 목도리 남자 경량 패딩 머플러",
+          "price": 8900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/9120967782.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9120967782",
+          "affiliate_url": "https://link.coupang.com/a/iXcmdbi2BU"
+        },
+        {
+          "productId": 9255007972,
+          "name": "스노우피크 공용 겨울 패딩 머플러 목도리 캠핑 낚시 보온 방한 WUTWA12",
+          "price": 47000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9255007972.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9255007972",
+          "affiliate_url": "https://link.coupang.com/a/iXcmjwK3qK"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
