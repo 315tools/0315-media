@@ -30,5 +30,39 @@
    "keyword": "경량 패딩 머플러",
    "limit": 8
   }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9785769611"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9702275066"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9750788589"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/2303809571"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7650971425"
+  },
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7945325075"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9785769611"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/2303809571"
+  }
  ]
 }
