@@ -2,33 +2,38 @@
  "searches": [
   {
    "key": "C",
-   "keyword": "자석 창문닦이 양면",
+   "keyword": "극세사 욕실 발매트",
    "limit": 8
+  }
+ ],
+ "urls": [
+  {
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7660460402"
   },
   {
-   "key": "C",
-   "keyword": "극세사 먼지떨이 연장",
-   "limit": 8
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8023977745"
   },
   {
-   "key": "C",
-   "keyword": "매직블럭 대용량",
-   "limit": 8
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/7790158804"
   },
   {
-   "key": "C",
-   "keyword": "팥 찜질팩 전자레인지",
-   "limit": 8
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/8925430404"
   },
   {
-   "key": "C",
-   "keyword": "극세사 헤어캡 드라이",
-   "limit": 8
+   "key": "A",
+   "url": "https://www.coupang.com/vp/products/9761240494"
   },
   {
-   "key": "C",
-   "keyword": "극세사 샤워가운",
-   "limit": 8
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/7660460402"
+  },
+  {
+   "key": "B",
+   "url": "https://www.coupang.com/vp/products/9761240494"
   }
  ]
 }
