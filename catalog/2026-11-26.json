@@ -502,7 +502,114 @@
           "affiliate_url": "https://link.coupang.com/a/iYQ58XGtum"
         }
       ]
+    },
+    "극세사 욕실 발매트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9672130135,
+          "name": "제이노브 뽀송한 빨아쓰는 극세사 욕실 발매트, 베이지",
+          "price": 19800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9672130135.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9672130135",
+          "affiliate_url": "https://link.coupang.com/a/iYRbIAU2Ro"
+        },
+        {
+          "productId": 9012669893,
+          "name": "디아르 프리미엄 극세사 미끄럼방지 발매트, 그레이, 1개",
+          "price": 10200,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9012669893.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9012669893",
+          "affiliate_url": "https://link.coupang.com/a/iYRbPhZXtQ"
+        },
+        {
+          "productId": 9089379463,
+          "name": "극세사 발매트 욕실 미끄럼방지 매트 흡수력 우수, 베이지색",
+          "price": 39900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9089379463.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9089379463",
+          "affiliate_url": "https://link.coupang.com/a/iYRb1PKRSC"
+        },
+        {
+          "productId": 7983886137,
+          "name": "네이쳐리빙 모던데일 뽀송 욕실 발매트 2p",
+          "price": 8910,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7983886137.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7983886137",
+          "affiliate_url": "https://link.coupang.com/a/iYRb95Gyqq"
+        },
+        {
+          "productId": 8454900811,
+          "name": "DEXI 부드러운 도톰 극세사 욕실 화장실 현관 미끄럼방지 논슬립 프리미엄 욕실 발매트",
+          "price": 12510.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8454900811.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8454900811",
+          "affiliate_url": "https://link.coupang.com/a/iYRcn8xTum"
+        },
+        {
+          "productId": 9371679342,
+          "name": "애플민트 프리미엄 극세사 욕실 발매트 빨아쓰는 먼지없는 부드러운 매트",
+          "price": 24900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9371679342.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9371679342",
+          "affiliate_url": "https://link.coupang.com/a/iYRcACWVYO"
+        }
+      ]
     }
   },
-  "urls": []
+  "urls": [
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/7660460402",
+      "affiliate_url": "https://link.coupang.com/a/iYRcNeXPky"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/8023977745",
+      "affiliate_url": "https://link.coupang.com/a/iYRcOupcYu"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/7790158804",
+      "affiliate_url": "https://link.coupang.com/a/iYRcP1PxxQ"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/8925430404",
+      "affiliate_url": "https://link.coupang.com/a/iYRcRv1Ram"
+    },
+    {
+      "key": "A",
+      "url": "https://www.coupang.com/vp/products/9761240494",
+      "affiliate_url": "https://link.coupang.com/a/iYRcUA7dme"
+    },
+    {
+      "key": "B",
+      "url": "https://www.coupang.com/vp/products/7660460402",
+      "affiliate_url": "https://link.coupang.com/a/iYRcXh1lQa"
+    },
+    {
+      "key": "B",
+      "url": "https://www.coupang.com/vp/products/9761240494",
+      "affiliate_url": "https://link.coupang.com/a/iYRcZvDG3M"
+    }
+  ]
 }
