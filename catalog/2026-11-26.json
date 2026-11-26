@@ -1,0 +1,508 @@
+{
+  "searches": {
+    "자석 창문닦이 양면": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 5453138176,
+          "name": "자석 창문 닦이 아파트 베란다 청소 유리 거실 유리창 외창(5-25mm용), 1개, 성인용, 그레이",
+          "price": 28000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/5453138176.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5453138176",
+          "affiliate_url": "https://link.coupang.com/a/iYQYVT1N8u"
+        },
+        {
+          "productId": 13737035,
+          "name": "삼정 양면자석 유리창닦이",
+          "price": 39990.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/13737035.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/13737035",
+          "affiliate_url": "https://link.coupang.com/a/iYQY8GgsXk"
+        },
+        {
+          "productId": 9392541160,
+          "name": "루다온 안팎쓱 자력조절 양면 유리창 청소기 자석 창문청소기 5~27mm, 크림아이보리+클래식브라운+스페어58종, 1개",
+          "price": 47400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9392541160.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9392541160",
+          "affiliate_url": "https://link.coupang.com/a/iYQZpXzIIu"
+        },
+        {
+          "productId": 8767996159,
+          "name": "예니브 새로운 출시 업그레이드 버전 자석 창문닦이 (5-35mm 두께용)",
+          "price": 57880,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8767996159.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8767996159",
+          "affiliate_url": "https://link.coupang.com/a/iYQZElIYxg"
+        },
+        {
+          "productId": 5170442715,
+          "name": "홈온  아파트 베란다 유리창 자석 창문 청소 닦이 도구",
+          "price": 45900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/5170442715.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5170442715",
+          "affiliate_url": "https://link.coupang.com/a/iYQZQC6vQq"
+        },
+        {
+          "productId": 7660460402,
+          "name": "코아 강도조절 자석 유리창 유리닦이 5-25mm",
+          "price": 30560,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7660460402.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7660460402",
+          "affiliate_url": "https://link.coupang.com/a/iYQZ1CMwXA"
+        },
+        {
+          "productId": 9732673209,
+          "name": "나비쌤 양면 자석 창문닦이",
+          "price": 11500.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9732673209.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9732673209",
+          "affiliate_url": "https://link.coupang.com/a/iYQ0c0RoLQ"
+        }
+      ]
+    },
+    "극세사 먼지떨이 연장": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9842709923,
+          "name": "연장 먼지털이개 극세사 천장 높은곳 청소 먼지털이개 먼지떨이 연장 먼지털이 극세사 먼지털이",
+          "price": 12800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9842709923.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9842709923",
+          "affiliate_url": "https://link.coupang.com/a/iYQ0yvPHAO"
+        },
+        {
+          "productId": 7124829766,
+          "name": "먼지떨이 길이조절 털이개 바닥 청소 틈새 구석 천장 먼지 제거",
+          "price": 6710.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/7124829766.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7124829766",
+          "affiliate_url": "https://link.coupang.com/a/iYQ0KoRu4y"
+        },
+        {
+          "productId": 9842661477,
+          "name": "먼지제거기 연장형 길이 조절 먼지 떨이 극세사 정전기 브러시 77995ea 1pc",
+          "price": 28640.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/9842661477.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9842661477",
+          "affiliate_url": "https://link.coupang.com/a/iYQ0QQeUiy"
+        },
+        {
+          "productId": 9839774945,
+          "name": "틈새 먼지 털이 구부러지는 연장형 청소 극세사 먼지 털이 천장 다용도 사무실 청소용 탈부착 가정용",
+          "price": 13480.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9839774945.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9839774945",
+          "affiliate_url": "https://link.coupang.com/a/iYQ00ujV9g"
+        },
+        {
+          "productId": 8023977745,
+          "name": "지니홀딩스 길이 연장 극세사 먼지털이개 청소용품 청소도구 청소 브러쉬",
+          "price": 8100.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/8023977745.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8023977745",
+          "affiliate_url": "https://link.coupang.com/a/iYQ06U8lTU"
+        },
+        {
+          "productId": 7664121365,
+          "name": "극세사 먼지털이 에어컨 냉장고 먼지 제거 집 가구 청소 극세사 청소도구",
+          "price": 5750.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/7664121365.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7664121365",
+          "affiliate_url": "https://link.coupang.com/a/iYQ1dgpgm4"
+        },
+        {
+          "productId": 9464454389,
+          "name": "자동 먼지 털이 제거기 타조털 30cm 극세사 흡착 휴대용 청소 모델 무선 미니 가정용",
+          "price": 52400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9464454389.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9464454389",
+          "affiliate_url": "https://link.coupang.com/a/iYQ1mycHbo"
+        },
+        {
+          "productId": 9842953968,
+          "name": "연장 손잡이 먼지떨이 접이식 먼지 브러시 초극세사 가능하고 세탁 천장 청소 도구",
+          "price": 15200.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/9842953968.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9842953968",
+          "affiliate_url": "https://link.coupang.com/a/iYQ1rnObv2"
+        }
+      ]
+    },
+    "매직블럭 대용량": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6925229812,
+          "name": "월드크린 오래쓰는 슈퍼 매직블럭 본품, 40개",
+          "price": 35860,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/6925229812.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6925229812",
+          "affiliate_url": "https://link.coupang.com/a/iYQ1JhoaYe"
+        },
+        {
+          "productId": 5563064744,
+          "name": "매직스폰지 정품매직블럭 청소용품 매직폼 매직블럭(특대형50개)1개, 50개",
+          "price": 11500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/5563064744.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5563064744",
+          "affiliate_url": "https://link.coupang.com/a/iYQ1P0eeWq"
+        },
+        {
+          "productId": 6875582291,
+          "name": "월드크린 매직블럭, 20개",
+          "price": 9000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/6875582291.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6875582291",
+          "affiliate_url": "https://link.coupang.com/a/iYQ1XdUYIC"
+        },
+        {
+          "productId": 7790158804,
+          "name": "코멧 매직블럭 중형 100개 + 집게핀 1개",
+          "price": 5980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7790158804.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7790158804",
+          "affiliate_url": "https://link.coupang.com/a/iYQ16k4kG4"
+        },
+        {
+          "productId": 5301772102,
+          "name": "코멧 매직블럭 대형 90x50x30mm",
+          "price": 10710.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/5301772102.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5301772102",
+          "affiliate_url": "https://link.coupang.com/a/iYQ2kbXcDQ"
+        },
+        {
+          "productId": 199289899,
+          "name": "크린아이 매직블럭 대용량",
+          "price": 42820.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/199289899.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/199289899",
+          "affiliate_url": "https://link.coupang.com/a/iYQ2yDEj7Y"
+        }
+      ]
+    },
+    "팥 찜질팩 전자레인지": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 6570687310,
+          "name": "깨끗한나라 순수 시그니처 천연펄프 3겹 롤화장지, 27m, 30개입, 1개",
+          "price": 12870,
+          "isRocket": true,
+          "isFreeShipping": null,
+          "rank": 1,
+          "image": "assets/products/6570687310.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6570687310",
+          "affiliate_url": "https://link.coupang.com/a/iYQ2ROUeGa"
+        },
+        {
+          "productId": 1407366400,
+          "name": "헤드앤숄더 두피 토탈 솔루션 딥클린 샴푸, 1.2L, 1개",
+          "price": 10900,
+          "isRocket": true,
+          "isFreeShipping": null,
+          "rank": 2,
+          "image": "assets/products/1407366400.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1407366400",
+          "affiliate_url": "https://link.coupang.com/a/iYQ2YRZbk4"
+        },
+        {
+          "productId": 9711973763,
+          "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
+          "price": 7950,
+          "isRocket": true,
+          "isFreeShipping": null,
+          "rank": 3,
+          "image": "assets/products/9711973763.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9711973763",
+          "affiliate_url": "https://link.coupang.com/a/iYQ25vUsI8"
+        },
+        {
+          "productId": 7143428240,
+          "name": "윌리브 국산 304스텐 수저세트, 스마트샤틴, 숟가락 + 젓가락, 10세트",
+          "price": 18990,
+          "isRocket": true,
+          "isFreeShipping": null,
+          "rank": 4,
+          "image": "assets/products/7143428240.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7143428240",
+          "affiliate_url": "https://link.coupang.com/a/iYQ3b5BNXU"
+        },
+        {
+          "productId": 9633585405,
+          "name": "Lydsto 자동 분수 스마트 창문 로봇청소기 수납 케이스 증정, 화이트, WL09",
+          "price": 153190,
+          "isRocket": false,
+          "isFreeShipping": null,
+          "rank": 5,
+          "image": "assets/products/9633585405.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9633585405",
+          "affiliate_url": "https://link.coupang.com/a/iYQ3kFppCe"
+        },
+        {
+          "productId": 10000011581824,
+          "name": "[춘천] [공식판매처] 레고랜드 1일 이용권[★URL-옵션 별 날짜지정 필수★]",
+          "price": 22000,
+          "isRocket": false,
+          "isFreeShipping": null,
+          "rank": 6,
+          "image": "assets/products/10000011581824.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/10000011581824",
+          "affiliate_url": null
+        },
+        {
+          "productId": 8880536594,
+          "name": "비네이쳐스 마디에데 근육 관절패치, 40매입, 1개, 1g",
+          "price": 6880,
+          "isRocket": true,
+          "isFreeShipping": null,
+          "rank": 7,
+          "image": "assets/products/8880536594.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8880536594",
+          "affiliate_url": "https://link.coupang.com/a/iYQ3yHKR4u"
+        },
+        {
+          "productId": 6239512369,
+          "name": "풀무원샘물 무라벨, 2L, 24개",
+          "price": 9900,
+          "isRocket": true,
+          "isFreeShipping": null,
+          "rank": 8,
+          "image": "assets/products/6239512369.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6239512369",
+          "affiliate_url": "https://link.coupang.com/a/iYQ3FWwGIu"
+        }
+      ]
+    },
+    "극세사 헤어캡 드라이": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9803300774,
+          "name": "쭁쭁이네 1+1 사과 헤어타올 극세사 드라이 헤어캡 머리수건 2개 세트, 잎달린 사과+잎없는 사과, 1세트",
+          "price": 14900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9803300774.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803300774",
+          "affiliate_url": "https://link.coupang.com/a/iYQ3XV0WfA"
+        },
+        {
+          "productId": 8925430404,
+          "name": "솔버 빨리 마르는 헤어캡, 2개, 핑크+블루",
+          "price": 8000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8925430404.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8925430404",
+          "affiliate_url": "https://link.coupang.com/a/iYQ38c7ueW"
+        },
+        {
+          "productId": 9803300913,
+          "name": "쭁쭁이네 1+1 사과 헤어타올 극세사 드라이 헤어캡 머리수건 2개 세트, 1세트, 잎달린 사과+잎없는 사과",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9803300913.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9803300913",
+          "affiliate_url": "https://link.coupang.com/a/iYQ4qBdtDw"
+        },
+        {
+          "productId": 9567116058,
+          "name": "Loftylife 부드러운 피부 감촉 극세사 샤워타올 미끄럼 방지 버튼형 헤어캡 빠른 흡수 보풀 없는 여행용 드라이 타올, 1개, 화이트",
+          "price": 18000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9567116058.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9567116058",
+          "affiliate_url": "https://link.coupang.com/a/iYQ4wOGW3U"
+        },
+        {
+          "productId": 9811850616,
+          "name": "여성 캐릭터 극세사 후드 머리수건 헤어캡 헤어터번 헤어드라이타월 수면모자 세안 헤어밴드 보온 겨울 홈웨어 소품",
+          "price": 7900.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9811850616.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9811850616",
+          "affiliate_url": "https://link.coupang.com/a/iYQ4Ldsv0u"
+        },
+        {
+          "productId": 9804903881,
+          "name": "극세사 헤어타월 밴드 고정형 드라이 헤어캡 긴머리 흡수 머리수건",
+          "price": 11880.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9804903881.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9804903881",
+          "affiliate_url": "https://link.coupang.com/a/iYQ40ETvJ6"
+        },
+        {
+          "productId": 8528550232,
+          "name": "극세사헤어캡 곰돌이 헤어타올 핑크 극세사 머리 드라이 수건",
+          "price": 3740.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8528550232.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8528550232",
+          "affiliate_url": "https://link.coupang.com/a/iYQ49htx7I"
+        },
+        {
+          "productId": 9813818228,
+          "name": "새우튀김 극세사 드라이캡 헤어캡 머리수건 흡수 타월 샤워캡  헤어수건타올",
+          "price": 8980.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9813818228.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9813818228",
+          "affiliate_url": "https://link.coupang.com/a/iYQ5fI8Lgy"
+        }
+      ]
+    },
+    "극세사 샤워가운": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7762408685,
+          "name": "극세사 샤워 가운",
+          "price": 16410,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7762408685.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7762408685",
+          "affiliate_url": "https://link.coupang.com/a/iYQ5wyiChE"
+        },
+        {
+          "productId": 9761240494,
+          "name": "좋은 하루 극세사 샤워가운 부드러운 홈웨어로 남녀공용",
+          "price": 17900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/9761240494.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9761240494",
+          "affiliate_url": "https://link.coupang.com/a/iYQ5FHILiC"
+        },
+        {
+          "productId": 247753383,
+          "name": "좋은 하루 속건 와플샤워가운 홈웨어로 남녀공용, 1개, 여성용 그레이",
+          "price": 22400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/247753383.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/247753383",
+          "affiliate_url": "https://link.coupang.com/a/iYQ5LvhaEe"
+        },
+        {
+          "productId": 8531603078,
+          "name": "여성용 극세사 샤워가운",
+          "price": 13900.0,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8531603078.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8531603078",
+          "affiliate_url": "https://link.coupang.com/a/iYQ5QQw3rw"
+        },
+        {
+          "productId": 8456848413,
+          "name": "블루밍 극세사 나이트 샤워가운 100 x 100 cm",
+          "price": 9870,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8456848413.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8456848413",
+          "affiliate_url": "https://link.coupang.com/a/iYQ5WtTWUu"
+        },
+        {
+          "productId": 1942927064,
+          "name": "러브핑코 남성용 극세사 샤워가운",
+          "price": 17390,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/1942927064.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1942927064",
+          "affiliate_url": "https://link.coupang.com/a/iYQ58XGtum"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
