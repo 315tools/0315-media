@@ -1,0 +1,431 @@
+{
+  "searches": {
+    "사골곰탕": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7675260700,
+          "name": "양반 진국 사골곰탕, 500g, 14개",
+          "price": 12630,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/7675260700.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7675260700",
+          "affiliate_url": "https://link.coupang.com/a/i0vS4tDeDI"
+        },
+        {
+          "productId": 6258501948,
+          "name": "양반 한우 사골곰탕, 460g, 15개",
+          "price": 17540,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/6258501948.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6258501948",
+          "affiliate_url": "https://link.coupang.com/a/i0vTcHCleS"
+        },
+        {
+          "productId": 7527803282,
+          "name": "비비고 사골곰탕",
+          "price": 21000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7527803282.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7527803282",
+          "affiliate_url": "https://link.coupang.com/a/i0vThbJ7Qq"
+        },
+        {
+          "productId": 8107064523,
+          "name": "오뚜기옛날 사골곰탕",
+          "price": 21220,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/8107064523.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8107064523",
+          "affiliate_url": "https://link.coupang.com/a/i0vTpZ9XeC"
+        }
+      ]
+    },
+    "부대찌개 밀키트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9398259208,
+          "name": "빨간음식연구소 햄폭격 부대찌개 밀키트, 530g, 2개",
+          "price": 33300,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9398259208.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9398259208",
+          "affiliate_url": "https://link.coupang.com/a/i0vTGmHqYT"
+        },
+        {
+          "productId": 8633966193,
+          "name": "의정부식 얼큰한 부대찌개 밀키트 1kg 2팩 햄듬뿍 4~6인분 사나이쉐프, 2개, 1kg",
+          "price": 19290,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 3,
+          "image": "assets/products/8633966193.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8633966193",
+          "affiliate_url": "https://link.coupang.com/a/i0vTLoWb3Q"
+        },
+        {
+          "productId": 9496692707,
+          "name": "남선생홈푸드 국 찌개 밀키트 10종류 15인 세트",
+          "price": 59800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/9496692707.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9496692707",
+          "affiliate_url": "https://link.coupang.com/a/i0vTYX40U8"
+        },
+        {
+          "productId": 7387532866,
+          "name": "MYCHEF 놀부 부대찌개 밀키트 2인분",
+          "price": 14900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/7387532866.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7387532866",
+          "affiliate_url": "https://link.coupang.com/a/i0vT3vh8mW"
+        },
+        {
+          "productId": 296139681,
+          "name": "곰곰 더 오리지널 부대찌개",
+          "price": 14990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/296139681.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/296139681",
+          "affiliate_url": "https://link.coupang.com/a/i0vT7mRz9o"
+        },
+        {
+          "productId": 8461445185,
+          "name": "[로켓프레시] 마이셰프 쟌슨빌 부대찌개 2인분 밀키트",
+          "price": 13410,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8461445185.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8461445185",
+          "affiliate_url": "https://link.coupang.com/a/i0vUcmuQb6"
+        },
+        {
+          "productId": 2227032633,
+          "name": "정든 부대찌개 밀키트 2000g 2~3인분 송탄식 의정부식 부대찌개 전골",
+          "price": 17900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 8,
+          "image": "assets/products/2227032633.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/2227032633",
+          "affiliate_url": "https://link.coupang.com/a/i0vUgSecDs"
+        }
+      ]
+    },
+    "냉동 우동 사리": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7619565991,
+          "name": "곰곰 사누끼 우동면 (냉동)",
+          "price": 3480,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7619565991.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7619565991",
+          "affiliate_url": "https://link.coupang.com/a/i0vUBhm43E"
+        },
+        {
+          "productId": 8244534848,
+          "name": "일본 정통 사누끼 우동 (면,소스), 260g, 5개",
+          "price": 9500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/8244534848.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8244534848",
+          "affiliate_url": "https://link.coupang.com/a/i0vUN2aPKK"
+        },
+        {
+          "productId": 9746152118,
+          "name": "[로켓프레시] 면사랑 칼 사누끼우동면 5개입 (냉동), 1.15kg, 1개",
+          "price": 5980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9746152118.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9746152118",
+          "affiliate_url": "https://link.coupang.com/a/i0vU4ROwzQ"
+        },
+        {
+          "productId": 7315188832,
+          "name": "[로켓프레시] 올면 쫄깃한 납작우동면 (냉동), 200g, 5개",
+          "price": 9310,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/7315188832.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7315188832",
+          "affiliate_url": "https://link.coupang.com/a/i0vVbKfooS"
+        },
+        {
+          "productId": 9650888673,
+          "name": "쫄깃한 젠미 다마시이 생우동면 1.5Kg(주문생산), 1개, 1.5kg",
+          "price": 14500,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9650888673.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9650888673",
+          "affiliate_url": "https://link.coupang.com/a/i0vVjg6aUS"
+        },
+        {
+          "productId": 8341377794,
+          "name": "[로켓프레시] 면사랑 사누끼 우동면 5개입 (냉동)",
+          "price": 4480,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8341377794.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8341377794",
+          "affiliate_url": "https://link.coupang.com/a/i0vVpSvOCG"
+        },
+        {
+          "productId": 9192497354,
+          "name": "천일사누끼 냉동우동면 230g",
+          "price": 7410,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9192497354.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9192497354",
+          "affiliate_url": "https://link.coupang.com/a/i0vVzLxjrg"
+        },
+        {
+          "productId": 185307349,
+          "name": "한성기업 우동사리",
+          "price": 5400,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/185307349.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/185307349",
+          "affiliate_url": "https://link.coupang.com/a/i0vVN4ibMO"
+        }
+      ]
+    },
+    "국산 설향 딸기": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 9825820940,
+          "name": "방탄포장 산지직송 국산 설향딸기, 1박스, 대과350g",
+          "price": 33420,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/9825820940.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9825820940",
+          "affiliate_url": "https://link.coupang.com/a/i0vV8GqNDE"
+        },
+        {
+          "productId": 7708594893,
+          "name": "설향 딸기 대과",
+          "price": 13330,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/7708594893.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7708594893",
+          "affiliate_url": "https://link.coupang.com/a/i0vWfIcbam"
+        },
+        {
+          "productId": 7707393706,
+          "name": "하동품애 GAP 한단 설향 딸기 대과",
+          "price": 15990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7707393706.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7707393706",
+          "affiliate_url": "https://link.coupang.com/a/i0vWqWRaOO"
+        },
+        {
+          "productId": 344962853,
+          "name": "딜라잇가든 국산 딸기 (냉동)",
+          "price": 8370,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/344962853.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/344962853",
+          "affiliate_url": "https://link.coupang.com/a/i0vWEBr8vs"
+        },
+        {
+          "productId": 8921485411,
+          "name": "[로켓프레시] 폴앤박 스마트팜 딸기",
+          "price": 14990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/8921485411.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8921485411",
+          "affiliate_url": "https://link.coupang.com/a/i0vWKt4gwK"
+        },
+        {
+          "productId": 9826515843,
+          "name": "[26년 첫출하] 초고당도 생딸기 국산 프리미엄 설향딸기",
+          "price": 23900,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/9826515843.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9826515843",
+          "affiliate_url": "https://link.coupang.com/a/i0vWYKxD88"
+        },
+        {
+          "productId": 6468198646,
+          "name": "[로켓프레시] 감미인영농조합법인 국내산 딸기 (냉동)",
+          "price": 7990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/6468198646.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6468198646",
+          "affiliate_url": "https://link.coupang.com/a/i0vXcoZt1w"
+        }
+      ]
+    },
+    "연유 튜브": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 5446188,
+          "name": "서울우유 연유 튜브형",
+          "price": 6670,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 1,
+          "image": "assets/products/5446188.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5446188",
+          "affiliate_url": "https://link.coupang.com/a/i0vXxSxNca"
+        },
+        {
+          "productId": 8312789832,
+          "name": "(서울우유) 연유 200g 튜브형",
+          "price": 3300.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8312789832.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8312789832",
+          "affiliate_url": "https://link.coupang.com/a/i0vXDZDpEy"
+        },
+        {
+          "productId": 49569,
+          "name": "서강 크리밀 튜브 연유 500g",
+          "price": 980,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/49569.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/49569",
+          "affiliate_url": "https://link.coupang.com/a/i0vXLnuosC"
+        },
+        {
+          "productId": 7158379673,
+          "name": "베트남 연유 튜브 비나밀크 옹토 연유165G Ong Tho",
+          "price": 18400.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/7158379673.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7158379673",
+          "affiliate_url": "https://link.coupang.com/a/i0vXYEWINM"
+        },
+        {
+          "productId": 6137287622,
+          "name": "서울우유 연유",
+          "price": 9580,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/6137287622.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6137287622",
+          "affiliate_url": "https://link.coupang.com/a/i0vX7KJbZA"
+        },
+        {
+          "productId": 7475831356,
+          "name": "()(_)() 8585 서강유업 서강연유 크리밀 5kg",
+          "price": 35020.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/7475831356.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7475831356",
+          "affiliate_url": "https://link.coupang.com/a/i0vYeFIrZc"
+        }
+      ]
+    },
+    "플레인 그릭요거트": {
+      "key": "C",
+      "items": [
+        {
+          "productId": 7216495213,
+          "name": "[로켓프레시] 매일바이오 그릭요거트 무가당 플레인",
+          "price": 3980,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7216495213.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7216495213",
+          "affiliate_url": "https://link.coupang.com/a/i0vYvCGBki"
+        },
+        {
+          "productId": 8787833517,
+          "name": "[로켓프레시] 매일바이오 그릭요거트 플레인",
+          "price": 3230,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/8787833517.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8787833517",
+          "affiliate_url": "https://link.coupang.com/a/i0vYBFNS9Y"
+        },
+        {
+          "productId": 9281513889,
+          "name": "[로켓프레시] 매일바이오 그릭요거트 무가당 플레인",
+          "price": 17940,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9281513889.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9281513889",
+          "affiliate_url": "https://link.coupang.com/a/i0vYKnASpU"
+        },
+        {
+          "productId": 331527359,
+          "name": "[로켓프레시] 요즘 그릭요거트 플레인",
+          "price": 2970,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/331527359.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/331527359",
+          "affiliate_url": "https://link.coupang.com/a/i0vYPXhbYO"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
