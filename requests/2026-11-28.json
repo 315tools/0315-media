@@ -1,0 +1,10 @@
+{
+ "searches": [
+  {"key":"A","keyword":"전기 족욕기","limit":8},
+  {"key":"A","keyword":"온열 어깨 찜질기","limit":8},
+  {"key":"A","keyword":"무릎 온열 찜질기","limit":8},
+  {"key":"A","keyword":"미니 전기오븐","limit":8},
+  {"key":"A","keyword":"무선 핸디 청소기","limit":8},
+  {"key":"A","keyword":"전자레인지","limit":8}
+ ]
+}
