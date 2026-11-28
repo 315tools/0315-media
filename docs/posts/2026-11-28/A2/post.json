@@ -1,0 +1,35 @@
+{
+  "title": "블랙프라이데이 주말, 가전도 할인…최종 결제액 비교",
+  "slot": 2,
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n[생활뉴스] 블랙프라이데이 주말 🛍️ 가전도 할인, 사기 전에 이것만 확인\n\n· 쿠팡 가전·디지털 블랙프라이데이 기획전 29일까지 — 전자레인지·미니오븐·청소기, 난방·건강 가전도 할인 대상\n· G마켓 30일까지 최대 78% 할인\n· 롯데온 30일까지 '11월 라스트찬스'\n· 11번가 '블랙 패션 위크' 29일까지(행사 상품 최대 30%)\n· 무신사 12월 2일까지, 유니클로 겨울 감사제 12월 10일까지\n\n사기 전에\n· 할인율은 상품·회원 등급·결제 수단에 따라 달라요\n· '최대 할인율'보다 평소 판매가와 쿠폰 적용 후 최종 결제액을 비교\n· 업체마다 종료일·할인 조건이 달라요\n\n🔗 작은 집 기본 가전 ①~③은 프로필 링크에 있어요 (할인 여부·가격은 링크에서 확인)\n🛒 더 많은 가전은 @0315_pick\n\n출처: 세계일보(2026.11.28)\n\n#광고 #생활뉴스 #소비 #블랙프라이데이 #블프 #소형가전 #자취템",
+  "products": [
+    {
+      "no": 1,
+      "name": "제니퍼룸 미니 오븐 토스터 JR-OT12OM",
+      "coupang_url": "https://www.coupang.com/vp/products/24205802",
+      "affiliate_url": "https://link.coupang.com/a/i2aSDW5T8S"
+    },
+    {
+      "no": 2,
+      "name": "홈마블 무선 핸디형 청소기 H80",
+      "coupang_url": "https://www.coupang.com/vp/products/1279673092",
+      "affiliate_url": "https://link.coupang.com/a/i2aT3xNBC0"
+    },
+    {
+      "no": 3,
+      "name": "쿠쿠 전자레인지 다이얼식 20L",
+      "coupang_url": "https://www.coupang.com/vp/products/6784715012",
+      "affiliate_url": "https://link.coupang.com/a/i2aVDL80tg"
+    }
+  ],
+  "channel": "A",
+  "date": "2026-11-28",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}

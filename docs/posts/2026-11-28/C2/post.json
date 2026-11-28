@@ -1,0 +1,38 @@
+{
+  "title": "작은 집 기본 가전 BEST3",
+  "slot": 2,
+  "caption": "[광고] 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\n\n블프 주말 🛍️ 작은 집 기본 가전 BEST3\n\n❤️구매 방법❤️\n프로필 링크 클릭 → 품번 검색\n\n1. 제니퍼룸 미니 오븐 토스터 JR-OT12OM 💛 품번 0223\n토스트 굽고 식은 음식 데우기.\n\n2. 홈마블 무선 핸디형 청소기 H80 💛 품번 0224\n선 없이 책상·소파 틈새 청소.\n\n3. 쿠쿠 전자레인지 다이얼식 20L 💛 품번 0225\n다이얼 돌리면 끝나는 기본 전자레인지.\n\n✔ 블프 할인율은 회원 등급·결제 수단마다 달라요 — 최종 결제액 비교하기\n\n※ 블프 정보: 세계일보(11/28)\n※ 11/28 쿠팡 검색 기준 · 가격은 바뀔 수 있어요 · 할인 여부는 링크에서 확인\n\n#광고 #쿠팡추천템 #소형가전 #블랙프라이데이 #미니오븐 #핸디청소기 #전자레인지",
+  "products": [
+    {
+      "no": 1,
+      "name": "제니퍼룸 미니 오븐 토스터 JR-OT12OM",
+      "coupang_url": "https://www.coupang.com/vp/products/24205802",
+      "affiliate_url": "https://link.coupang.com/a/i2a0SegCXI",
+      "code": "0223"
+    },
+    {
+      "no": 2,
+      "name": "홈마블 무선 핸디형 청소기 H80",
+      "coupang_url": "https://www.coupang.com/vp/products/1279673092",
+      "affiliate_url": "https://link.coupang.com/a/i2a0UwqUDI",
+      "code": "0224"
+    },
+    {
+      "no": 3,
+      "name": "쿠쿠 전자레인지 다이얼식 20L",
+      "coupang_url": "https://www.coupang.com/vp/products/6784715012",
+      "affiliate_url": "https://link.coupang.com/a/i2a0WfJhN6",
+      "code": "0225"
+    }
+  ],
+  "channel": "C",
+  "date": "2026-11-28",
+  "slides": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg"
+  ],
+  "result": {}
+}
