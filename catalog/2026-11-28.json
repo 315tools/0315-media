@@ -1,0 +1,530 @@
+{
+  "searches": {
+    "전기 족욕기": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 1152876614,
+          "name": "온바디 프리미엄 원적외선 건식 좌훈 족욕기 좌욕기 겸용 가정용, 상세 설명 참조",
+          "price": 198100,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/1152876614.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1152876614",
+          "affiliate_url": "https://link.coupang.com/a/i2aNdgqqsK"
+        },
+        {
+          "productId": 8585020151,
+          "name": "디웰 프라임 족욕기, DFB-2201N, 혼합색상",
+          "price": 109000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8585020151.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8585020151",
+          "affiliate_url": "https://link.coupang.com/a/i2aNwVdDps"
+        },
+        {
+          "productId": 7345491394,
+          "name": "비타그램 접이식 족욕기, VG-FB1000, 로즈골드",
+          "price": 34900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7345491394.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7345491394",
+          "affiliate_url": "https://link.coupang.com/a/i2aNYE5cwm"
+        },
+        {
+          "productId": 9376180298,
+          "name": "휴고스 프리미엄 습식 족욕기 21리터 대형 대용량 발 마시지 족탕기 스파 찜질 지압 온도조절 타이머 리모컨, 화이트, SR-F310",
+          "price": 94500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9376180298.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9376180298",
+          "affiliate_url": "https://link.coupang.com/a/i2aOtRuLtI"
+        },
+        {
+          "productId": 9179127390,
+          "name": "카멜레온 다용도 토르마린 건식 족욕기",
+          "price": 39800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9179127390.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9179127390",
+          "affiliate_url": "https://link.coupang.com/a/i2aOIBTPwa"
+        },
+        {
+          "productId": 9783027176,
+          "name": "Funny Home 접이식 전기족탕기",
+          "price": 15990.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9783027176.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9783027176",
+          "affiliate_url": "https://link.coupang.com/a/i2aOUKTh00"
+        },
+        {
+          "productId": 7751174692,
+          "name": "한일전기 습식족욕기 스파 족욕기 족탕기 순환샤워 온도조절 디지털 각탕기 마사지볼 20리터",
+          "price": 138000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/7751174692.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7751174692",
+          "affiliate_url": "https://link.coupang.com/a/i2aO7Kbh12"
+        },
+        {
+          "productId": 9764275645,
+          "name": "애쯔 프리미엄 발 족욕기 족욕통 습식 족탕기",
+          "price": 59800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9764275645.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9764275645",
+          "affiliate_url": "https://link.coupang.com/a/i2aPg4UDLg"
+        }
+      ]
+    },
+    "온열 어깨 찜질기": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 9089109397,
+          "name": "cirius 근적외선 LED 어깨마사지 온열기, 블루, PH-LS05",
+          "price": 91140,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/9089109397.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9089109397",
+          "affiliate_url": "https://link.coupang.com/a/i2aPBG4hxZ"
+        },
+        {
+          "productId": 9750759400,
+          "name": "어깨온열찜질기 근적외선 원적외선 어깨관절 KC인증 웰나우 신플러스 대용량 무선 전기찜질기, 어깨Black, 어깨찜질기WN-2000",
+          "price": 207000,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 2,
+          "image": "assets/products/9750759400.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9750759400",
+          "affiliate_url": "https://link.coupang.com/a/i2aPIUQSGa"
+        },
+        {
+          "productId": 7435285276,
+          "name": "테슬테즐 전기 온열 어깨 찜질기 프리미엄 네오플랜 블랙, PS-A1, 네오플랜 블랙",
+          "price": 49800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/7435285276.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7435285276",
+          "affiliate_url": "https://link.coupang.com/a/i2aPQCsGv6"
+        },
+        {
+          "productId": 8002410969,
+          "name": "어깨 전용 전기찜질기, SH1300",
+          "price": 38000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8002410969.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8002410969",
+          "affiliate_url": "https://link.coupang.com/a/i2aP4gaO4W"
+        },
+        {
+          "productId": 9766497063,
+          "name": "온어깨 어깨 찜질기 온열 전기 목 찜질",
+          "price": 57800.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 5,
+          "image": "assets/products/9766497063.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9766497063",
+          "affiliate_url": "https://link.coupang.com/a/i2aQh4ugVg"
+        },
+        {
+          "productId": 9173900526,
+          "name": "Mochae 온열 어깨 찜질팩 전기 목 등 찜질팩 3단 온도 조절 4단계 타이머 허리 배 스마트 온열매트 방한 케이프 물세탁 가능",
+          "price": 62980.0,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9173900526.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9173900526",
+          "affiliate_url": "https://link.coupang.com/a/i2aQrdgofY"
+        },
+        {
+          "productId": 99304208,
+          "name": "세종 참숯 옥 맥반석 찜질기 어깨전용",
+          "price": 39000.0,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/99304208.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/99304208",
+          "affiliate_url": "https://link.coupang.com/a/i2aQBMK004"
+        }
+      ]
+    },
+    "무릎 온열 찜질기": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 8578597633,
+          "name": "온담셀 3in1 무릎 찜질기 근적외선",
+          "price": 89000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/8578597633.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8578597633",
+          "affiliate_url": "https://link.coupang.com/a/i2aQ3DqXfw"
+        },
+        {
+          "productId": 1625272458,
+          "name": "스마일마더 온열 무릎 찜질기, K0701-D8, 혼합색상",
+          "price": 45680,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/1625272458.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1625272458",
+          "affiliate_url": "https://link.coupang.com/a/i2aQ96iUuW"
+        },
+        {
+          "productId": 6298106193,
+          "name": "테슬테즐 전기 온열 무릎 찜질기 프리미엄형, PK-A1, 혼합색상",
+          "price": 48380,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/6298106193.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6298106193",
+          "affiliate_url": "https://link.coupang.com/a/i2aRonzrBQ"
+        },
+        {
+          "productId": 8880318756,
+          "name": "지피고 어깨 무릎찜질기 마사지기, 그레이 2개, ZIPIGO",
+          "price": 129000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8880318756.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8880318756",
+          "affiliate_url": "https://link.coupang.com/a/i2aRwba5PE"
+        },
+        {
+          "productId": 9009420295,
+          "name": "nimin 무릎 마사지기 무릎 찜질기 진동 안마 편안한 레드 라이트 온열 기능 보호대 좌우겸용",
+          "price": 29900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9009420295.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9009420295",
+          "affiliate_url": "https://link.coupang.com/a/i2aRJ4ZlFk"
+        },
+        {
+          "productId": 8337624056,
+          "name": "Hanil 한일의료기 원적외선 전기온열 무릎 찜질기",
+          "price": 42300,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/8337624056.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8337624056",
+          "affiliate_url": "https://link.coupang.com/a/i2aRQ0Q8FE"
+        },
+        {
+          "productId": 99304203,
+          "name": "세종 참숯옥 맥반석 무릎관절 찜질기",
+          "price": 33000,
+          "isRocket": false,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/99304203.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/99304203",
+          "affiliate_url": "https://link.coupang.com/a/i2aR24ptcW"
+        },
+        {
+          "productId": 7078177246,
+          "name": "테슬테즐 황토 무릎 전기 온열 찜질기",
+          "price": 41800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/7078177246.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7078177246",
+          "affiliate_url": "https://link.coupang.com/a/i2aSfHjUrc"
+        }
+      ]
+    },
+    "미니 전기오븐": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 24205802,
+          "name": "제니퍼룸 미니 오븐 토스터 오트밀, JR-OT12OM",
+          "price": 42320,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/24205802.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/24205802",
+          "affiliate_url": "https://link.coupang.com/a/i2aSDW5T8S"
+        },
+        {
+          "productId": 4650284239,
+          "name": "키친아트 20L 전기 오븐 고객직접설치, KNOV-C20",
+          "price": 60900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/4650284239.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4650284239",
+          "affiliate_url": "https://link.coupang.com/a/i2aSQimsOO"
+        },
+        {
+          "productId": 9468567037,
+          "name": "Munjjing 오븐 에어프라이어 18L 대용량 오븐 에어프라이어, 흰색, KZ1505",
+          "price": 55800,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9468567037.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9468567037",
+          "affiliate_url": "https://link.coupang.com/a/i2aSXMkcmG"
+        },
+        {
+          "productId": 6562922735,
+          "name": "리빙웰 46L 컨벡션 오븐 홈베이킹 제과 제빵 가정용 OV460, OV460",
+          "price": 149800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 4,
+          "image": "assets/products/6562922735.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6562922735",
+          "affiliate_url": "https://link.coupang.com/a/i2aS5gVcHY"
+        },
+        {
+          "productId": 6202253009,
+          "name": "마이디어 미니오븐 8L 자가설치",
+          "price": 32900,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6202253009.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6202253009",
+          "affiliate_url": "https://link.coupang.com/a/i2aTbTRxDg"
+        },
+        {
+          "productId": 8966499304,
+          "name": "쿡스타 오븐 토스터기 9L NKTOT-1000 (당일발송)",
+          "price": 29760,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 6,
+          "image": "assets/products/8966499304.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8966499304",
+          "affiliate_url": "https://link.coupang.com/a/i2aTl68CPc"
+        },
+        {
+          "productId": 9223619689,
+          "name": "HUID 가정용 다기능 오븐기 가정용 베이킹 전기오븐12L",
+          "price": 28800,
+          "isRocket": false,
+          "isFreeShipping": true,
+          "rank": 7,
+          "image": "assets/products/9223619689.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9223619689",
+          "affiliate_url": "https://link.coupang.com/a/i2aTwfR7V6"
+        },
+        {
+          "productId": 175507326,
+          "name": "라쿠진 시니그처 리얼 컴팩트 미니 전기오븐 자가설치",
+          "price": 119000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/175507326.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/175507326",
+          "affiliate_url": "https://link.coupang.com/a/i2aTCSBG9s"
+        }
+      ]
+    },
+    "무선 핸디 청소기": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 7580934094,
+          "name": "2세대 ROMIN 무선 미니 청소기 에어건 진공 핸드청소기 소형 저렴한 원룸 머리카락 핸디, [2세대] ROMIN 미니청소기, 단일색상",
+          "price": 33450,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7580934094.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7580934094",
+          "affiliate_url": "https://link.coupang.com/a/i2aTWs0u1A"
+        },
+        {
+          "productId": 1279673092,
+          "name": "홈마블 무선 핸디형 청소기, 혼합색상, H80",
+          "price": 45350,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/1279673092.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/1279673092",
+          "affiliate_url": "https://link.coupang.com/a/i2aT3xNBC0"
+        },
+        {
+          "productId": 5234137115,
+          "name": "홈플래닛 무선 핸디 청소기",
+          "price": 27990,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/5234137115.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/5234137115",
+          "affiliate_url": "https://link.coupang.com/a/i2aUay3L6y"
+        },
+        {
+          "productId": 8134983684,
+          "name": "보만 차량 가정용 핸디형 무선청소기, 화이트, VC7210PL",
+          "price": 57000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/8134983684.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8134983684",
+          "affiliate_url": "https://link.coupang.com/a/i2aUicWIjQ"
+        },
+        {
+          "productId": 9427713974,
+          "name": "디에스가추몰 충전식 무선 멀티 핸디 청소기 강력 흡입 초경량 진공청소기",
+          "price": 16690,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/9427713974.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9427713974",
+          "affiliate_url": "https://link.coupang.com/a/i2aUokaN52"
+        },
+        {
+          "productId": 9200783500,
+          "name": "YUON 강력 무선청소기 먼지 흡입과 바람 부는 겸용 휴대용 청소기 차량용/가정용 L3",
+          "price": 39000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/9200783500.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9200783500",
+          "affiliate_url": "https://link.coupang.com/a/i2aUCEuQ6m"
+        },
+        {
+          "productId": 8261525488,
+          "name": "넥소버 핸디 무선 청소기 소형 미니청소기 NXV-101A",
+          "price": 39200,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 7,
+          "image": "assets/products/8261525488.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8261525488",
+          "affiliate_url": "https://link.coupang.com/a/i2aUKGgbaS"
+        },
+        {
+          "productId": 9425750085,
+          "name": "디에스가추몰 무선 핸디 청소기 휴대식 청소기 차량 가정 겸용",
+          "price": 9500,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 8,
+          "image": "assets/products/9425750085.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9425750085",
+          "affiliate_url": "https://link.coupang.com/a/i2aURrP3Uy"
+        }
+      ]
+    },
+    "전자레인지": {
+      "key": "A",
+      "items": [
+        {
+          "productId": 7939925865,
+          "name": "매직쉐프 업소용 올스텐 무회전 플랫 전자레인지 25L 전자렌지 스텐 전자레인지 편의점 전자랜지 버튼식 전자레인지 핫딜체크, MMW-WC25TES",
+          "price": 199000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 1,
+          "image": "assets/products/7939925865.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/7939925865",
+          "affiliate_url": "https://link.coupang.com/a/i2aU8LRmGy"
+        },
+        {
+          "productId": 8266941078,
+          "name": "LG전자 디오스 오브제 컬렉션 전자레인지 판넬터치식 20L, MWJ20EDN",
+          "price": 152000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 2,
+          "image": "assets/products/8266941078.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/8266941078",
+          "affiliate_url": "https://link.coupang.com/a/i2aVfU6nJI"
+        },
+        {
+          "productId": 9752558653,
+          "name": "무회전 대용량 스텐 전자 레인지 25리터 전자렌지, MMW-25LPLAT",
+          "price": 196530,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 3,
+          "image": "assets/products/9752558653.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9752558653",
+          "affiliate_url": "https://link.coupang.com/a/i2aVnxD9IO"
+        },
+        {
+          "productId": 9710532641,
+          "name": "LG전자 DIOS 오브제컬렉션 전자레인지 23L, MWJ23PI",
+          "price": 168940,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 4,
+          "image": "assets/products/9710532641.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/9710532641",
+          "affiliate_url": "https://link.coupang.com/a/i2aVwGMHBI"
+        },
+        {
+          "productId": 6784715012,
+          "name": "쿠쿠 전자레인지 다이얼식 20L",
+          "price": 57000,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 5,
+          "image": "assets/products/6784715012.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/6784715012",
+          "affiliate_url": "https://link.coupang.com/a/i2aVDL80tg"
+        },
+        {
+          "productId": 4882898698,
+          "name": "홈플래닛 전자레인지 다이얼식 20L",
+          "price": 45890,
+          "isRocket": true,
+          "isFreeShipping": false,
+          "rank": 6,
+          "image": "assets/products/4882898698.jpg",
+          "coupang_url": "https://www.coupang.com/vp/products/4882898698",
+          "affiliate_url": "https://link.coupang.com/a/i2aVKmEw8q"
+        }
+      ]
+    }
+  },
+  "urls": []
+}
